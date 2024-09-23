@@ -1,0 +1,12 @@
+{% extends "templates/tm_base.html" %}
+
+  <title>{% block title %}Inicio{% endblock %} </title>
+
+  {% block body_class %}class="sub_page"{% endblock %}
+
+  {% block header%} {% include 'templates/header_section.html' %} {% endblock %}
+  {% block slider%} {% include 'templates/slider_section.html' %} {% endblock %}
+  
+  {% block content %}    
+    {% include 'templates/info_section.html' %}
+  {% endblock %}

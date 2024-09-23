@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "autoname": "format:CatOcupacional-{categid}",
+ "creation": "2024-07-22 19:53:05.265286",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "categid",
+  "categocodigo",
+  "categodescripcion"
+ ],
+ "fields": [
+  {
+   "fieldname": "categid",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "CategId"
+  },
+  {
+   "fieldname": "categocodigo",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "CategOCodigo"
+  },
+  {
+   "fieldname": "categodescripcion",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "CategODescripcion"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-22 19:15:35.181106",
+ "modified_by": "Administrator",
+ "module": "Tm Webservices Nomina",
+ "name": "WSCatOcupacional",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "categodescripcion",
+ "track_changes": 1
+}

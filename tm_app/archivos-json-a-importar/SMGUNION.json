@@ -1,0 +1,1179 @@
+{
+"SMGUNION": [
+	{
+		"OrganCodigo" : "020",
+		"UnionCodigo" : "05",
+		"UnionDescripcion" : "Grupo DE ADMON EMP S.A.",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "020",
+		"UnionCodigo" : "06",
+		"UnionDescripcion" : "Cadena de Tiendas Caribe",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "020",
+		"UnionCodigo" : "07",
+		"UnionDescripcion" : "Inmobiliarias de las FAR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "020",
+		"UnionCodigo" : "08",
+		"UnionDescripcion" : "Serv Ing para Dir Integ Proy Mariel",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "102",
+		"UnionCodigo" : "09",
+		"UnionDescripcion" : "Gpo EMP DE LA IND SIDERO MECANICA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "102",
+		"UnionCodigo" : "10",
+		"UnionDescripcion" : "Gpo EMP DE LA INDUSTRIA LIGERA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "102",
+		"UnionCodigo" : "11",
+		"UnionDescripcion" : "Gpo EMP DE LA INDUSTRIA QUIMICA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "102",
+		"UnionCodigo" : "12",
+		"UnionDescripcion" : "Gpo IND ELEC, LA INF, AUT Y COMUNIC",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "102",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "104",
+		"UnionCodigo" : "01",
+		"UnionDescripcion" : "UNION ELECTRICA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-01-04T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "104",
+		"UnionCodigo" : "02",
+		"UnionDescripcion" : "UNION CUBAPETROLEO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-01-04T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "104",
+		"UnionCodigo" : "03",
+		"UnionDescripcion" : "GRUPO EMPRESARIAL DEL NIQUEL",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-01-04T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "104",
+		"UnionCodigo" : "04",
+		"UnionDescripcion" : "GRUPO EMPRESARIAL GEOMINSAL",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-01-04T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "104",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "111",
+		"UnionCodigo" : "13",
+		"UnionDescripcion" : "GPO EMP INDUSTRIA ALIMENTARIA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "111",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "113",
+		"UnionCodigo" : "14",
+		"UnionDescripcion" : "ENTIDADES DE REC HIDRAULICOS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "113",
+		"UnionCodigo" : "15",
+		"UnionDescripcion" : "Gpo EMP DE AGUA Y SANEAMIENTO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "113",
+		"UnionCodigo" : "16",
+		"UnionDescripcion" : "Gpo EMP GESTION DE AGUAS TERRESTRES",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "126",
+		"UnionCodigo" : "17",
+		"UnionDescripcion" : "Gpo EMP DE CONST Y MONTAJE, GECONS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "126",
+		"UnionCodigo" : "18",
+		"UnionDescripcion" : "Gpo EMP DE MAT DE CONST, GEICON",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "126",
+		"UnionCodigo" : "19",
+		"UnionDescripcion" : "Gpo EMP DIS ING DE CONST, GEDIC",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "126",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "21",
+		"UnionDescripcion" : "Gpo EMP AGROP. Y FORESTAL MAYABEQUE",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "22",
+		"UnionDescripcion" : "Gpo EMP GANADERO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "23",
+		"UnionDescripcion" : "Gpo EMP DE LOGISTICA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "24",
+		"UnionDescripcion" : "Gpo EMP AGRICOLA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "25",
+		"UnionDescripcion" : "Gpo EMP FLORA Y FAUNA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "26",
+		"UnionDescripcion" : "Gpo EMP DE PROD BIOFARMAC Y QUIM",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "27",
+		"UnionDescripcion" : "Gpo EMP AGROFORESTAL",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "28",
+		"UnionDescripcion" : "Gpo EMP DE TABACO DE CUBA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "151",
+		"UnionCodigo" : "29",
+		"UnionDescripcion" : "Gpo EMP CONSTRUCTOR DEL TRANS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "151",
+		"UnionCodigo" : "30",
+		"UnionDescripcion" : "Gpo EMP DE SERVS DE TRANS AUTOMOTOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "151",
+		"UnionCodigo" : "31",
+		"UnionDescripcion" : "UNION DE FERROCARRILES DE CUBA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "151",
+		"UnionCodigo" : "32",
+		"UnionDescripcion" : "Gpo EMP DE NAVIERAS DE CUBA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "151",
+		"UnionCodigo" : "33",
+		"UnionDescripcion" : "Gpo EMP DE TRANS MARITIMO PORT",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "151",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "161",
+		"UnionCodigo" : "34",
+		"UnionDescripcion" : "Gpo EMP CORREOS DE CUBA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "161",
+		"UnionCodigo" : "35",
+		"UnionDescripcion" : "Gpo EMP DE LA INF Y LAS COMUNIC",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "161",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "171",
+		"UnionCodigo" : "36",
+		"UnionDescripcion" : "Gpo EMP MAY PROD ALIM Y OTRO B CONS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "171",
+		"UnionCodigo" : "37",
+		"UnionDescripcion" : "Gpo COMERC. DE PROD IND Y DE SERV",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "171",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "174",
+		"UnionCodigo" : "38",
+		"UnionDescripcion" : "Gpo EMP DEL COMERCIO EXTERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "174",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "211",
+		"UnionCodigo" : "39",
+		"UnionDescripcion" : "AG DE ENERG NUCLEAR Y TECN DE AVANZ",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "211",
+		"UnionCodigo" : "40",
+		"UnionDescripcion" : "AGENCIA DE MEDIO AMBIENTE",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "211",
+		"UnionCodigo" : "41",
+		"UnionDescripcion" : "Gpo EMP DE LA CIENC, TEC Y MED AMB",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "211",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "221",
+		"UnionCodigo" : "42",
+		"UnionDescripcion" : "Gpo EMP DEL MINISTERIO DE EDUCACION",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "221",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "223",
+		"UnionCodigo" : "43",
+		"UnionDescripcion" : "Gpo EMP DEL MIN DE EDUC SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "223",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "233",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "234",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "241",
+		"UnionCodigo" : "44",
+		"UnionDescripcion" : "Gpo EMP P. EL ASEG DE LA SALUD PUB",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "241",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "242",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "249",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "251",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "253",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "254",
+		"UnionCodigo" : "45",
+		"UnionDescripcion" : "Gpo DE SEG Y SERV FINANCDE CUBA SA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "254",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "256",
+		"UnionCodigo" : "46",
+		"UnionDescripcion" : "UDAD DE ADM COM CENT DEL MIN DE INT",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "256",
+		"UnionCodigo" : "47",
+		"UnionDescripcion" : "Gpo EMP \"CAMPISMO POPULAR\"",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "256",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "257",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "258",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "259",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "261",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "262",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "263",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "264",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "267",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "268",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "271",
+		"UnionCodigo" : "48",
+		"UnionDescripcion" : "UNION DE INDUSTRIA MILITAR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "271",
+		"UnionCodigo" : "49",
+		"UnionDescripcion" : "UNION DE CONTRUCCIONES MILITARES",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "271",
+		"UnionCodigo" : "50",
+		"UnionDescripcion" : "UNION AGROPECUARIA MILITAR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "271",
+		"UnionCodigo" : "51",
+		"UnionDescripcion" : "GRUPO  EMP GEOCUBA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "271",
+		"UnionCodigo" : "52",
+		"UnionDescripcion" : "UNIDAD ADM COM CENT DE LAS FAR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "271",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "272",
+		"UnionCodigo" : "53",
+		"UnionDescripcion" : "GRUPO EMP CONSTRUCTOR MININT",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "272",
+		"UnionCodigo" : "54",
+		"UnionDescripcion" : "GRUPO EMP AGROP. MININT ",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "272",
+		"UnionCodigo" : "55",
+		"UnionDescripcion" : "UDAD ADMON COMERCIAL CTRAL MININT ",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "272",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "300",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "301",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "302",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "304",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "305",
+		"UnionCodigo" : "56",
+		"UnionDescripcion" : "GRUPO AZUCARERO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "305",
+		"UnionCodigo" : "57",
+		"UnionDescripcion" : "GRUPO EMP DE RECICLAJE",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "305",
+		"UnionCodigo" : "58",
+		"UnionDescripcion" : "GRUPO EMP DE ACOPIO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "305",
+		"UnionCodigo" : "59",
+		"UnionDescripcion" : "GRUPO EMP DE AGUA Y SANEAMIENTO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "305",
+		"UnionCodigo" : "60",
+		"UnionDescripcion" : "Gpo EMPGESTION DE  AGUAS TERRESTRES",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "305",
+		"UnionCodigo" : "61",
+		"UnionDescripcion" : "SUBORDINADO AL ORGANISMO SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "306",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "311",
+		"UnionCodigo" : "62",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO PINAR DEL RIO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "311",
+		"UnionCodigo" : "63",
+		"UnionDescripcion" : "GRUPO EMP TRANS PINAR DEL RIO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "311",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "312",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "313",
+		"UnionCodigo" : "64",
+		"UnionDescripcion" : "Gpo EMP CONSTRUCTOR DE LA HABANA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "313",
+		"UnionCodigo" : "65",
+		"UnionDescripcion" : "UNION DE EMP. COM GASTRON. HABANA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "313",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "314",
+		"UnionCodigo" : "66",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE MATANZAS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "314",
+		"UnionCodigo" : "67",
+		"UnionDescripcion" : "Gpo EMP DE INDUST Y ARTESANIA MTZAS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "314",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "315",
+		"UnionCodigo" : "68",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE VILLA CLARA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "315",
+		"UnionCodigo" : "69",
+		"UnionDescripcion" : "Gpo EMP IND Y ARTESANIA  V. CLARA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "315",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "316",
+		"UnionCodigo" : "70",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE CIENFUEGOS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "316",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "317",
+		"UnionCodigo" : "71",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO SANCTI SPIRITUS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "317",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "318",
+		"UnionCodigo" : "72",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE C. DE AVILA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "318",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "319",
+		"UnionCodigo" : "73",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE CAMAGUEY",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "319",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "320",
+		"UnionCodigo" : "74",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE LAS TUNAS",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "320",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "321",
+		"UnionCodigo" : "75",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE HOLGUIN",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "321",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "322",
+		"UnionCodigo" : "76",
+		"UnionDescripcion" : "Gpo EMP DE COMERCIO DE GRANMA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "322",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "323",
+		"UnionCodigo" : "77",
+		"UnionDescripcion" : "Gpo EMP COMERCIO SANTIAGO deCUBA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "323",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "324",
+		"UnionCodigo" : "78",
+		"UnionDescripcion" : "Gpo EMP  COMERCIO DE GUANTANAMO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "324",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "325",
+		"UnionCodigo" : "79",
+		"UnionDescripcion" : "Gpo EMP DE LA ISLA DE LA JUVENTUD",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "325",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "326",
+		"UnionCodigo" : "80",
+		"UnionDescripcion" : "Gpo EMP ARTEMISA",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "326",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "327",
+		"UnionCodigo" : "81",
+		"UnionDescripcion" : "Gpo EMP MAYABEQUE",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "327",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "501",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "502",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "504",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "505",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "506",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "507",
+		"UnionCodigo" : "99",
+		"UnionDescripcion" : "SUBORDINADO AL ORG. SUPERIOR",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "654",
+		"UnionCodigo" : "82",
+		"UnionDescripcion" : "Gpo EMP PALCO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "658",
+		"UnionCodigo" : "83",
+		"UnionDescripcion" : "Gpo AZUCARERO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "692",
+		"UnionCodigo" : "84",
+		"UnionDescripcion" : "Gpo DE LAS IND BIOTECNOL Y FARMAC",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "743",
+		"UnionCodigo" : "85",
+		"UnionDescripcion" : "Gpo EMP DE RECICLAJE",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "744",
+		"UnionCodigo" : "86",
+		"UnionDescripcion" : "Gpo EMP DE ACOPIO",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "998",
+		"UnionCodigo" : "87",
+		"UnionDescripcion" : "No se subordina a un Organismo",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	},
+	{
+		"OrganCodigo" : "999",
+		"UnionCodigo" : "88",
+		"UnionDescripcion" : "Organismo Desconocido",
+		"UnionUI" : 1,
+		"UnionFechaModif" : "2021-06-07T17:30:00.000Z",
+		"UnionActivo" : 1
+	}
+]}

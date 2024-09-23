@@ -1,0 +1,46 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:accionista-crm-{#####}",
+ "creation": "2024-08-18 18:14:38.047360",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "accionista",
+  "column_break_cdci",
+  "nacionalidad"
+ ],
+ "fields": [
+  {
+   "fieldname": "accionista",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Accionista"
+  },
+  {
+   "fieldname": "column_break_cdci",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "nacionalidad",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nacionalidad"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-09-15 20:01:47.408994",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Accionistas Proveedor Extranjero",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

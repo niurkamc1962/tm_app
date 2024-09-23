@@ -1,0 +1,843 @@
+{
+"TEMUNICIPIOS": [
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 1,
+		"MunicNombre" : "SANDINO"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 2,
+		"MunicNombre" : "MANTUA"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 3,
+		"MunicNombre" : "MINAS DE MATAHAMBRE"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 4,
+		"MunicNombre" : "VINALES"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 5,
+		"MunicNombre" : "LA PALMA"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 6,
+		"MunicNombre" : "LOS PALACIOS"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 7,
+		"MunicNombre" : "CONSOLACION DEL SUR"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 8,
+		"MunicNombre" : "PINAR DEL RIO"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 9,
+		"MunicNombre" : "SAN LUIS"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 10,
+		"MunicNombre" : "SAN JUAN Y MARTINEZ"
+	},
+	{
+		"ProvCod" : 21,
+		"MunicCod" : 11,
+		"MunicNombre" : "GUANE"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 1,
+		"MunicNombre" : "BAHIA HONDA"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 2,
+		"MunicNombre" : "MARIEL"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 3,
+		"MunicNombre" : "GUANAJAY"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 4,
+		"MunicNombre" : "CAIMITO"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 5,
+		"MunicNombre" : "BAUTA"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 6,
+		"MunicNombre" : "SAN ANTONIO DE LOS BANOS"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 7,
+		"MunicNombre" : "GUIRA DE MELENA"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 8,
+		"MunicNombre" : "ALQUIZAR"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 9,
+		"MunicNombre" : "ARTEMISA"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 10,
+		"MunicNombre" : "CANDELARIA"
+	},
+	{
+		"ProvCod" : 22,
+		"MunicCod" : 11,
+		"MunicNombre" : "SAN CRISTOBAL"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 1,
+		"MunicNombre" : "PLAYA"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 2,
+		"MunicNombre" : "PLAZA DE LA REVOLUCION"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 3,
+		"MunicNombre" : "CENTRO HABANA"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 4,
+		"MunicNombre" : "LA HABANA VIEJA"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 5,
+		"MunicNombre" : "REGLA"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 6,
+		"MunicNombre" : "LA HABANA DEL ESTE"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 7,
+		"MunicNombre" : "GUANABACOA"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 8,
+		"MunicNombre" : "SAN MIGUEL DEL PADRON"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 9,
+		"MunicNombre" : "DIEZ DE OCTUBRE"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 10,
+		"MunicNombre" : "CERRO"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 11,
+		"MunicNombre" : "MARIANAO"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 12,
+		"MunicNombre" : "LA LISA"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 13,
+		"MunicNombre" : "BOYEROS"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 14,
+		"MunicNombre" : "ARROYO NARANJO"
+	},
+	{
+		"ProvCod" : 23,
+		"MunicCod" : 15,
+		"MunicNombre" : "COTORRO"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 1,
+		"MunicNombre" : "BEJUCAL"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 2,
+		"MunicNombre" : "SAN JOSE DE LAS LAJAS"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 3,
+		"MunicNombre" : "JARUCO"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 4,
+		"MunicNombre" : "SANTA CRUZ DEL NORTE"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 5,
+		"MunicNombre" : "MADRUGA"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 6,
+		"MunicNombre" : "NUEVA PAZ"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 7,
+		"MunicNombre" : "SAN NICOLAS"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 8,
+		"MunicNombre" : "GUINES"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 9,
+		"MunicNombre" : "MELENA DEL SUR"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 10,
+		"MunicNombre" : "BATABANO"
+	},
+	{
+		"ProvCod" : 24,
+		"MunicCod" : 11,
+		"MunicNombre" : "QUIVICAN"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 1,
+		"MunicNombre" : "MATANZAS"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 2,
+		"MunicNombre" : "CARDENAS "
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 3,
+		"MunicNombre" : "MARTI"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 4,
+		"MunicNombre" : "COLON"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 5,
+		"MunicNombre" : "PERICO"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 6,
+		"MunicNombre" : "JOVELLANOS"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 7,
+		"MunicNombre" : "PEDRO BETANCOURT"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 8,
+		"MunicNombre" : "LIMONAR"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 9,
+		"MunicNombre" : "UNION DE REYES"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 10,
+		"MunicNombre" : "CIENAGA DE ZAPATA"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 11,
+		"MunicNombre" : "JAGUEY GRANDE"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 12,
+		"MunicNombre" : "CALIMETE"
+	},
+	{
+		"ProvCod" : 25,
+		"MunicCod" : 13,
+		"MunicNombre" : "LOS ARABOS"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 1,
+		"MunicNombre" : "CORRALILLO"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 2,
+		"MunicNombre" : "QUEMADO DE GUINES"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 3,
+		"MunicNombre" : "SAGUA LA GRANDE"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 4,
+		"MunicNombre" : "ENCRUCIJADA"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 5,
+		"MunicNombre" : "CAMAJUANI"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 6,
+		"MunicNombre" : "CAIBARIEN"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 7,
+		"MunicNombre" : "REMEDIOS"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 8,
+		"MunicNombre" : "PLACETAS"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 9,
+		"MunicNombre" : "SANTA CLARA"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 10,
+		"MunicNombre" : "CIFUENTES"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 11,
+		"MunicNombre" : "SANTO DOMINGO"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 12,
+		"MunicNombre" : "RANCHUELO"
+	},
+	{
+		"ProvCod" : 26,
+		"MunicCod" : 13,
+		"MunicNombre" : "MANICARAGUA"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 1,
+		"MunicNombre" : "AGUADA DE PASAJEROS"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 2,
+		"MunicNombre" : "RODAS"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 3,
+		"MunicNombre" : "PALMIRA"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 4,
+		"MunicNombre" : "LAJAS"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 5,
+		"MunicNombre" : "CRUCES"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 6,
+		"MunicNombre" : "CUMANAYAGUA"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 7,
+		"MunicNombre" : "CIENFUEGOS"
+	},
+	{
+		"ProvCod" : 27,
+		"MunicCod" : 8,
+		"MunicNombre" : "ABREUS"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 1,
+		"MunicNombre" : "YAGUAJAY"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 2,
+		"MunicNombre" : "JATIBONICO"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 3,
+		"MunicNombre" : "TAGUASCO"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 4,
+		"MunicNombre" : "CABAIGUAN"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 5,
+		"MunicNombre" : "FOMENTO"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 6,
+		"MunicNombre" : "TRINIDAD"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 7,
+		"MunicNombre" : "SANCTI SPIRITUS"
+	},
+	{
+		"ProvCod" : 28,
+		"MunicCod" : 8,
+		"MunicNombre" : "LA SIERPE"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 1,
+		"MunicNombre" : "CHAMBAS"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 2,
+		"MunicNombre" : "MORON"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 3,
+		"MunicNombre" : "BOLIVIA"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 4,
+		"MunicNombre" : "PRIMERO DE ENERO"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 5,
+		"MunicNombre" : "CIRO REDONDO"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 6,
+		"MunicNombre" : "FLORENCIA"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 7,
+		"MunicNombre" : "MAJAGUA"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 8,
+		"MunicNombre" : "CIEGO DE AVILA"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 9,
+		"MunicNombre" : "VENEZUELA"
+	},
+	{
+		"ProvCod" : 29,
+		"MunicCod" : 10,
+		"MunicNombre" : "BARAGUA"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 1,
+		"MunicNombre" : "CARLOS MANUEL DE CESPEDES"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 2,
+		"MunicNombre" : "ESMERALDA"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 3,
+		"MunicNombre" : "SIERRA DE CUBITAS"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 4,
+		"MunicNombre" : "MINAS"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 5,
+		"MunicNombre" : "NUEVITAS"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 6,
+		"MunicNombre" : "GUAIMARO"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 7,
+		"MunicNombre" : "SIBANICU"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 8,
+		"MunicNombre" : "CAMAGUEY"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 9,
+		"MunicNombre" : "FLORIDA"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 10,
+		"MunicNombre" : "VERTIENTES"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 11,
+		"MunicNombre" : "JIMAGUAYU"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 12,
+		"MunicNombre" : "NAJASA"
+	},
+	{
+		"ProvCod" : 30,
+		"MunicCod" : 13,
+		"MunicNombre" : "SANTA CRUZ DEL SUR"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 1,
+		"MunicNombre" : "MANATI"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 2,
+		"MunicNombre" : "PUERTO PADRE"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 3,
+		"MunicNombre" : "JESUS MENENDEZ"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 4,
+		"MunicNombre" : "MAJIBACOA"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 5,
+		"MunicNombre" : "LAS TUNAS"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 6,
+		"MunicNombre" : "JOBABO"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 7,
+		"MunicNombre" : "COLOMBIA"
+	},
+	{
+		"ProvCod" : 31,
+		"MunicCod" : 8,
+		"MunicNombre" : "AMANCIO"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 1,
+		"MunicNombre" : "GIBARA"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 2,
+		"MunicNombre" : "RAFAEL FREYRE"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 3,
+		"MunicNombre" : "BANES"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 4,
+		"MunicNombre" : "ANTILLA"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 5,
+		"MunicNombre" : "BAGUANOS"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 6,
+		"MunicNombre" : "HOLGUIN"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 7,
+		"MunicNombre" : "CALIXTO GARCIA"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 8,
+		"MunicNombre" : "CACOCUM"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 9,
+		"MunicNombre" : "URBANO NORIS"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 10,
+		"MunicNombre" : "CUETO"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 11,
+		"MunicNombre" : "MAYARI"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 12,
+		"MunicNombre" : "FRANK PAIS"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 13,
+		"MunicNombre" : "SAGUA DE TANAMO"
+	},
+	{
+		"ProvCod" : 32,
+		"MunicCod" : 14,
+		"MunicNombre" : "MOA"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 1,
+		"MunicNombre" : "RIO CAUTO"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 2,
+		"MunicNombre" : "CAUTO CRISTO"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 3,
+		"MunicNombre" : "JIGUANI"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 4,
+		"MunicNombre" : "BAYAMO"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 5,
+		"MunicNombre" : "YARA"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 6,
+		"MunicNombre" : "MANZANILLO"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 7,
+		"MunicNombre" : "CAMPECHUELA"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 8,
+		"MunicNombre" : "MEDIA LUNA"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 9,
+		"MunicNombre" : "NIQUERO"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 10,
+		"MunicNombre" : "PILON"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 11,
+		"MunicNombre" : "BARTOLOME MASO"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 12,
+		"MunicNombre" : "BUEY ARRIBA"
+	},
+	{
+		"ProvCod" : 33,
+		"MunicCod" : 13,
+		"MunicNombre" : "GUISA"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 1,
+		"MunicNombre" : "CONTRAMAESTRE"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 2,
+		"MunicNombre" : "MELLA"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 3,
+		"MunicNombre" : "SAN LUIS"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 4,
+		"MunicNombre" : "SEGUNDO FRENTE"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 5,
+		"MunicNombre" : "SONGO - LA MAYA"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 6,
+		"MunicNombre" : "SANTIAGO DE CUBA"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 7,
+		"MunicNombre" : "PALMA SORIANO"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 8,
+		"MunicNombre" : "TERCER FRENTE"
+	},
+	{
+		"ProvCod" : 34,
+		"MunicCod" : 9,
+		"MunicNombre" : "GUAMA"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 1,
+		"MunicNombre" : "EL SALVADOR"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 2,
+		"MunicNombre" : "MANUEL TAMES"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 3,
+		"MunicNombre" : "YATERAS"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 4,
+		"MunicNombre" : "BARACOA"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 5,
+		"MunicNombre" : "MAISI"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 6,
+		"MunicNombre" : "IMIAS"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 7,
+		"MunicNombre" : "SAN ANTONIO DEL SUR"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 8,
+		"MunicNombre" : "CAIMANERA"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 9,
+		"MunicNombre" : "GUANTANAMO"
+	},
+	{
+		"ProvCod" : 35,
+		"MunicCod" : 10,
+		"MunicNombre" : "NICETO PEREZ"
+	},
+	{
+		"ProvCod" : 40,
+		"MunicCod" : 1,
+		"MunicNombre" : "ISLA DE LA JUVENTUD"
+	}
+]}

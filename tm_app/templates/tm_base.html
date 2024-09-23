@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <!-- Site Metas -->
+    <link rel="icon" src="images/fevicon.png" type="image/gif" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>{% block title %}{% endblock %} - TM</title>
+
+    <!-- bootstrap core css -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/tm_app/tmwebsite/css/bootstrap.css"
+    />
+
+    <!-- fonts style -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- font awesome style -->
+    <link
+      href="/assets/tm_app/tmwebsite/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- Custom styles for this template -->
+    <link href="/assets/tm_app/tmwebsite/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="/assets/tm_app/tmwebsite/css/responsive.css" rel="stylesheet" />
+  </head>
+
+  <body {% block body_class %}{% endblock %}>
+    <div class="hero_area">
+      {% block header %}
+      <!-- header section strats -->
+        {% include 'templates/header_section.html' %}
+      <!-- end header section -->
+      {% endblock %}
+
+      {% block slider %}
+      <!-- slider section -->
+        {% include 'templates/slider_section.html' %}
+      <!-- end slider section -->
+      {% endblock %}
+
+    </div>
+
+    <!-- service section -->
+    <!-- Service section -->
+    <!-- end service section -->
+
+    <!-- about section -->
+    <!-- about Section -->
+    <!-- end about section -->
+
+    <!-- server section -->
+    <!-- Server section -->
+    <!-- end server section -->
+
+    <!-- price section -->
+    <!-- Price Section -->
+    <!-- price section -->
+
+    <!-- client section -->
+    <!-- Client Section -->
+    <!-- end client section -->
+
+    <!-- contact section -->
+    <!-- Contact  Section -->
+    <!-- end contact section -->
+
+    <!-- info section -->
+    <!-- Info Section -->
+    <!-- end info section -->
+
+    {% block content %} {% endblock %}
+
+    <!-- footer section -->
+    {% block footer %}
+      <footer class="footer_section">
+        <div class="container">
+          <p>
+            &copy; <span id="displayYear"></span> All Rights Reserved By
+            <a href="https://html.design/">Free Html Templates</a>
+          </p>
+        </div>
+      </footer>
+    {% endblock %}
+    <!-- footer section -->
+
+    <!-- jQery -->
+    <script src="/assets/tm_app/tmwebsite/js/jquery-3.4.1.min.js"></script>
+    <!-- bootstrap js -->
+    <script src="/assets/tm_app/tmwebsite/js/bootstrap.js"></script>
+    <!-- custom js -->
+    <script src="/assets/tm_app/tmwebsite/js/custom.js"></script>
+  </body>
+</html>

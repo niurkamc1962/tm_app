@@ -1,0 +1,439 @@
+{
+ "actions": [],
+ "allow_guest_to_view": 1,
+ "allow_rename": 1,
+ "autoname": "format:cliente_tm-{#####}",
+ "creation": "2024-09-10 15:18:54.009662",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "fecha",
+  "nuevo_cliente",
+  "cod_registro_comercial",
+  "column_break_jydu",
+  "reeup_o_ci",
+  "empresa_estatal",
+  "organismo",
+  "column_break_cbem",
+  "codigo_nit",
+  "empresa_no_estatal",
+  "uniones",
+  "empresa_o_forma_de_gestion_no_estatal_section",
+  "nombre_empresa",
+  "direccion_empresa",
+  "column_break_bmob",
+  "provincia_empresa",
+  "municipio_empresa",
+  "telefono",
+  "email",
+  "ueb_dependencia_autoriza_contratos",
+  "nombre_ueb",
+  "direccion_ueb",
+  "column_break_mftd",
+  "provincia_ueb",
+  "municipio_ueb",
+  "telefono_ueb",
+  "email_ueb",
+  "director_general_section",
+  "nombre_apellidos_dir_gral",
+  "email_dir_gral",
+  "column_break_valw",
+  "ci_dir_gral",
+  "column_break_gdqu",
+  "telefono_dir_gral",
+  "firma_dir_gral",
+  "director_econ\u00f3mico_section",
+  "nombres_apellidos_dir_econ",
+  "email_dir_econ",
+  "column_break_jhpv",
+  "ci_dir_econ",
+  "column_break_iizh",
+  "telefono_dir_econ",
+  "firma_dir_econ",
+  "autorizadas_comprar_firmar_facturas",
+  "contactos_clientes",
+  "section_break_ijne",
+  "banco_cup",
+  "column_break_zmpx",
+  "banco_mlc",
+  "section_break_dbwb",
+  "notas",
+  "vias_de_conocernos",
+  "por_reconocimiento_nacional",
+  "por_organismo_superior",
+  "por_ferias_y_eventos",
+  "por_promociones_de_tecnomatica",
+  "column_break_jhvu",
+  "por_redes_sociales",
+  "por_otra_empresa_o_persona",
+  "por_otra_via",
+  "certifico_datos_fieles_exactos",
+  "firma_de_la_m\u00e1xima_autoridad_de_la_entidad",
+  "column_break_dzja",
+  "cu\u00f1o_de_la_entidad"
+ ],
+ "fields": [
+  {
+   "fieldname": "fecha",
+   "fieldtype": "Date",
+   "label": "Fecha"
+  },
+  {
+   "default": "0",
+   "fieldname": "nuevo_cliente",
+   "fieldtype": "Check",
+   "label": "Nuevo Cliente"
+  },
+  {
+   "fieldname": "cod_registro_comercial",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo Registro Comercial"
+  },
+  {
+   "fieldname": "column_break_jydu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "reeup_o_ci",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "REEUP o CI",
+   "options": "NomReeup",
+   "reqd": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "empresa_estatal",
+   "fieldtype": "Check",
+   "label": "Empresa Estatal",
+   "read_only_depends_on": "eval:doc.empresa_no_estatal==1"
+  },
+  {
+   "fieldname": "organismo",
+   "fieldtype": "Link",
+   "label": "Organismo",
+   "options": "NomOrganismos"
+  },
+  {
+   "fieldname": "column_break_cbem",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "codigo_nit",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "C\u00f3digo NIT",
+   "length": 11,
+   "reqd": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "empresa_no_estatal",
+   "fieldtype": "Check",
+   "label": "Empresa No Estatal",
+   "read_only_depends_on": "eval:doc.empresa_estatal==1"
+  },
+  {
+   "fieldname": "uniones",
+   "fieldtype": "Link",
+   "label": "OSDE",
+   "options": "NomUniones"
+  },
+  {
+   "fieldname": "empresa_o_forma_de_gestion_no_estatal_section",
+   "fieldtype": "Section Break",
+   "label": "Empresa o Forma de Gestion no Estatal"
+  },
+  {
+   "fieldname": "nombre_empresa",
+   "fieldtype": "Data",
+   "label": "Nombre"
+  },
+  {
+   "fieldname": "direccion_empresa",
+   "fieldtype": "Small Text",
+   "label": "Direcci\u00f3n"
+  },
+  {
+   "fieldname": "column_break_bmob",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "provincia_empresa",
+   "fieldtype": "Link",
+   "label": "Provincia",
+   "options": "NomProvincias"
+  },
+  {
+   "fieldname": "municipio_empresa",
+   "fieldtype": "Select",
+   "label": "Municipio",
+   "mandatory_depends_on": "eval: doc.provincia_empresa ? 1 : 0"
+  },
+  {
+   "fieldname": "telefono",
+   "fieldtype": "Data",
+   "label": "Tel\u00e9fono"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "ueb_dependencia_autoriza_contratos",
+   "fieldtype": "Section Break",
+   "label": "UEB o Dependencia Autorizada a firmar contratos"
+  },
+  {
+   "fieldname": "nombre_ueb",
+   "fieldtype": "Data",
+   "label": "Nombre"
+  },
+  {
+   "fieldname": "direccion_ueb",
+   "fieldtype": "Small Text",
+   "label": "Direcci\u00f3n"
+  },
+  {
+   "fieldname": "column_break_mftd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "provincia_ueb",
+   "fieldtype": "Link",
+   "label": "Provincia",
+   "options": "NomProvincias"
+  },
+  {
+   "fieldname": "municipio_ueb",
+   "fieldtype": "Select",
+   "label": "Municipio",
+   "mandatory_depends_on": "eval: doc.provincia_ueb ? 1 : 0"
+  },
+  {
+   "fieldname": "telefono_ueb",
+   "fieldtype": "Data",
+   "label": "Tel\u00e9fono"
+  },
+  {
+   "fieldname": "email_ueb",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "director_general_section",
+   "fieldtype": "Section Break",
+   "label": "Director General"
+  },
+  {
+   "fieldname": "nombre_apellidos_dir_gral",
+   "fieldtype": "Data",
+   "label": "Nombre y Apellidos"
+  },
+  {
+   "fieldname": "email_dir_gral",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "column_break_valw",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ci_dir_gral",
+   "fieldtype": "Data",
+   "label": "CI"
+  },
+  {
+   "fieldname": "column_break_gdqu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "telefono_dir_gral",
+   "fieldtype": "Data",
+   "label": "Tel\u00e9fono"
+  },
+  {
+   "fieldname": "firma_dir_gral",
+   "fieldtype": "Data",
+   "label": "Firma"
+  },
+  {
+   "fieldname": "director_econ\u00f3mico_section",
+   "fieldtype": "Section Break",
+   "label": "Director Econ\u00f3mico"
+  },
+  {
+   "fieldname": "nombres_apellidos_dir_econ",
+   "fieldtype": "Data",
+   "label": "Nombre y Apellidos"
+  },
+  {
+   "fieldname": "email_dir_econ",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "column_break_jhpv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ci_dir_econ",
+   "fieldtype": "Data",
+   "label": "CI"
+  },
+  {
+   "fieldname": "column_break_iizh",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "telefono_dir_econ",
+   "fieldtype": "Data",
+   "label": "Tel\u00e9fono"
+  },
+  {
+   "fieldname": "firma_dir_econ",
+   "fieldtype": "Data",
+   "label": "Firma"
+  },
+  {
+   "fieldname": "autorizadas_comprar_firmar_facturas",
+   "fieldtype": "Section Break",
+   "label": "Personas autorizadas a comprar y firmar facturas"
+  },
+  {
+   "fieldname": "contactos_clientes",
+   "fieldtype": "Table",
+   "label": "Contactos",
+   "options": "Contactos Clientes TM"
+  },
+  {
+   "fieldname": "section_break_ijne",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "banco_cup",
+   "fieldtype": "Link",
+   "label": "Banco CUP",
+   "options": "Bank Account"
+  },
+  {
+   "fieldname": "column_break_zmpx",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "banco_mlc",
+   "fieldtype": "Link",
+   "label": "Banco MLC",
+   "options": "Bank Account"
+  },
+  {
+   "fieldname": "section_break_dbwb",
+   "fieldtype": "Section Break"
+  },
+  {
+   "bold": 1,
+   "default": "      \u2022 La ficha del Cliente es el documento que acredita a la entidad como nuestro cliente, es \u00fanica para TODOS los servicios o productos de Tecnom\u00e1tica por lo que no se requerir\u00e1 de otra firma de un nuevo contrato si hay una ficha v\u00e1lida en existencia.\n    \u2022 El cliente est\u00e1 obligado a hacer una nueva ficha de cliente por haberse efectuado alg\u00fan cambio en sus datos y se requiera su actualizaci\u00f3n, en este caso esta nueva ficha invalidar\u00e1 la anterior.\n    \u2022 Tambi\u00e9n puede haber una ficha adicional para a\u00f1adir nuevos contactos, en este caso solo se ponen los datos generales de la entidad y los nombres de los nuevos contactos y la firma de la m\u00e1xima autoridad de la empresa. Esta ficha no invalidar\u00e1 la anterior.\n    \u2022 Al entregar la ficha se debe adjuntar el Certifico legal emitido por el abogado con fecha actual y donde conste los datos de la entidad incluyendol as personas autorizadas a firmar contratos.\n    \u2022 El cliente es el \u00fanico responsible de la veracidad de todos los datos aportados.\n    \u2022 Le pedimos a los clientes que llenen sus datos en formato digital o con letra clara y legible a fin de evitar errores involuntarios.",
+   "fieldname": "notas",
+   "fieldtype": "Long Text",
+   "label": "Notas",
+   "read_only": 1
+  },
+  {
+   "fieldname": "vias_de_conocernos",
+   "fieldtype": "Section Break",
+   "label": "H\u00e1ganos saber por qu\u00e9 v\u00eda nos conoci\u00f3"
+  },
+  {
+   "default": "0",
+   "fieldname": "por_reconocimiento_nacional",
+   "fieldtype": "Check",
+   "label": "Por reconocimiento nacional"
+  },
+  {
+   "default": "0",
+   "fieldname": "por_organismo_superior",
+   "fieldtype": "Check",
+   "label": "Por Organismo Superior"
+  },
+  {
+   "default": "0",
+   "fieldname": "por_ferias_y_eventos",
+   "fieldtype": "Check",
+   "label": "Por Ferias y Eventos"
+  },
+  {
+   "default": "0",
+   "fieldname": "por_promociones_de_tecnomatica",
+   "fieldtype": "Check",
+   "label": "Por promociones de Tecnom\u00e1tica"
+  },
+  {
+   "fieldname": "column_break_jhvu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "por_redes_sociales",
+   "fieldtype": "Check",
+   "label": "Por redes sociales"
+  },
+  {
+   "default": "0",
+   "fieldname": "por_otra_empresa_o_persona",
+   "fieldtype": "Check",
+   "label": "Por otra empresa o persona"
+  },
+  {
+   "fieldname": "por_otra_via",
+   "fieldtype": "Data",
+   "label": "Por Otra v\u00eda"
+  },
+  {
+   "fieldname": "certifico_datos_fieles_exactos",
+   "fieldtype": "Section Break",
+   "label": "Certifico que los datos aqu\u00ed reflejados son fieles y exactos"
+  },
+  {
+   "fieldname": "firma_de_la_m\u00e1xima_autoridad_de_la_entidad",
+   "fieldtype": "Data",
+   "label": "Firma de la m\u00e1xima autoridad de la entidad"
+  },
+  {
+   "fieldname": "column_break_dzja",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "cu\u00f1o_de_la_entidad",
+   "fieldtype": "Image",
+   "label": "Cu\u00f1o de la entidad"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-22 17:57:36.468580",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Clientes TM",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}
