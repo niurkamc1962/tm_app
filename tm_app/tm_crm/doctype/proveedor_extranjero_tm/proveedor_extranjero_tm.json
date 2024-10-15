@@ -1,0 +1,452 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:codigo_mincex",
+ "creation": "2024-08-22 20:26:24.020567",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "nombre_compania",
+  "section_break_snpy",
+  "fecha_actualizacion",
+  "column_break_buyy",
+  "siglas",
+  "column_break_corp",
+  "codigo_mincex",
+  "section_break_hwgy",
+  "column_break_unrp",
+  "ciudad",
+  "codigo_postal",
+  "tel\u00e9fonos",
+  "email",
+  "column_break_fter",
+  "distrito",
+  "pais",
+  "fax",
+  "sitio_web",
+  "column_break_udxj",
+  "domicilio_legal",
+  "section_break_glsc",
+  "junta_directiva_proveedor_ext",
+  "section_break_ljys",
+  "accionistas_proveedor_ext",
+  "contactos_cuba_y_exterior",
+  "contactos_proveedor_ext",
+  "section_break_impt",
+  "fecha_fundaci\u00f3n",
+  "column_break_vmcc",
+  "no_empleados",
+  "column_break_pkcm",
+  "capital",
+  "bancos_con_los_que_trabaja_en_el_pa\u00eds_origen_section",
+  "banco_1_moneda_de_pago",
+  "banco_1_nombre_del_banco",
+  "banco_1_cuenta_bancaria",
+  "banco_1_n\u00famero_transt",
+  "column_break_ifvk",
+  "banco_1_direcci\u00f3n",
+  "banco_1_c\u00f3digo_switch",
+  "section_break_bfrx",
+  "banco_2_nombre_del_banco",
+  "banco_2_moneda_de_pago",
+  "banco_2_cuenta_bancaria",
+  "banco_2_n\u00famero_transt",
+  "column_break_ezli",
+  "banco_2_direcci\u00f3n",
+  "banco_2_c\u00f3digo_switch",
+  "casa_matriz_de_su_compa\u00f1\u00eda_en_caso_de_proceder_section",
+  "casa_matr\u00edz",
+  "section_break_zrqd",
+  "sucursal_en_cuba",
+  "direcci\u00f3n_en_cuba",
+  "column_break_zpnp",
+  "no_licencia_c\u00e1mara_comercio_cuba",
+  "email_cuba",
+  "fax_cuba",
+  "tel\u00e9fonos_cuba",
+  "productos_que_comercializa_section",
+  "productos",
+  "actividad_section",
+  "productor",
+  "column_break_blte",
+  "comercializador",
+  "comercializa_productos_pa\u00edses_section",
+  "productos_paises",
+  "empresas_cubanas_con_relaciones_comerciales_section",
+  "empresas_cubanas",
+  "valoraci\u00f3n_del_desempe\u00f1o_section",
+  "valoraci\u00f3n"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_snpy",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_buyy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "siglas",
+   "fieldtype": "Data",
+   "label": "Siglas"
+  },
+  {
+   "fieldname": "column_break_corp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_hwgy",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_unrp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ciudad",
+   "fieldtype": "Data",
+   "label": "Ciudad"
+  },
+  {
+   "fieldname": "tel\u00e9fonos",
+   "fieldtype": "Data",
+   "label": "Tel\u00e9fonos"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "column_break_fter",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "distrito",
+   "fieldtype": "Data",
+   "label": "Distrito"
+  },
+  {
+   "fieldname": "fax",
+   "fieldtype": "Data",
+   "label": "Fax"
+  },
+  {
+   "fieldname": "sitio_web",
+   "fieldtype": "Data",
+   "label": "Sitio Web"
+  },
+  {
+   "fieldname": "column_break_udxj",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "domicilio_legal",
+   "fieldtype": "Small Text",
+   "label": "Domicilio Legal"
+  },
+  {
+   "fieldname": "section_break_glsc",
+   "fieldtype": "Section Break",
+   "label": "Junta Directiva"
+  },
+  {
+   "fieldname": "junta_directiva_proveedor_ext",
+   "fieldtype": "Table",
+   "options": "Junta Directiva Proveedor Extranjero"
+  },
+  {
+   "fieldname": "section_break_ljys",
+   "fieldtype": "Section Break",
+   "label": "Accionistas"
+  },
+  {
+   "fieldname": "accionistas_proveedor_ext",
+   "fieldtype": "Table",
+   "options": "Accionistas Proveedor Extranjero"
+  },
+  {
+   "fieldname": "contactos_cuba_y_exterior",
+   "fieldtype": "Section Break",
+   "label": "Personas Contactar en Cuba y Exterior"
+  },
+  {
+   "fieldname": "contactos_proveedor_ext",
+   "fieldtype": "Table",
+   "options": "Contactos Proveedor Extranjeros"
+  },
+  {
+   "fieldname": "section_break_impt",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "fecha_fundaci\u00f3n",
+   "fieldtype": "Date",
+   "label": "Fecha Fundaci\u00f3n"
+  },
+  {
+   "fieldname": "column_break_vmcc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "no_empleados",
+   "fieldtype": "Data",
+   "label": "No. Empleados"
+  },
+  {
+   "fieldname": "column_break_pkcm",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "capital",
+   "fieldtype": "Data",
+   "label": "Capital"
+  },
+  {
+   "fieldname": "bancos_con_los_que_trabaja_en_el_pa\u00eds_origen_section",
+   "fieldtype": "Section Break",
+   "label": "Bancos con los que trabaja en el pa\u00eds origen"
+  },
+  {
+   "fieldname": "banco_1_moneda_de_pago",
+   "fieldtype": "Data",
+   "label": "Banco 1 Moneda de Pago"
+  },
+  {
+   "fieldname": "banco_1_nombre_del_banco",
+   "fieldtype": "Data",
+   "label": "Banco 1 Nombre del Banco"
+  },
+  {
+   "fieldname": "banco_1_cuenta_bancaria",
+   "fieldtype": "Data",
+   "label": "Banco 1 Cuenta Bancaria"
+  },
+  {
+   "fieldname": "banco_1_n\u00famero_transt",
+   "fieldtype": "Data",
+   "label": "Banco 1 N\u00famero Transt."
+  },
+  {
+   "fieldname": "column_break_ifvk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "banco_1_direcci\u00f3n",
+   "fieldtype": "Small Text",
+   "label": "Banco 1 Direcci\u00f3n"
+  },
+  {
+   "fieldname": "banco_1_c\u00f3digo_switch",
+   "fieldtype": "Data",
+   "label": "Banco 1 C\u00f3digo SWITCH"
+  },
+  {
+   "fieldname": "section_break_bfrx",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "banco_2_nombre_del_banco",
+   "fieldtype": "Data",
+   "label": "Banco 2 Nombre del Banco"
+  },
+  {
+   "fieldname": "banco_2_moneda_de_pago",
+   "fieldtype": "Data",
+   "label": "Banco 2 Moneda de Pago"
+  },
+  {
+   "fieldname": "banco_2_cuenta_bancaria",
+   "fieldtype": "Data",
+   "label": "Banco 2 Cuenta Bancaria"
+  },
+  {
+   "fieldname": "banco_2_n\u00famero_transt",
+   "fieldtype": "Data",
+   "label": "Banco 2 N\u00famero Transt."
+  },
+  {
+   "fieldname": "column_break_ezli",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "banco_2_direcci\u00f3n",
+   "fieldtype": "Small Text",
+   "label": "Banco 2 Direcci\u00f3n"
+  },
+  {
+   "fieldname": "banco_2_c\u00f3digo_switch",
+   "fieldtype": "Data",
+   "label": "Banco 2 C\u00f3digo SWITCH"
+  },
+  {
+   "fieldname": "casa_matriz_de_su_compa\u00f1\u00eda_en_caso_de_proceder_section",
+   "fieldtype": "Section Break",
+   "label": "Casa Matriz de su compa\u00f1\u00eda (en caso de proceder)"
+  },
+  {
+   "fieldname": "casa_matr\u00edz",
+   "fieldtype": "Data",
+   "label": "Casa Matr\u00edz"
+  },
+  {
+   "fieldname": "section_break_zrqd",
+   "fieldtype": "Section Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "sucursal_en_cuba",
+   "fieldtype": "Check",
+   "label": "Sucursal en Cuba"
+  },
+  {
+   "fieldname": "direcci\u00f3n_en_cuba",
+   "fieldtype": "Small Text",
+   "label": "Direcci\u00f3n en Cuba"
+  },
+  {
+   "fieldname": "column_break_zpnp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "no_licencia_c\u00e1mara_comercio_cuba",
+   "fieldtype": "Data",
+   "label": "No. Licencia C\u00e1mara Comercio Cuba"
+  },
+  {
+   "fieldname": "email_cuba",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "fax_cuba",
+   "fieldtype": "Data",
+   "label": "Fax"
+  },
+  {
+   "fieldname": "tel\u00e9fonos_cuba",
+   "fieldtype": "Data",
+   "label": "Tel\u00e9fono"
+  },
+  {
+   "fieldname": "productos_que_comercializa_section",
+   "fieldtype": "Section Break",
+   "label": "Productos que comercializa"
+  },
+  {
+   "fieldname": "productos",
+   "fieldtype": "Text",
+   "label": "productos"
+  },
+  {
+   "fieldname": "actividad_section",
+   "fieldtype": "Section Break",
+   "label": "Actividad"
+  },
+  {
+   "default": "0",
+   "fieldname": "productor",
+   "fieldtype": "Check",
+   "label": "Productor"
+  },
+  {
+   "fieldname": "column_break_blte",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "comercializador",
+   "fieldtype": "Check",
+   "label": "Comercializador"
+  },
+  {
+   "fieldname": "comercializa_productos_pa\u00edses_section",
+   "fieldtype": "Section Break",
+   "label": "Comercializa Productos Pa\u00edses"
+  },
+  {
+   "fieldname": "productos_paises",
+   "fieldtype": "Text",
+   "label": "Productos"
+  },
+  {
+   "fieldname": "empresas_cubanas_con_relaciones_comerciales_section",
+   "fieldtype": "Section Break",
+   "label": "Empresas cubanas con relaciones comerciales"
+  },
+  {
+   "fieldname": "empresas_cubanas",
+   "fieldtype": "Text",
+   "label": "Empresas cubanas"
+  },
+  {
+   "fieldname": "valoraci\u00f3n_del_desempe\u00f1o_section",
+   "fieldtype": "Section Break",
+   "label": "Valoraci\u00f3n del desempe\u00f1o"
+  },
+  {
+   "fieldname": "valoraci\u00f3n",
+   "fieldtype": "Small Text",
+   "label": "Valoraci\u00f3n"
+  },
+  {
+   "fieldname": "codigo_mincex",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo MINCEX",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "nombre_compania",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre de la Compa\u00f1\u00eda"
+  },
+  {
+   "fieldname": "fecha_actualizacion",
+   "fieldtype": "Date",
+   "label": "Fecha Actualizaci\u00f3n"
+  },
+  {
+   "fieldname": "codigo_postal",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo Postal"
+  },
+  {
+   "fieldname": "pais",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Pa\u00eds",
+   "options": "Country"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-10-12 22:28:59.043024",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Proveedor Extranjero TM",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "nombre_compania",
+ "track_changes": 1
+}

@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "autoname": "format:Colectivo-{coleccodigo}",
+ "creation": "2024-07-25 04:00:02.034983",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "colecid",
+  "coleccodigo",
+  "colecdescripcion"
+ ],
+ "fields": [
+  {
+   "fieldname": "colecid",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ColecId"
+  },
+  {
+   "fieldname": "coleccodigo",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "ColecCodigo"
+  },
+  {
+   "fieldname": "colecdescripcion",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ColecDescripcion"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-22 19:11:28.311495",
+ "modified_by": "Administrator",
+ "module": "Tm Webservices Nomina",
+ "name": "WSColectivos",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "colecdescripcion",
+ "track_changes": 1
+}

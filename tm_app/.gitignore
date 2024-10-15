@@ -1,0 +1,32 @@
+# Ignorar archivos de configuración
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar carpetas de caché y temporales
+__pycache__/
+.cache/
+*.log
+
+# Ignorar archivos de entorno
+.env
+*.env
+
+# Ignorar dependencias de Python
+venv/
+env/
+node_modules/
+
+# Ignorar carpetas específicas de Frappe
+frappe-bench/sites/*/private/files/
+frappe-bench/sites/*/public/files/
+frappe-bench/sites/*/apps.txt
+
+# Ignorar archivos de migración
+migrations/
+
+# Ignorar otros archivos no deseados
+*.sqlite3
+*.db
+*.bak
+*.tmp

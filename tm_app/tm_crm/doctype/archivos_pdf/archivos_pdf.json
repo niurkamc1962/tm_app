@@ -1,0 +1,73 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:pdf-####",
+ "creation": "2024-10-14 21:35:11.339926",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "nombre_archivo",
+  "column_break_qyhm",
+  "ruta_archivo",
+  "column_break_uabc",
+  "estado_archivo"
+ ],
+ "fields": [
+  {
+   "fieldname": "nombre_archivo",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre Archivo",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_qyhm",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ruta_archivo",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Ruta Archivo",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_uabc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "Pendiente",
+   "fieldname": "estado_archivo",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Estado Archivo",
+   "options": "Pendiente\nProcesado"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-10-14 21:45:57.349286",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Archivos PDF",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}
