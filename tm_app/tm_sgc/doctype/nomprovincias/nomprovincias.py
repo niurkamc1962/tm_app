@@ -4,6 +4,7 @@
 import frappe
 import json
 from frappe.model.document import Document
+import os
 
 
 class NomProvincias(Document):
@@ -42,12 +43,12 @@ def inserta_actualiza_provincias(dato_provcod, dato_provnombre):
         return {"message": f"Error al insertar o actualizar: {dato_provnombre} con {dato_provcod}, {str(e)}"}
     
     
-    
 
 @frappe.whitelist()
 def importar_municipios():
     # Ruta al archivo JSON
-    json_file_path = "/home/niurka/Proyectos/frappe/nomencladores-json/TEMUNICIPIOS.json"
+    #json_file_path = "/home/niurka/Proyectos/frappe/nomencladores-json/TEMUNICIPIOS.json"
+    json_file_path = os.path.join(frappe.get_app_path('tm_app'),'archivos-json-a-importar','TEMUNICIPIOS.json')
     url = json_file_path.format('TEMUNICIPIOS')
     
     # Lista para almacenar resultados de la importacion

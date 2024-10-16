@@ -1,14 +1,17 @@
-from frappe import _
 import frappe
 from frappe.model.document import Document
 import json
+import os
+
 
 
 @frappe.whitelist()
 def leer_pais_json():
     """ Cargar los archivos JSON y devuelve los datos de SCOPAIS y un diccionario de nombre de paises. """
-    url_json_scopais = "/home/niurka/Proyectos/frappe/nomencladores-json/SCOPAIS.json"
-    url_json_country = "/home/niurka/Proyectos/frappe/nomencladores-json/countries.json"
+    # url_json_scopais = "/home/niurka/Proyectos/frappe/nomencladores-json/SCOPAIS.json"
+    # url_json_country = "/home/niurka/Proyectos/frappe/nomencladores-json/countries.json"
+    url_json_scopais = os.path.join(frappe.get_app_path('tm_app'),'archivos-json-a-importar','SCOPAIS.json')
+    url_json_country = os.path.join(frappe.get_app_path('tm_app'),'archivos-json-a-importar','countries.json')
 
     try:
         # Leer el archivo SCOPAIS.json
