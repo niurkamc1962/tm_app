@@ -43,12 +43,7 @@ app_license = "mit"
 
 # application home page (will override Website Settings)
 # home_page = "home"
-# home_page = "tmweb"
 
-# website_route_rules = [
-#     { "from_route": "/login", "to_route": "tmweb/login.html" },
-#     { "from_route": "/clientestm", "to_route": "tmweb/clientestm.html"}
-# ]
 
 # website user home page (by Role)
 # role_home_page = {
