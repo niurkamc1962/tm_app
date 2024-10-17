@@ -2,7 +2,7 @@ import frappe
 from frappe.model.document import Document
 import json
 import os
-
+from frappe import get_app_path
 
 
 @frappe.whitelist()

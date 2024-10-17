@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "format:PDF-{####}",
+ "autoname": "format:PDF-{archivo_pdf}",
  "creation": "2024-10-15 22:29:38.573887",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -45,7 +45,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-10-15 22:59:25.729494",
+ "modified": "2024-10-16 18:13:49.609802",
  "modified_by": "Administrator",
  "module": "Tm CRM",
  "name": "Archivos PDF",

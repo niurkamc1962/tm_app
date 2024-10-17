@@ -76,45 +76,46 @@ frappe.listview_settings['NomProvincias'] = {
                             var nom_municipios = json.TEMUNICIPIOS;
                             console.log("Total a procesar: ", nom_municipios.length);
 
-                            var promises = [];
+                            // Función para insertar municipios uno por uno
+                            function insertMunicipios(index) {
+                                if (index >= nom_municipios.length) {
+                                    frappe.show_alert({ message: __('Acción completada'), indicator: 'green' });
+                                    return; // Termina la función si ya se procesaron todos los municipios
+                                }
 
-                            for (let i in nom_municipios) {
-                                let item = nom_municipios[i];
+                                let item = nom_municipios[index];
                                 console.log("Procesando Municipio: ", item.MunicCod, "Nombre", item.MunicNombre);
                                 
-                                promises.push(new Promise((resolve, reject) => {
-                                    frappe.call({
-                                        method: "tm_app.tm_sgc.doctype.nommunicipios.nommunicipios.inserta_actualiza_municipios",
-                                        args: {
-                                            dato_provcod: item.ProvCod,
-                                            dato_municnombre: item.MunicNombre,
-                                            dato_municcod: item.MunicCod
-                                        },
-                                        callback: function (response) {
-                                            if (response.message) {
-                                                resolve(response.message);
+                                frappe.call({
+                                    method: "tm_app.tm_sgc.doctype.nommunicipios.nommunicipios.inserta_actualiza_municipios",
+                                    args: {
+                                        dato_provcod: item.ProvCod,
+                                        dato_municnombre: item.MunicNombre,
+                                        dato_municcod: item.MunicCod
+                                    },
+                                    callback: function (response) {
+                                        if (response.message) {
+                                            console.log("Municipio insertado/actualizado:", item.MunicCod);
+                                            insertMunicipios(index + 1); // Llama a la siguiente inserción
+                                        } else {
+                                            if (response.exc && response.exc.indexOf("duplicate") !== -1) {
+                                                console.warn("Registro ya existe, ignorado: ", item.MunicCod);
+                                                insertMunicipios(index + 1); // Ignora y llama a la siguiente inserción
                                             } else {
-                                                if (response.exc && response.exc.indexOf("duplicate") !== -1) {
-                                                    console.warn("Registro ya existe, ignorado: ", item.MunicCod);
-                                                    resolve("Registro ya existe, ignorado");
-                                                } else {
-                                                    reject("Error en la inserción: " + JSON.stringify(response));
-                                                }
+                                                console.error("Error en la inserción para " + item.MunicCod + ": ", JSON.stringify(response));
+                                                frappe.show_alert({ message: __('Error en la inserción para ' + item.MunicCod), indicator: 'red' });
                                             }
-                                        },
-                                        error: function (err) {
-                                            reject("Error de llamada: " + err.message);
                                         }
-                                    });
-                                }));
+                                    },
+                                    error: function (err) {
+                                        console.error("Error de llamada para " + item.MunicCod + ": ", err.message);
+                                        frappe.show_alert({ message: __('Error de llamada para ' + item.MunicCod + ': ' + err.message), indicator: 'red' });
+                                    }
+                                });
                             }
 
-                            Promise.all(promises).then(() => {
-                                frappe.show_alert({ message: __('Acción completada'), indicator: 'green' });
-                            }).catch(err => {
-                                console.error("Error al procesar municipios: ", err);
-                                frappe.show_alert({ message: __('Error al procesar municipios: ' + err), indicator: 'red' });
-                            });
+                            // Inicia el proceso de inserción desde el primer municipio
+                            insertMunicipios(0);
                         } else {
                             frappe.show_alert({ message: __('No se recibió respuesta del servidor'), indicator: 'red' });
                         }
