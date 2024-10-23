@@ -1,6 +1,36 @@
 frappe.listview_settings['Archivos PDF'] = {
+    add_fields: ['estado_archivo'],
+    hide_name_column: true,
+    
+    // Filtrando los archivos que ya se procesaron
+    // filters: [
+    //     ['estado_archivo', '=', 'Pendiente']
+    // ],
+
+
+    button: {
+        show(doc) {
+            // console.log('Estado Archivo:', doc.estado_archivo); // mostrando por consola el estado
+            return doc.estado_archivo === 'Pendiente';  // Muestra el boton solo si el estado es Pendiente
+        },
+        get_label() {
+            return __('Procesar');
+        },
+        get_description(doc) {
+            return true;
+        },
+        action(doc) {
+            frappe.msgprint(__('Procesando'));
+        }
+    },
+
     on_page_load: function(listview) {
-        // Agregando evento al hacer clic en el nombre del archivo
+        frappe.db.get_doc('Archivos PDF', null, { estado_archivo: 'Pendiente' })
+            .then(doc => {
+                console.log(doc)
+            })
+
+        // Agregando evento al hacer clic en la ruta del archivo para mostrar el contenido
         listview.on("click", ".file-name", function() {
             var ruta_archivo = $(this).data("ruta");
             if (ruta_archivo) {
@@ -10,32 +40,30 @@ frappe.listview_settings['Archivos PDF'] = {
             }
         });
 
-        // Agregar evento al cambiar el estado de selección
-        listview.on('check', function() {
-            var selected = listview.get_checked_items();
-            if (selected.length > 0) {
-                // Confirmar eliminación
-                frappe.confirm(
-                    __('¿Está seguro de que desea eliminar los archivos seleccionados?'),
-                    function() {
-                        selected.forEach(function(item) {
-                            frappe.call({
-                                method: 'tm_app.tm_crm.archivos_pdf.eliminar_archivo_pdf',
-                                args: { archivo_id: item.name },
-                                callback: function(r) {
-                                    if (r.message) {
-                                        frappe.msgprint(__('Archivo eliminado con éxito'));
-                                        listview.refresh(); // Refrescar la lista
-                                    }
-                                },
-                            });
-                        });
-                    },
-                    function() {
-                        frappe.msgprint(__('Proceso cancelado'));
-                    }
-                );
-            }
-        });
+        // // Refrescando para mostrar solo los que estan pendiente
+        // listview.on('refresh', function() {
+        //     refresh_listview(listview);
+        // });
     }
 };
+
+// Funcion para refrescar el listview y obtener solo los archivos pendientes
+function refresh_listview(listview){
+    frappe.call({
+        method: 'frappe.db.get_list',
+        args: {
+            doctype: 'Archivos PDF',
+            filters: { 'estado_archivo': 'Pendiente' }
+        },
+        callback: function(data) {
+            console.log('Datos de la API:', data)
+            if (data.message) {
+                listview.update(data.message)
+                console.log('Filtrados: ', data.message);
+            } else {
+                console.error('No se recibieron datos validos')
+            }
+            
+        }
+    });
+}

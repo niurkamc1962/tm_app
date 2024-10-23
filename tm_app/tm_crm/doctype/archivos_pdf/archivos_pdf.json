@@ -6,6 +6,7 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
+  "ruta_del_archivo",
   "ruta_archivo",
   "column_break_jlza",
   "archivo_pdf",
@@ -41,11 +42,16 @@
    "fieldtype": "Select",
    "label": "Estado",
    "options": "Pendiente\nProcesado"
+  },
+  {
+   "fieldname": "ruta_del_archivo",
+   "fieldtype": "Column Break",
+   "label": "Ruta del Archivo"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-10-16 18:13:49.609802",
+ "modified": "2024-10-17 19:45:34.553775",
  "modified_by": "Administrator",
  "module": "Tm CRM",
  "name": "Archivos PDF",
@@ -65,8 +71,10 @@
    "write": 1
   }
  ],
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
  "states": [],
+ "title_field": "archivo_pdf",
  "track_changes": 1
 }

@@ -29,14 +29,14 @@ def inserta_actualiza_proveedor_extranjero(dato):
     try:
         # buscanndo el pais segun el codigo del JSON
         pais = busca_code_pais(dato["CliPaisCodIntern"])
-        
+
         # convirtiendo el campo CliFechaModif
-        if isinstance(dato['CliFechaModif'], str):
+        if isinstance(dato["CliFechaModif"], str):
             fecha_modif = datetime.strptime(
-                dato['CliFechaModif'], "%Y-%m-%dT%H:%M:%S.%fZ").strftime("%Y-%m-%d %H:%M:%S")
+                dato["CliFechaModif"], "%Y-%m-%dT%H:%M:%S.%fZ"
+            ).strftime("%Y-%m-%d %H:%M:%S")
         else:
             fecha_modif = None
-        
 
         # verificando si ya existe ese codigo mincex en el doctype
         existe_proveedor = frappe.db.exists(
@@ -52,30 +52,38 @@ def inserta_actualiza_proveedor_extranjero(dato):
         )
 
         if existe_proveedor:
-            print(f"ACTUALIZANDO Proveedor ", dato["CliCodigo"])
+            print(f"ACTUALIZANDO Proveedor ")
             # Obtener el documento existente
             doc = frappe.get_doc("Proveedor Extranjero TM", existe_proveedor)
-            print(f"Documento encontrado: {doc.CliCodigo}")
-
-            doc.nombre_compania = dato["CliDescripcion"]            
+            codigo_mincex = doc.codigo_mincex
+            
+            print(f"Documento encontrado: {codigo_mincex}")
+            
+            doc.nombre_compania = dato["CliDescripcion"]
             doc.fecha_actualizacion = fecha_modif
             doc.siglas = dato["CliCMNombre"]
             doc.domicilio_legal = dato["CliDireccion"]
-            doc.pais = pais if pais else None,
+            doc.pais = (pais if pais else None,)
             doc.email = dato["CliEmail"]
             doc.sitio_web = dato["CliCMWeb"]
             doc.fax = dato["CliFax"]
             doc.telefonos = dato["CliTelefono"]
             doc.save()
+
+            # chequeando si ya tiene junta directiva insertada
+            inserta_actualiza_junta_directiva(
+                doc.name, dato["CliCMNombre"], dato['CliCMCargo'], dato["CliCMTlfno"]
+            )
+
             return {
                 "success": True,
-                "message": f"Proveedor {dato['CliCodigo']} *** actualizado ***",
+                "message": f"Proveedor {codigo_mincex} *** actualizado ***",
             }
         else:
-            print(f"*** CREANDO nuevo ", dato["CliCodigo"], "***")
+            print(f"*** CREANDO nuevo Proveedor ", dato["CliCodigo"], "***")
 
-            # insertar nuevo registro
-            new_doc = frappe.get_doc(
+            # insertar nuevo registro de Proveedor
+            proveedor_doc = frappe.get_doc(
                 {
                     "doctype": "Proveedor Extranjero TM",
                     "codigo_mincex": dato["CliCodigo"],
@@ -86,11 +94,22 @@ def inserta_actualiza_proveedor_extranjero(dato):
                     "pais": pais if pais else None,
                     "email": dato["CliEmail"],
                     "sitio_web": dato["CliCMWeb"],
-                    'fax': dato["CliFax"],
-                    'telefonos': dato["CliTelefono"]
+                    "fax": dato["CliFax"],
+                    "telefonos": dato["CliTelefono"],
                 }
             )
-            new_doc.insert()
+            proveedor_doc.insert()
+
+            # Obteniendo el id del proveedor al que pertenece la junta directiva
+            proveedor_id = proveedor_doc.name
+
+            inserta_actualiza_junta_directiva(
+                proveedor_id,
+                dato["CliCMNombre"],
+                dato["CliCMCargo"],
+                dato["CliCMTlfno"]    
+            )
+
             return {
                 "success": True,
                 "message": f" Insertado proveedor {dato['CliCodigo']} | Compania {dato['CliDescripcion']} ",
@@ -109,6 +128,106 @@ def inserta_actualiza_proveedor_extranjero(dato):
 # Buscando si existe el pais para devolver el id
 def busca_code_pais(codigo_pais):
     # existe_pais = frappe.db.exists("Country", {"custom_paiscodintern": codigo_pais})
-    existe_pais = frappe.db.get_value("Country", {"custom_paiscodintern": codigo_pais}, "name")
-    
+    existe_pais = frappe.db.get_value(
+        "Country", {"custom_paiscodintern": codigo_pais}, "name"
+    )
+
     return existe_pais
+
+
+
+# Insertando o actualizando junta directiva del proveedor extranjero
+def inserta_actualiza_junta_directiva(proveedor_id, nombre, cargo, telefono):
+    print (f"Junta directiva con nombre {nombre} y cargo {cargo} y PROVEEDOR {proveedor_id}")
+    # primero busco si ya se inserto para que no este repetido
+    existe_junta_directiva = frappe.db.exists(
+        "Junta Directiva Proveedor Extranjero", {"nombre": nombre, "cargo": cargo}
+    )
+    if existe_junta_directiva:
+        # indica que ya esta insertada por lo que actualizo
+        junta_directiva_doc = frappe.get_doc(
+            "Junta Directiva Proveedor Extranjero", existe_junta_directiva
+        )
+        if junta_directiva_doc:
+            junta_directiva_doc.cargo = cargo
+            junta_directiva_doc.nombre = nombre
+            junta_directiva_doc.telefono = telefono
+            junta_directiva_doc.save()
+    else:
+        # creando nueva junta directiva
+        junta_doc = frappe.get_doc(
+            {
+                "doctype": "Junta Directiva Proveedor Extranjero",
+                "parent": proveedor_id,
+                "parenttype": "Proveedor Extranjero TM",
+                "parentfield": "junta_directiva_proveedor_ext",
+                "nombre": nombre,
+                "telefono": telefono,
+                "cargo": cargo,
+            }
+        )
+        junta_doc.insert()
+        return {"message": f"Insertada datos Junta Directiva: {nombre} con cargo {cargo}."}
+
+
+
+# Insertando o actualizando los contactos del proveedor extranjero
+@frappe.whitelist()
+def inserta_actualiza_contactos_proveedor_ext(contacto):
+    
+    try:
+        # Verificando si contacto es un dict
+        if isinstance(contacto, str):
+            # convirtiendola en un dict
+            dato = json.loads(contacto)
+            
+        # Accediendo a los campos
+        cli_contac_nombre = dato['CliContacNombre']
+        cli_contac_apellidos = dato['CliContacApellidos']
+        cli_contac_email = dato['CliContacEmail']
+        cli_codigo = dato['CliCodigo']
+        
+        # Buscando el id del Proveedor para asignarlo en la insercion 
+        existe_proveedor = frappe.db.exists(
+            "Proveedor Extranjero TM", {"codigo_mincex": cli_codigo}
+        )
+        if existe_proveedor:
+            doc = frappe.get_doc("Proveedor Extranjero TM", existe_proveedor)
+            proveedor_id = doc.codigo_mincex
+            
+            # concatenando nombre y apellidos
+            nombre_completo = f"{cli_contac_nombre} {cli_contac_apellidos}"
+            print(f"Nombre Completo: {nombre_completo}")
+            
+            # preguntando si ya se inserto este contacto del proveedor para no tenerlo repetido
+            
+            existe_contacto_proveedor_ext = frappe.db.exists(
+                "Contactos Proveedor Extranjeros", 
+                {
+                    'nombre': nombre_completo, 
+                    'email': cli_contac_email, 
+                    'parent': proveedor_id
+                }
+            )
+            
+            if existe_contacto_proveedor_ext:
+                print(f"Existe el contacto {nombre_completo}")
+            else:
+                # Insertando el nuevo contacto del proveedor extranjero
+                nuevo_contacto = frappe.get_doc({
+                    "doctype": "Contactos Proveedor Extranjeros",
+                    "nombre": nombre_completo,
+                    "email": cli_contac_email,
+                    "parent": proveedor_id,
+                    "parenttype": "Proveedor Extranjero TM",
+                    "parentfield": "contactos_proveedor_ext",
+                })
+                nuevo_contacto.insert()
+                return {"message": f"Insertado contacto : {nombre} con email {email}."}
+            
+        
+        
+    except Exception as e:
+        return {"Success": False, "message": str(e)}
+    
+    

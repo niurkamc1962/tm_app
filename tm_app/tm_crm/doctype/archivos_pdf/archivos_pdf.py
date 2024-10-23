@@ -4,7 +4,7 @@
 import frappe
 from frappe.model.document import Document
 import os
-
+# import pdfplumber
 
 class ArchivosPDF(Document):
 	pass
@@ -29,3 +29,54 @@ def eliminar_archivo_pdf(archivo_id):
     archivo_doc.delete()
     
     return True
+
+
+@frappe.whitelist()
+def procesar_archivo_pdf(archivo_id):
+    # Obtener el archivo específico por su ID
+    archivo = frappe.get_doc('Archivos PDF', archivo_id)
+    
+    if archivo.estado != 'Pendiente':
+        frappe.throw("El archivo ya ha sido procesado o no está en estado pendiente.")
+    
+    # Extraer datos del PDF
+    datos = extraer_datos_pdf(archivo.ruta_archivo)
+    print ('datos: ',datos)
+    
+    # Guardar datos en el DocType 'Clientes TM'
+    cliente = frappe.get_doc({
+        'doctype': 'Clientes TM',
+        'fecha': datos['Fecha'],
+        'nuevo_cliente': datos['Nuevo Cliente'],
+        'codigo_registro_comercial': datos['Código Registro Comercial'],
+        'reeup_o_ci': datos['REEUP o CI'],
+        'empresa_estatal': datos['Empresa Estatal'],
+        'organismo': datos['Organismo']
+    })
+    
+    cliente.insert()
+    
+    # Actualizar estado del archivo a 'Procesado'
+    frappe.db.set_value('Archivos PDF', archivo.name, 'estado', 'Procesado')
+
+
+def extraer_datos_pdf(ruta_pdf):
+    campos = {
+        "Fecha": None,
+        "Nuevo Cliente": None,
+        "Código Registro Comercial": None,
+        "REEUP o CI": None,
+        "Empresa Estatal": None,
+        "Organismo": None
+    }
+    
+    with pdfplumber.open(ruta_pdf) as pdf:
+        pagina = pdf.pages[0]
+        texto = pagina.extract_text()
+        lineas = texto.split('\n')
+        
+        for i in range(len(lineas)):
+            if lineas[i] in campos:
+                campos[lineas[i]] = lineas[i + 1].strip()
+
+    return campos
