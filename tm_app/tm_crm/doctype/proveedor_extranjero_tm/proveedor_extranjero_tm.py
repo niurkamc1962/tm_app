@@ -182,21 +182,23 @@ def inserta_actualiza_contactos_proveedor_ext(contacto):
             dato = json.loads(contacto)
             
         # Accediendo a los campos
-        cli_contac_nombre = dato['CliContacNombre']
-        cli_contac_apellidos = dato['CliContacApellidos']
-        cli_contac_email = dato['CliContacEmail']
-        cli_codigo = dato['CliCodigo']
+        contacto_nombre = dato['CliContacNombre']
+        contacto_apellidos = dato['CliContacApellidos']
+        contacto_cargo = dato['CliContacCargo']
+        contacto_telefono = dato['CliContacTlfno']
+        contacto_email = dato['CliContacEmail']
+        contacto_codigo = dato['CliCodigo']
         
         # Buscando el id del Proveedor para asignarlo en la insercion 
         existe_proveedor = frappe.db.exists(
-            "Proveedor Extranjero TM", {"codigo_mincex": cli_codigo}
+            "Proveedor Extranjero TM", {"codigo_mincex": contacto_codigo}
         )
         if existe_proveedor:
             doc = frappe.get_doc("Proveedor Extranjero TM", existe_proveedor)
             proveedor_id = doc.codigo_mincex
             
             # concatenando nombre y apellidos
-            nombre_completo = f"{cli_contac_nombre} {cli_contac_apellidos}"
+            nombre_completo = f"{contacto_nombre} {contacto_apellidos}"
             print(f"Nombre Completo: {nombre_completo}")
             
             # preguntando si ya se inserto este contacto del proveedor para no tenerlo repetido
@@ -205,19 +207,28 @@ def inserta_actualiza_contactos_proveedor_ext(contacto):
                 "Contactos Proveedor Extranjeros", 
                 {
                     'nombre': nombre_completo, 
-                    'email': cli_contac_email, 
+                    'email': contacto_email, 
                     'parent': proveedor_id
                 }
             )
             
             if existe_contacto_proveedor_ext:
                 print(f"Existe el contacto {nombre_completo}")
+                # indica que ya esta insertada por lo que lo obtengo para actualizar 
+                contacto_proveedor_doc = frappe.get_doc(
+                    "Contactos Proveedor Extranjero", existe_contacto_proveedor_ext
+                )        
+                contacto_proveedor_doc.cargo = contacto_cargo
+                contacto_proveedor_doc.telefono = contacto_telefono
+                contacto_proveedor_doc.save()
             else:
                 # Insertando el nuevo contacto del proveedor extranjero
                 nuevo_contacto = frappe.get_doc({
                     "doctype": "Contactos Proveedor Extranjeros",
                     "nombre": nombre_completo,
-                    "email": cli_contac_email,
+                    "email": contacto_email,
+                    "cargo": contacto_cargo,
+                    "telefono": contacto_telefono,
                     "parent": proveedor_id,
                     "parenttype": "Proveedor Extranjero TM",
                     "parentfield": "contactos_proveedor_ext",
