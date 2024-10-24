@@ -17,13 +17,13 @@ def eliminar_archivo_pdf(archivo_id):
     
     # Preguntando si es privado o public para eliminar segun la ruta
     if archivo_doc.is_private:
-        ruta_artivo = '/sites/tecnomatica.local/private/files/' + archivo_doc.archivo_pdf
+        ruta_archivo = '/sites/tecnomatica.local/private/files/' + archivo_doc.archivo_pdf
     else:
-        ruta_artivo = '/sites/tecnomatica.local/public/files/' + archivo_doc.archivo_pdf
+        ruta_archivo = '/sites/tecnomatica.local/public/files/' + archivo_doc.archivo_pdf
     
     # Verificando si el archivo existe antes de intentar elimiinarlo
-    if os.path.exists(ruta_artivo):
-        os.remove(ruta_artivo)
+    if os.path.exists(ruta_archivo):
+        os.remove(ruta_archivo)
     
     # Eliminar el documento del doctype
     archivo_doc.delete()

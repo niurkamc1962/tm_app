@@ -25,7 +25,7 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
                       if (response.message) {
                         console.log("Callback:", response.message);
                         frappe.show_alert({
-                          message: response.message,
+                          message:  __("Proveedor ") + item.CliDescripcion + __(" insertado o actualizado correctamente."),
                           indicator: "green",
                         });
                       }
@@ -34,7 +34,7 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
                       console.error("Error al insertar o actualizar: ", err);
                       frappe.show_alert({
                         message:
-                          __("Error al insertar o actualizar") + err.message,
+                          __("Error al insertar o actualizar") + item.CliDescripcion + err.message,
                         indicator: "red",
                       });
                     },
@@ -97,7 +97,7 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
                               if (response.message) {
                                 console.log("Callback:", response.message);
                                 frappe.show_alert({
-                                  message: response.message,
+                                  message:  __("Contacto ") + dato.CliContacNombre + __(" insertado o actualizado correctamente."),
                                   indicator: "green",
                                 });
                               }
@@ -108,9 +108,7 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
                                 err
                               );
                               frappe.show_alert({
-                                message:
-                                  __("Error al insertar o actualizar") +
-                                  err.message,
+                                 message:  __("Contacto ") + dato.CliContacNombre + __(" ERROR al insertar o actualizar"),
                                 indicator: "red",
                               });
                             },
@@ -124,7 +122,7 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
                       });
                     } else {
                       frappe.show_alert({
-                        message: __("No se obtuve respuesta del servidor"),
+                        message: __("No se obtuvo respuesta del servidor"),
                         indicator: "red",
                       });
                     }

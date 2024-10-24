@@ -27,6 +27,7 @@ def import_nomenclador(doctype):
     app_dir = os.path.join(frappe.get_app_path('tm_app'), 'archivos-json-a-importar')
     json_file_path = os.path.join(app_dir, f"{doctype}.json")
 
+
     # leer el archivo json 
     with open(json_file_path, 'r') as file:
         data = json.load(file)

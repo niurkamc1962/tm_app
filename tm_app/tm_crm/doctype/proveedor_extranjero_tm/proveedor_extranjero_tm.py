@@ -52,12 +52,11 @@ def inserta_actualiza_proveedor_extranjero(dato):
         )
 
         if existe_proveedor:
-            print(f"ACTUALIZANDO Proveedor ")
             # Obtener el documento existente
             doc = frappe.get_doc("Proveedor Extranjero TM", existe_proveedor)
             codigo_mincex = doc.codigo_mincex
             
-            print(f"Documento encontrado: {codigo_mincex}")
+            print(f"Actualizando Proveedor con codigo: {codigo_mincex}")
             
             doc.nombre_compania = dato["CliDescripcion"]
             doc.fecha_actualizacion = fecha_modif
