@@ -18,8 +18,8 @@ env/
 node_modules/
 
 # Ignorar carpetas específicas de Frappe
-frappe-bench/sites/*/private/files/
-frappe-bench/sites/*/public/files/
+# frappe-bench/sites/*/private/files/
+# frappe-bench/sites/*/public/files/
 frappe-bench/sites/*/apps.txt
 
 # Ignorar archivos de migración
