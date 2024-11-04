@@ -1,0 +1,80 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:PDF-{archivo_pdf}",
+ "creation": "2024-10-15 22:29:38.573887",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "ruta_del_archivo",
+  "ruta_archivo",
+  "column_break_jlza",
+  "archivo_pdf",
+  "column_break_klif",
+  "estado_archivo"
+ ],
+ "fields": [
+  {
+   "fieldname": "archivo_pdf",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Archivo PDF",
+   "read_only": 1
+  },
+  {
+   "fieldname": "column_break_jlza",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ruta_archivo",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Ruta ",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_klif",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "Pendiente",
+   "fieldname": "estado_archivo",
+   "fieldtype": "Select",
+   "label": "Estado",
+   "options": "Pendiente\nProcesado"
+  },
+  {
+   "fieldname": "ruta_del_archivo",
+   "fieldtype": "Column Break",
+   "label": "Ruta del Archivo"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-10-17 19:45:34.553775",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Archivos PDF",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "archivo_pdf",
+ "track_changes": 1
+}

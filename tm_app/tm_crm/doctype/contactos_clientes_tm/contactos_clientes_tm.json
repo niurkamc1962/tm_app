@@ -1,0 +1,80 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{clicodigo}-{####}",
+ "creation": "2024-09-10 20:37:35.962752",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "cargo_contacto",
+  "nombre_y_apellidos_contacto",
+  "ci_contacto",
+  "telefono_contacto",
+  "column_break_zihv",
+  "email_contacto",
+  "firma_contacto",
+  "clicodigo"
+ ],
+ "fields": [
+  {
+   "fieldname": "cargo_contacto",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Cargo"
+  },
+  {
+   "fieldname": "nombre_y_apellidos_contacto",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre y Apellidos"
+  },
+  {
+   "fieldname": "ci_contacto",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "CI"
+  },
+  {
+   "fieldname": "column_break_zihv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "email_contacto",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Email"
+  },
+  {
+   "fieldname": "firma_contacto",
+   "fieldtype": "Data",
+   "label": "Firma"
+  },
+  {
+   "fieldname": "clicodigo",
+   "fieldtype": "Link",
+   "label": "Codigo Cliente",
+   "options": "Clientes TM",
+   "reqd": 1
+  },
+  {
+   "fieldname": "telefono_contacto",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Tel\u00e9fono"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-11-02 16:55:07.789214",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Contactos Clientes TM",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

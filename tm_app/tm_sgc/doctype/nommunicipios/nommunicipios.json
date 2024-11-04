@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{provcod}-{municcod}",
+ "creation": "2024-08-20 14:31:11.634377",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "municcod",
+  "column_break_sgdi",
+  "municnombre",
+  "column_break_aigm",
+  "provcod"
+ ],
+ "fields": [
+  {
+   "fieldname": "municcod",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "C\u00f3digo Municipio"
+  },
+  {
+   "fieldname": "column_break_sgdi",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "municnombre",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre Municipio"
+  },
+  {
+   "fieldname": "column_break_aigm",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "provcod",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Provincia",
+   "options": "NomProvincias"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-10-31 10:48:48.420945",
+ "modified_by": "Administrator",
+ "module": "Tm SGC",
+ "name": "NomMunicipios",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "municnombre",
+ "track_changes": 1
+}

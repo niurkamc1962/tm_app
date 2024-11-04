@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "autoname": "format:ClaveInterrupcion-{interid}",
+ "creation": "2024-07-24 09:16:25.318142",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "interid",
+  "intercodigo",
+  "interdescripcion"
+ ],
+ "fields": [
+  {
+   "fieldname": "interid",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "InterId"
+  },
+  {
+   "fieldname": "intercodigo",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "InterCodigo"
+  },
+  {
+   "fieldname": "interdescripcion",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "InterDescripcion"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-22 19:20:42.609130",
+ "modified_by": "Administrator",
+ "module": "Tm Webservices Nomina",
+ "name": "WSClavesInterrupciones",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "interdescripcion",
+ "track_changes": 1
+}

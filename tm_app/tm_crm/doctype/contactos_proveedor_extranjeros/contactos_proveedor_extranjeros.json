@@ -1,0 +1,87 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:contacto-proveedor-ext-{#####}",
+ "creation": "2024-09-14 21:27:24.817200",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "contactos_en_cuba_section",
+  "nombre",
+  "column_break_tjtq",
+  "cargo",
+  "column_break_meol",
+  "telefono",
+  "column_break_loxb",
+  "email",
+  "column_break_gejc",
+  "en_cuba_o_exterior"
+ ],
+ "fields": [
+  {
+   "fieldname": "contactos_en_cuba_section",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "nombre",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre"
+  },
+  {
+   "fieldname": "column_break_tjtq",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "cargo",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Cargo"
+  },
+  {
+   "fieldname": "column_break_meol",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "telefono",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Tel\u00e9fono"
+  },
+  {
+   "fieldname": "column_break_loxb",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Email"
+  },
+  {
+   "fieldname": "column_break_gejc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "en_cuba_o_exterior",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "En Cuba o Exterior",
+   "options": "\nEn Cuba\nEn Exterior"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-10-23 20:45:23.996166",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Contactos Proveedor Extranjeros",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "autoname": "format:ClaveAusencia-{causeid}",
+ "creation": "2024-07-23 18:46:07.549504",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "causeid",
+  "causecodigo",
+  "causedescripcion"
+ ],
+ "fields": [
+  {
+   "fieldname": "causeid",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "CAuseId"
+  },
+  {
+   "fieldname": "causecodigo",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "CAuseCodigo"
+  },
+  {
+   "fieldname": "causedescripcion",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "CAuseDescripcion"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-22 19:17:22.218571",
+ "modified_by": "Administrator",
+ "module": "Tm Webservices Nomina",
+ "name": "WSClavesAusencias",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "causedescripcion",
+ "track_changes": 1
+}

@@ -1,0 +1,210 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"mbsSyc3V7R\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>WebServices Nomina</b></span>\",\"col\":12}},{\"id\":\"IB5UExyKbi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Cargos\",\"col\":3}},{\"id\":\"PkBNf6z2SP\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Categoria Ocupacional\",\"col\":3}},{\"id\":\"BWzQpIjdwS\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Colectivos\",\"col\":3}},{\"id\":\"l7atS7J-Gw\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Claves Subsidios\",\"col\":3}},{\"id\":\"WUrtw7hsJR\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Salarios Escalas\",\"col\":3}},{\"id\":\"4cdAYlG0aN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Conceptos Pagos\",\"col\":3}},{\"id\":\"FWr8jbnsEW\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Claves Interrupciones\",\"col\":3}},{\"id\":\"DkVm3VAjDf\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Regimen Trabajo\",\"col\":3}},{\"id\":\"-QC6zOW_O6\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Escalas Salariales\",\"col\":3}},{\"id\":\"Qs7eVmDqp7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Claves Pagos Adicionales\",\"col\":3}},{\"id\":\"NKkpiHV98m\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Claves Ausencias\",\"col\":3}},{\"id\":\"Kot2_vAaLS\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tarifa Horaria\",\"col\":3}},{\"id\":\"9y1To0Nc5o\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Centros Pagos\",\"col\":3}},{\"id\":\"sEerJz5At9\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"zWBpnC_iPc\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>CRM</b></span>\",\"col\":12}},{\"id\":\"YI5clMgplX\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Proveedor Extranjero TM\",\"col\":3}},{\"id\":\"5W4PpQitPR\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Clientes TM\",\"col\":3}},{\"id\":\"azCxLGEbbD\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"0xmzLwCxtB\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>SGC <br></b></span>\",\"col\":12}},{\"id\":\"tHwfA58Z7W\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tipos Monedas\",\"col\":3}},{\"id\":\"qQGAplfkW-\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Tipos Empresas\",\"col\":3}},{\"id\":\"Fqd6JhbDbK\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Organismos\",\"col\":3}},{\"id\":\"4tU3b0UkLk\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Uniones\",\"col\":3}},{\"id\":\"eB_59Rjkt7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Provincias-Municipios\",\"col\":3}},{\"id\":\"q4Lnlw9x45\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Codigos Reeup\",\"col\":3}},{\"id\":\"Ol35GwOGFJ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Categorias Cliente-Proveedor\",\"col\":3}}]",
+ "creation": "2024-07-24 19:20:54.088582",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "criticize",
+ "idx": 1,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Tecnomatica",
+ "links": [],
+ "modified": "2024-09-22 17:21:52.797855",
+ "modified_by": "Administrator",
+ "module": "Tm App",
+ "name": "Tecnomatica",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Tm CRM"
+  }
+ ],
+ "sequence_id": 33.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Cargos",
+   "link_to": "WSCargos",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Tipos Monedas",
+   "link_to": "NomMonedas",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Clientes TM",
+   "link_to": "Clientes TM",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Categoria Ocupacional",
+   "link_to": "WSCatOcupacional",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Tipos Empresas",
+   "link_to": "NomTiposEmpresas",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Colectivos",
+   "link_to": "WSColectivos",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Organismos",
+   "link_to": "NomOrganismos",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Proveedor Extranjero TM",
+   "link_to": "Proveedor Extranjero TM",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Claves Subsidios",
+   "link_to": "WSClavesSubsidios",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Uniones",
+   "link_to": "NomUniones",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Salarios Escalas",
+   "link_to": "WSSalariosEscalas",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Provincias-Municipios",
+   "link_to": "NomProvincias",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Conceptos Pagos",
+   "link_to": "WSConceptosPagos",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Codigos Reeup",
+   "link_to": "NomReeup",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Claves Interrupciones",
+   "link_to": "WSClavesInterrupciones",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Categorias Cliente-Proveedor",
+   "link_to": "NomCategClienteProveedor",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Regimen Trabajo",
+   "link_to": "WSRegimenTrabajo",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Escalas Salariales",
+   "link_to": "WSEscalasSalariales",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Claves Pagos Adicionales",
+   "link_to": "WSClavesPagAdic",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Claves Ausencias",
+   "link_to": "WSClavesAusencias",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Tarifa Horaria",
+   "link_to": "WSTarifaHoraria",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Centros Pagos",
+   "link_to": "WSCentroPagos",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Tecnomatica"
+}

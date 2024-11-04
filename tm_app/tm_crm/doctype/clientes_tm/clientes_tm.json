@@ -1,0 +1,375 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:clicodigo",
+ "creation": "2024-08-16 17:29:19.552336",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "fecha",
+  "column_break_uppg",
+  "codigo_reup_o_ci",
+  "column_break_idzy",
+  "codigo_nit",
+  "section_break_slhj",
+  "clicodigo",
+  "column_break_eiow",
+  "clicategoria",
+  "section_break_zvzc",
+  "nuevo_cliente",
+  "column_break_qkiv",
+  "empresa_estatal",
+  "column_break_umln",
+  "no_estatal",
+  "column_break_uzoi",
+  "reemplazar_ficha",
+  "column_break_przp",
+  "anadir_contactos",
+  "empresa_o_forma_de_gestion_no_estatal_section",
+  "nombre_empresa",
+  "direccion_empresa",
+  "telefono_empresa",
+  "column_break_drfc",
+  "provincia_empresa",
+  "municipio_empresa",
+  "email_empresa",
+  "ueb_o_dependencia_autorizada_a_firmar_contrator_section",
+  "nombre_ueb",
+  "direccion_ueb",
+  "telefono_ueb",
+  "column_break_bsiz",
+  "provincia_ueb",
+  "municipio_ueb",
+  "email_ueb",
+  "director_general_section",
+  "nombre_dir_general",
+  "column_break_adql",
+  "ci_dir_general",
+  "column_break_ovab",
+  "telefono_dir_general",
+  "column_break_jozt",
+  "email_dir_general",
+  "column_break_fwtw",
+  "firma_dir_general",
+  "director_economico_section",
+  "nombre_dir_economico",
+  "column_break_xqpw",
+  "ci_dir_economico",
+  "column_break_onpp",
+  "telefono_dir_economico",
+  "column_break_knyp",
+  "email_dir_economico",
+  "column_break_hmlh",
+  "firma_dir_economico",
+  "autorizadas_comprar_facturar",
+  "contactos_clientes_tm"
+ ],
+ "fields": [
+  {
+   "fieldname": "fecha",
+   "fieldtype": "Date",
+   "label": "Fecha"
+  },
+  {
+   "default": "0",
+   "fieldname": "nuevo_cliente",
+   "fieldtype": "Check",
+   "label": "Nuevo Cliente"
+  },
+  {
+   "default": "0",
+   "fieldname": "empresa_estatal",
+   "fieldtype": "Check",
+   "label": "Empresa Estatal"
+  },
+  {
+   "fieldname": "codigo_nit",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Codigo NIT"
+  },
+  {
+   "fieldname": "empresa_o_forma_de_gestion_no_estatal_section",
+   "fieldtype": "Section Break",
+   "label": "Empresa o Forma de Gestion no Estatal"
+  },
+  {
+   "fieldname": "nombre_empresa",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre Empresa"
+  },
+  {
+   "fieldname": "direccion_empresa",
+   "fieldtype": "Data",
+   "label": "Direccion Empresa"
+  },
+  {
+   "fieldname": "provincia_empresa",
+   "fieldtype": "Link",
+   "label": "Provincia",
+   "options": "NomProvincias"
+  },
+  {
+   "fieldname": "municipio_empresa",
+   "fieldtype": "Link",
+   "label": "Municipio",
+   "options": "NomMunicipios"
+  },
+  {
+   "fieldname": "nombre_ueb",
+   "fieldtype": "Data",
+   "label": "Nombre UEB"
+  },
+  {
+   "fieldname": "direccion_ueb",
+   "fieldtype": "Data",
+   "label": "Direccion UEB"
+  },
+  {
+   "fieldname": "provincia_ueb",
+   "fieldtype": "Link",
+   "label": "Provincia",
+   "options": "NomProvincias"
+  },
+  {
+   "fieldname": "municipio_ueb",
+   "fieldtype": "Link",
+   "label": "Municipio",
+   "options": "NomMunicipios"
+  },
+  {
+   "fieldname": "telefono_ueb",
+   "fieldtype": "Data",
+   "label": "Telefono"
+  },
+  {
+   "fieldname": "email_ueb",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "director_general_section",
+   "fieldtype": "Section Break",
+   "label": "Director General"
+  },
+  {
+   "fieldname": "column_break_uppg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "codigo_reup_o_ci",
+   "fieldtype": "Data",
+   "label": "Codigo REUP o CI"
+  },
+  {
+   "fieldname": "column_break_idzy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_zvzc",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_qkiv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_umln",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "no_estatal",
+   "fieldtype": "Check",
+   "label": "No Estatal"
+  },
+  {
+   "fieldname": "column_break_uzoi",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "reemplazar_ficha",
+   "fieldtype": "Check",
+   "label": "Reemplazar Ficha"
+  },
+  {
+   "fieldname": "column_break_przp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "anadir_contactos",
+   "fieldtype": "Check",
+   "label": "Anadir Contactos"
+  },
+  {
+   "fieldname": "telefono_empresa",
+   "fieldtype": "Data",
+   "label": "Telefono"
+  },
+  {
+   "fieldname": "column_break_drfc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "email_empresa",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "ueb_o_dependencia_autorizada_a_firmar_contrator_section",
+   "fieldtype": "Section Break",
+   "label": "UEB o Dependencia Autorizada a firmar contrator"
+  },
+  {
+   "fieldname": "column_break_bsiz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "nombre_dir_general",
+   "fieldtype": "Data",
+   "label": "Nombre"
+  },
+  {
+   "fieldname": "column_break_adql",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ci_dir_general",
+   "fieldtype": "Data",
+   "label": "CI"
+  },
+  {
+   "fieldname": "column_break_ovab",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "telefono_dir_general",
+   "fieldtype": "Data",
+   "label": "Telefono"
+  },
+  {
+   "fieldname": "column_break_jozt",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "email_dir_general",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "column_break_fwtw",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "firma_dir_general",
+   "fieldtype": "Data",
+   "label": "Firma"
+  },
+  {
+   "fieldname": "director_economico_section",
+   "fieldtype": "Section Break",
+   "label": "Director Economico"
+  },
+  {
+   "fieldname": "nombre_dir_economico",
+   "fieldtype": "Data",
+   "label": "Nombre"
+  },
+  {
+   "fieldname": "column_break_xqpw",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ci_dir_economico",
+   "fieldtype": "Data",
+   "label": "CI"
+  },
+  {
+   "fieldname": "column_break_onpp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "telefono_dir_economico",
+   "fieldtype": "Data",
+   "label": "Telefono"
+  },
+  {
+   "fieldname": "column_break_knyp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "email_dir_economico",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "column_break_hmlh",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "firma_dir_economico",
+   "fieldtype": "Data",
+   "label": "Firma"
+  },
+  {
+   "fieldname": "autorizadas_comprar_facturar",
+   "fieldtype": "Section Break",
+   "label": "Personas autorizadas a comprar y firmar facturas (Contactos)"
+  },
+  {
+   "fieldname": "clicodigo",
+   "fieldtype": "Data",
+   "label": "Codigo",
+   "unique": 1
+  },
+  {
+   "fieldname": "clicategoria",
+   "fieldtype": "Link",
+   "label": "Categoria Cliente",
+   "options": "NomCategClienteProveedor"
+  },
+  {
+   "fieldname": "section_break_slhj",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_eiow",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "contactos_clientes_tm",
+   "fieldtype": "Table",
+   "label": "Contactos",
+   "options": "Contactos Clientes TM"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-11-03 19:44:57.338245",
+ "modified_by": "Administrator",
+ "module": "Tm CRM",
+ "name": "Clientes TM",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

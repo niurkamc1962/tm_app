@@ -1,0 +1,79 @@
+{
+ "actions": [],
+ "autoname": "format:Organismo-{organcodigo}",
+ "creation": "2024-08-09 19:04:33.082197",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "organcodigo",
+  "organdescripcion",
+  "organei",
+  "organui",
+  "organfechamodif",
+  "organactivo"
+ ],
+ "fields": [
+  {
+   "fieldname": "organcodigo",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Organismo"
+  },
+  {
+   "fieldname": "organdescripcion",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Descripcion"
+  },
+  {
+   "fieldname": "organei",
+   "fieldtype": "Int",
+   "label": "OrganEI"
+  },
+  {
+   "fieldname": "organui",
+   "fieldtype": "Int",
+   "label": "OrganUI"
+  },
+  {
+   "fieldname": "organfechamodif",
+   "fieldtype": "Datetime",
+   "in_list_view": 1,
+   "label": "FechaModificacion"
+  },
+  {
+   "default": "0",
+   "fieldname": "organactivo",
+   "fieldtype": "Int",
+   "label": "OrganoActivo"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-22 17:26:42.090883",
+ "modified_by": "Administrator",
+ "module": "Tm SGC",
+ "name": "NomOrganismos",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "organdescripcion",
+ "track_changes": 1
+}

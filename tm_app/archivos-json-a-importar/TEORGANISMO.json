@@ -1,0 +1,1979 @@
+{
+"TEORGANISMO": [
+	{
+		"OrganCodigo" : "020",
+		"OrganDescripcion" : "Grupo Administración Empresarial SA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "102",
+		"OrganDescripcion" : "Ministerio de Industrias",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "103",
+		"OrganDescripcion" : "MINISTERIO DE IND. SIDERO MECÁNICA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "104",
+		"OrganDescripcion" : "MINISTERIO DE ENERGÍA Y MINAS",
+		"OrganEI" : 1,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "105",
+		"OrganDescripcion" : "MINISTERIO DE LA INDUSTRIA BÁSICA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "107",
+		"OrganDescripcion" : "MINISTERIO DE LA INDUSTRIA LIGERA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "108",
+		"OrganDescripcion" : "MINISTERIO DEL AZÚCAR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "109",
+		"OrganDescripcion" : "MINISTERIO DE LA INDUSTRIA PESQUERA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "110",
+		"OrganDescripcion" : "MINISTERIO IND. ALIMENTICIA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "111",
+		"OrganDescripcion" : "MINISTERIO IND. ALIMENTARIA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "113",
+		"OrganDescripcion" : "ISTITUTO NA DE RECURSOS HIDRAULICOS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "126",
+		"OrganDescripcion" : "MINISTERIO DE LA CONSTRUCCION",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "131",
+		"OrganDescripcion" : "MINISTERIO DE LA AGRICULTURA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "151",
+		"OrganDescripcion" : "MINISTERIO DEL TRANSPORTE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "152",
+		"OrganDescripcion" : "IST. DE AURONAUTICA CIVIL DE CUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "161",
+		"OrganDescripcion" : "MINISTERIO DE COMUNICACIONES",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "171",
+		"OrganDescripcion" : "MINISTERIO DE COMERCIO INTERIOR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "173",
+		"OrganDescripcion" : "MINISTERIO DE COMERCIO EXTERIOR,M",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "174",
+		"OrganDescripcion" : "MINISTERIO DE COMERCIO EXTERIOR ",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "211",
+		"OrganDescripcion" : "MIN.CIENCIA,TECNOLOGIA Y M.AMBIENT.",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "221",
+		"OrganDescripcion" : "MINISTERIO DE EDUCACION",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "223",
+		"OrganDescripcion" : "MINISTERIO DE EDUCACION SUPERIOR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "233",
+		"OrganDescripcion" : "INST CUBANO DE RADIO Y TELEVIS.",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "234",
+		"OrganDescripcion" : "MINISTERIO DE CULTURA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "241",
+		"OrganDescripcion" : "MINISTERIO DE SALUD PUBLICA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "242",
+		"OrganDescripcion" : "INST. NAC.DE DEP. EDUCA.FÍS. Y REC.",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "249",
+		"OrganDescripcion" : "Contraloría general de la república",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "251",
+		"OrganDescripcion" : "BANCO NACIONAL DE CUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "252",
+		"OrganDescripcion" : "MINISTERIO DE AUDITORIA Y CONTROL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "253",
+		"OrganDescripcion" : "BANCO POPULAR DE AHORRO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "254",
+		"OrganDescripcion" : "MINISTERIO DE FINANZAS Y PRECIO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "255",
+		"OrganDescripcion" : "MIN.PARA  INVERSIONES EXTRANJERAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "256",
+		"OrganDescripcion" : "MINISTERIO DEL TURISMO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "257",
+		"OrganDescripcion" : "BANCO CENTRAL DE CUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "258",
+		"OrganDescripcion" : "BANCO DE CREDITO Y COMERCIO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "259",
+		"OrganDescripcion" : "BANCO EXTERIOR DE CUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "261",
+		"OrganDescripcion" : "MINISTERIO DE ECONOMIA Y PLANIFICAC",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "262",
+		"OrganDescripcion" : "MINISTERIO DE TRABAJO Y SEG SOCIAL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "263",
+		"OrganDescripcion" : "MINISTERIO DE JUSTICIA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "264",
+		"OrganDescripcion" : "MINISTERIO DE RELACIONES EXTERIORES",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "267",
+		"OrganDescripcion" : "TRIBUNAL SUPREMO POPULAR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "268",
+		"OrganDescripcion" : "FISCALIA GENERAL DE LA REPUBLICA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "271",
+		"OrganDescripcion" : "MINISTERIO DE LAS FAR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "272",
+		"OrganDescripcion" : "MINISTERIO DEL INTERIOR MININT",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "277",
+		"OrganDescripcion" : "INST NACIONAL DE VIVIENDA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "300",
+		"OrganDescripcion" : "CONSEJO DE ESTADO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "301",
+		"OrganDescripcion" : "Asamlea Nacional Poder Popular",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "302",
+		"OrganDescripcion" : "COMITE EJECUTIVO DEL CONCEJO DE MIN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "304",
+		"OrganDescripcion" : "ADUANA GENERAL DE LA REPUBLICA NC",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "305",
+		"OrganDescripcion" : "Consejo de Ministros",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "306",
+		"OrganDescripcion" : "Oficina del Historiador de la Hab.",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "307",
+		"OrganDescripcion" : "Oficina Nac. de Estadísticas e Inf.",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "310",
+		"OrganDescripcion" : "PODER POPULAR PINAR DEL RIO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "311",
+		"OrganDescripcion" : "PODER POPULAR PINAR DEL RIO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "312",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL MANTUA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "313",
+		"OrganDescripcion" : "PODER POPULAR DE HABANA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "314",
+		"OrganDescripcion" : "PODER PROVINCIAL DE MATANZAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "315",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL V. CLARA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "316",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL CIENFUEGOS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "317",
+		"OrganDescripcion" : "PODER POPULAR PROV. SANCTI SPIRITUS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "318",
+		"OrganDescripcion" : "PODER POPULAR PROV. CIEGO DE AVILA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "319",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL CAMAGÜEY",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "321",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL HOLGUÍN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "322",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL GRANMA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "323",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL STGO CUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "324",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL GUANTANAMO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "325",
+		"OrganDescripcion" : "PODER POPULAR ISLA DE LA JUVENTUD",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "330",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL DE LA HABA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "331",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MARIEL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "332",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUANAJAY",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "333",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CAIMITO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "334",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BAUTA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "335",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SAN ANTO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "336",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BUJUCAL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "337",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SAN JOSE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "338",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JARUCO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "339",
+		"OrganDescripcion" : "PODER POPULAR MUNIC. DE SANTA CRUZ",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "341",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MADRUGA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "342",
+		"OrganDescripcion" : "PODER POPULAR MUNIC. DE NUEVA PAZ",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "343",
+		"OrganDescripcion" : "PODER POPULAR MUNIC.DE SAN NICOLAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "344",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUINES",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "345",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MELENA D",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "346",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BATABANO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "347",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE QUIVICAN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "348",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUIRA DE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "349",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ALQUIZAR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "351",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ARTEMISA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "360",
+		"OrganDescripcion" : "PODER POPULAR PROV.DE CIUDAD HABANA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "361",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PLAYA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "362",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PLAZA DE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "363",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CENTRO H",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "364",
+		"OrganDescripcion" : "PODER POPULAR MUN.LA HABANA VIEJA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "365",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE REGLA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "366",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE LA HABAN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "367",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUANABAC",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "368",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SAN MIGU",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "369",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE DIEZ DE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "371",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CERRO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "372",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MARIANAO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "373",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE LA LISA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "374",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BOYEROS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "375",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ARROYA N",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "376",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE COTORRO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "380",
+		"OrganDescripcion" : "PODER PROVINCIAL DE MATANZAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "381",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MANTANZA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "382",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CARDENAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "383",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE VARADERO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "384",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MARTI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "385",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE COLON",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "386",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PERICO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "387",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JOVELLAN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "388",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PEDRO BE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "389",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE LIMONAR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "391",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE UNION DE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "392",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CIENAGA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "393",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JAGUEY G",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "394",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CALIMETE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "395",
+		"OrganDescripcion" : "PODER POPULAR MUNIC DE LOS ARABOS",
+		"OrganEI" : 1,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "410",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL VILLA CLAR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "411",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CORRALIL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "412",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE QUEMADO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "413",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SAGUA LA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "414",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ENCRUCIJ",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "415",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CAMAJUAN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "416",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CAIBARIE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "417",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE REMEDIO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "418",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PLACETA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "419",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SANTA CL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "421",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CIFUENTE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "422",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SANTO TO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "423",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE RANCHUEL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "424",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MANICARA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "430",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL CIENFUEGO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "431",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE AGUADA D",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "432",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE RODA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "433",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PALMIRA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "434",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE LAJAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "435",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CRUCES",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "436",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CUMANAYA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "437",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CIENFUEG",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "438",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ABREU",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "440",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL DE SANCTI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "441",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE YAGUAJAY",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "442",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JATIBONI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "443",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE TAGUASCO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "444",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CABAIGUA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "445",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE FOMENTO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "446",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE TRINIDAD",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "447",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SANTI SP",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "448",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE LA SIERP",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "450",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL CIEGO DE A",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "451",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CHAMBAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "452",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MORON",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "453",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BOLIVIA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "454",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PRIMERO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "455",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CIRO RED",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "456",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE FLORENC",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "457",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MAJAGUA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "458",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CIEGO DE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "459",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE VENEZUEL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "461",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BARAGUA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "470",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL DE CAMAGUE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "471",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CARLOS M",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "472",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ESMERALD",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "473",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CIERRA D",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "474",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MINAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "475",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE NUEVITAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "476",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUAIMARO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "477",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SIBANICU",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "478",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CAMAGUEY",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "479",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE FLORIDA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "481",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE VERTIENT",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "482",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JIMAGUAY",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "483",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE NAJASA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "484",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SANTA CR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "490",
+		"OrganDescripcion" : "PODER POPUL PROVINCIAL DE LAS TUNAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "491",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MANATI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "492",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PUERTO P",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "493",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JESUS M",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "494",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MAJIBACO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "495",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE LAS TUNA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "496",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JOBABO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "497",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE COLOMBIA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "498",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE AMANCIO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "501",
+		"OrganDescripcion" : "COMITE CENTRAL DEL PARTIDO COMUNIST",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "502",
+		"OrganDescripcion" : "UNION DE JOVENES COMUNISTA DE CUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "503",
+		"OrganDescripcion" : "ORGANIZACION DE PIONEROS¨JOSE MARTI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "504",
+		"OrganDescripcion" : "CENTRAL DE TRABAJADORES DE CUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "505",
+		"OrganDescripcion" : "FEDERACION DE MUJERES CUBANA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "506",
+		"OrganDescripcion" : "COMITES DE DEFENSA DE LA REVOLUCION",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "507",
+		"OrganDescripcion" : "ASOCIACION NAC. DE AGRI. PEQUEÑOS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "510",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL DE HOLGUIN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "511",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JIBARA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "512",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE RAFAEL F",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "513",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BANES",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "514",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ANTILLA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "515",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BAGUANO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "516",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE HOLGUIN",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "517",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CALIXTO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "518",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CACOCUM",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "519",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE URBANO N",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "521",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CUETO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "522",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MAYARI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "523",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE FRANK PA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "524",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SAGUA DE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "525",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MOA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "530",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL DE GRANMA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "531",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE RIO CAUT",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "532",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CAUTO CR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "533",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE JIGUANI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "534",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BAYAMO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "535",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE YARA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "536",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MANZANIL",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "537",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE AMPECHUE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "539",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE NIQUERO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "541",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PILON",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "542",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BARTOLOM",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "543",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BUEY ARR",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "544",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUISA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "550",
+		"OrganDescripcion" : "PODER  POPULAR PROVINCIAL SANTIAGO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "551",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CONTRAMA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "552",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MELLA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "553",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SAN LUIS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "554",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SEGUNDO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "555",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SONGO LA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "556",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SANTIAGO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "557",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE PALMA SO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "558",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE TERCER F",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "559",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUAMA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "560",
+		"OrganDescripcion" : "PODER POPULAR PROVINCIAL GUANTANAMO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "561",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE EL SALVA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "562",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE GUANTANA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "563",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE YATERAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "564",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE BARACOA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "565",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MAISI",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "566",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE IMIAS",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "567",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE SAN ANTO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "568",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE MANUEL T",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "569",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE CAIMANER",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "571",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE NICETO P",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "572",
+		"OrganDescripcion" : "PODER POPULAR MUNICIPAL DE ISLA DE",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "654",
+		"OrganDescripcion" : "GRUPO EMPRESARIAL PALCO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "658",
+		"OrganDescripcion" : "GRUPO AZUCARERO AZCUBA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "692",
+		"OrganDescripcion" : "GRUPO BIOCUBAFARMA",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "970",
+		"OrganDescripcion" : "Oficina de Desarrollo Mariel ",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "998",
+		"OrganDescripcion" : "NO SE SUBORDINA A UN ORGANISMO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	},
+	{
+		"OrganCodigo" : "999",
+		"OrganDescripcion" : "ORGANISMO DESCONOCIDO",
+		"OrganEI" : 0,
+		"OrganUI" : 0,
+		"OrganFechaModif" : "1753-01-01T05:00:00.000Z",
+		"OrganActivo" : 1
+	}
+]}

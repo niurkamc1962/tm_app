@@ -1,0 +1,133 @@
+{
+"SMGNOMMONEDAS": [
+	{
+		"MonCodigo" : 100,
+		"MonSiglas" : "CUP",
+		"MonDescrip" : "Peso Cubano         ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "CUB",
+		"PaisCodIntern" : "192"
+	},
+	{
+		"MonCodigo" : 101,
+		"MonSiglas" : "CUC",
+		"MonDescrip" : "Peso Convertible    ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "CUB",
+		"PaisCodIntern" : "192"
+	},
+	{
+		"MonCodigo" : 200,
+		"MonSiglas" : "USD",
+		"MonDescrip" : "Dólar USA           ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "USA",
+		"PaisCodIntern" : "840"
+	},
+	{
+		"MonCodigo" : 201,
+		"MonSiglas" : "EUR",
+		"MonDescrip" : "Euro                ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "EUR",
+		"PaisCodIntern" : "724"
+	},
+	{
+		"MonCodigo" : 202,
+		"MonSiglas" : "SEK",
+		"MonDescrip" : "Corona Sueca        ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "SWE",
+		"PaisCodIntern" : "752"
+	},
+	{
+		"MonCodigo" : 203,
+		"MonSiglas" : "NOK",
+		"MonDescrip" : "Corona Noruega      ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "NOR",
+		"PaisCodIntern" : "578"
+	},
+	{
+		"MonCodigo" : 204,
+		"MonSiglas" : "DKK",
+		"MonDescrip" : "Corona Danesa       ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "DNK",
+		"PaisCodIntern" : "208"
+	},
+	{
+		"MonCodigo" : 205,
+		"MonSiglas" : "MXP",
+		"MonDescrip" : "Peso Mexicano       ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "MEX",
+		"PaisCodIntern" : "484"
+	},
+	{
+		"MonCodigo" : 206,
+		"MonSiglas" : "JPY",
+		"MonDescrip" : "Yen Japonés         ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "JPN",
+		"PaisCodIntern" : "392"
+	},
+	{
+		"MonCodigo" : 207,
+		"MonSiglas" : "CHF",
+		"MonDescrip" : "Franco Suizo        ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "CHE",
+		"PaisCodIntern" : "756"
+	},
+	{
+		"MonCodigo" : 208,
+		"MonSiglas" : "CAD",
+		"MonDescrip" : "Dólar Canadiense    ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : null,
+		"MonPais" : "CAN",
+		"PaisCodIntern" : "124"
+	},
+	{
+		"MonCodigo" : 209,
+		"MonSiglas" : "GBP",
+		"MonDescrip" : "Libra Esterlina     ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.830Z",
+		"MonUI" : null,
+		"MonPais" : "GBR",
+		"PaisCodIntern" : "826"
+	},
+	{
+		"MonCodigo" : 210,
+		"MonSiglas" : "RUB",
+		"MonDescrip" : "Rublo               ",
+		"MonFlag" : null,
+		"MonFechaModif" : "2012-10-09T19:49:21.843Z",
+		"MonUI" : 1,
+		"MonPais" : "RUS",
+		"PaisCodIntern" : "643"
+	}
+]}

@@ -1,0 +1,128 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:reeup-{reeupcod}",
+ "creation": "2024-09-04 08:07:48.742394",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "reeupcod",
+  "reeupdir",
+  "reeupcae",
+  "reeuporg",
+  "reeupsub",
+  "reeupsiglas",
+  "column_break_xmzj",
+  "reeupnom",
+  "reeuptelef",
+  "reeupdpa",
+  "reeupnae",
+  "reeupactivo"
+ ],
+ "fields": [
+  {
+   "fieldname": "reeupcod",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ReeupCod",
+   "length": 5,
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "reeupdir",
+   "fieldtype": "Data",
+   "label": "ReeupDir",
+   "length": 150
+  },
+  {
+   "fieldname": "reeupcae",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ReeupCAE",
+   "length": 6
+  },
+  {
+   "fieldname": "reeuporg",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ReeupOrg",
+   "length": 4
+  },
+  {
+   "fieldname": "reeupsub",
+   "fieldtype": "Int",
+   "label": "ReeupSub",
+   "length": 2
+  },
+  {
+   "fieldname": "reeupsiglas",
+   "fieldtype": "Data",
+   "label": "ReeupSiglas",
+   "length": 20
+  },
+  {
+   "fieldname": "column_break_xmzj",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "reeupnom",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "ReeupNom",
+   "length": 150
+  },
+  {
+   "fieldname": "reeuptelef",
+   "fieldtype": "Data",
+   "label": "ReeupTelef",
+   "length": 20
+  },
+  {
+   "fieldname": "reeupdpa",
+   "fieldtype": "Data",
+   "label": "ReeupDPA",
+   "length": 4
+  },
+  {
+   "fieldname": "reeupnae",
+   "fieldtype": "Data",
+   "label": "ReeupNAE",
+   "length": 4
+  },
+  {
+   "fieldname": "reeupactivo",
+   "fieldtype": "Int",
+   "label": "ReeupActivo",
+   "length": 5
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-10-25 13:34:10.623879",
+ "modified_by": "Administrator",
+ "module": "Tm SGC",
+ "name": "NomReeup",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "reeupnom",
+ "track_changes": 1
+}
