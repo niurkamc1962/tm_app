@@ -39,7 +39,9 @@ def inserta_actualiza_cliente_tm(dato, contactos_json):
         categoria_id, categoria_nombre = busca_categoria_cliente_proveedor(
             dato["CliCategoria"]
         )
-
+        
+        print(f"Municipio ID: {municipio_id}, Municipio Nombre: {municipio_nombre}")
+        
         # verificando si ya existe ese codigo reeup en el doctype Clientes
         existe_cliente_tm = frappe.db.exists(
             "Clientes TM", {"clicodigo": dato["CliCodigo"]}
@@ -54,9 +56,9 @@ def inserta_actualiza_cliente_tm(dato, contactos_json):
             "cod_registro_comercial": dato["CliCodigoComercial"],
             "nombre_empresa": dato["CliDescripcionLarga"],
             "direccion_empresa": dato["CliDireccion"],
-            "organismo": organismo_id if organismo_id else None,
             "provincia_empresa": provincia_id if provincia_id else None,
             "municipio_empresa": municipio_id if municipio_id else None,
+            "organismo": organismo_id if organismo_id else None,
             "fax": dato["CliFax"],
             "telefono": dato["CliTelefono"],
             "email": dato["CliEmail"],
@@ -96,6 +98,7 @@ def inserta_actualiza_cliente_tm(dato, contactos_json):
         return {"success": False, "message": f"Error inesperado: {str(e)}"}
 
 
+
 def actualizar_cliente(cliente_data):
     try:
         # buscando segun el clicodigo para actualizar el cliente
@@ -110,6 +113,10 @@ def actualizar_cliente(cliente_data):
         cliente_doc.direccion_empresa = cliente_data["direccion_empresa"]
         cliente_doc.provincia_empresa = cliente_data["provincia_empresa"]
         cliente_doc.municipio_empresa = cliente_data["municipio_empresa"]
+        # cliente_doc.nombre_ueb = cliente_data["nombre_ueb"]
+        # cliente_doc.direccion_ueb = cliente_data["direccion_ueb"]
+        # cliente_doc.provincia_ueb = cliente_data["provincia_ueb"]
+        # cliente_doc.municipio_ueb = cliente_data["municipio_ueb"]
         cliente_doc.fax = cliente_data["fax"]
         cliente_doc.telefono = cliente_data["telefono"]
         cliente_doc.email = cliente_data["email"]
@@ -140,6 +147,10 @@ def crear_cliente(cliente_data):
                 "direccion_empresa": cliente_data["direccion_empresa"],
                 "provincia_empresa": cliente_data["provincia_empresa"],
                 "municipio_empresa": cliente_data["municipio_empresa"],
+                # "nombre_ueb": cliente_data["nombre_empresa"],
+                # "direccion_ueb": cliente_data["direccion_ueb"],
+                # "provincia_ueb": cliente_data["provincia_ueb"],
+                # "municipio_ueb": cliente_data["municipio_ueb"],
                 "fax": cliente_data["fax"],
                 "telefono": cliente_data["telefono"],
                 "email": cliente_data["email"],
@@ -254,22 +265,7 @@ def procesa_dir_gral_econ(contacto, cargo, cliente_id):
     doc_cliente.save()
     frappe.db.commit()
     print(f"Insertado el contacto dir con cargo {cargo} y nombre {nombre_apellidos}")
-    # try:
-    #     doc_cliente.save()
-    #     frappe.db.commit()
-    #     # chequeando si se inserto la informacion
-    #     valida_insercion = frappe.get_doc("Clientes TM", cliente_id)
-    #     print(f"valida_insercion: {valida_insercion}")
-    #     if valida_insercion.nombre_dir_general == nombre_apellidos:
-    #         print(f"Se inserto Dir Gral. {nombre_apellidos}")
-    #     elif valida_insercion.nombre_dir_economico == nombre_apellidos:
-    #         print(f"Se inserto Dir Econ. {nombre_apellidos}")
-    #     else:
-    #         print(f"Error, no se inserto {nombre_apellidos}")
-
-    # except Exception as e:
-    #     print(f"Error al guardar los datos: {e} del director {nombre_apellidos}")
-
+   
 
 # buscando el id del organisno
 def busca_organismo(organismo):
@@ -355,3 +351,66 @@ def procesar_fecha(dato):
     else:
         fecha_modif = None
     return fecha_modif
+
+
+# Funcion para obtener el listado de los municipios de la provincia
+@frappe.whitelist()
+def obtener_municipios(provincia):
+    print(f"provincia: {provincia}")
+    if not provincia:
+        return []
+   
+    
+    # obteniendo el listado de los municipios asociados
+    municipios = frappe.get_all('NomMunicipios', filters={'provcod': provincia}, fields=['municcod', 'municnombre', 'provcod'])
+    print(f"Municipios: {municipios}")
+    
+    # Preparando el formato del naming de los municipios
+    result_municipios = []
+    for municipio in municipios:
+        naming_value = f"{municipio['provcod']}-{municipio['municcod']}" # preparando el naming rule igual que en el doctype
+        print(f"naming_value: {naming_value} | municipio: {municipio['municnombre']}")
+        result_municipios.append({
+            'value': naming_value,
+            'label': municipio['municnombre']
+        })
+    
+    return result_municipios
+
+
+# Funcion que se ejecuta cuando se carga el formulario del cliente por si tiene importado datos muestre 
+# el municipio y la lista de los que son de la provincia seleccionada
+@frappe.whitelist()
+def obtener_datos_cliente(cliente_codigo):
+    try:
+        cliente = frappe.get_doc("Clientes TM", cliente_codigo)
+        
+        provincia_id = cliente.provincia_empresa
+        municipio_id = cliente.municipio_empresa
+        
+        print(f"Cliente codigo Provincia: {provincia_id} - municipio_id: {municipio_id}")
+        
+        # Obtener los municipios de la provincia para enviar al campo select Municipios
+        municipios_provincia = buscar_municipios_provincia(provincia_id)
+        print(f"Municipios_provincia: {municipios_provincia}")
+        # Creando la lista de las opciones para el campo select
+        opciones_municipios = []
+        # for municipio_id, municipio_nombre in municipios_provincia:
+        #     opciones_municipios.append({
+        #         'value': municipio_id,
+        #         'label': municipio_nombre
+        #     })
+        opciones_municipios = [{'value': municipio['name'], 'label': municipio['municnombre']} for municipio in municipios_provincia]
+        return {
+            "success": True,
+            "provincia": provincia_id,
+            "opciones_municipios": opciones_municipios,
+            "municipio_seleccionado": municipio_id
+        }
+    except Exception as e:
+        return {"success": False, "message": str(e)}
+    
+def buscar_municipios_provincia(provincia_id):
+    # consultando doctype para seleccionar todos los municipios de la provincia_id
+    municipios = frappe.db.get_all('NomMunicipios', filters={'provcod': provincia_id}, fields=['name', 'municnombre'])
+    return municipios

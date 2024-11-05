@@ -112,9 +112,9 @@
   },
   {
    "fieldname": "municipio_empresa",
-   "fieldtype": "Link",
+   "fieldtype": "Select",
    "label": "Municipio",
-   "options": "NomMunicipios"
+   "options": ""
   },
   {
    "fieldname": "nombre_ueb",
@@ -134,9 +134,9 @@
   },
   {
    "fieldname": "municipio_ueb",
-   "fieldtype": "Link",
+   "fieldtype": "Select",
    "label": "Municipio",
-   "options": "NomMunicipios"
+   "options": ""
   },
   {
    "fieldname": "telefono_ueb",
@@ -348,7 +348,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-11-03 19:44:57.338245",
+ "modified": "2024-11-04 09:21:02.448426",
  "modified_by": "Administrator",
  "module": "Tm CRM",
  "name": "Clientes TM",
