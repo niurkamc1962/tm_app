@@ -23,7 +23,7 @@ frappe-bench/sites/*/public/files/
 frappe-bench/sites/*/apps.txt
 
 # Ignorar los archivos json que utilizo para importar
-tm_app/archivos-json-a-importar/*
+tm_app/archivos-json-a-importar/
 
 # Ignorar archivos de migración
 migrations/

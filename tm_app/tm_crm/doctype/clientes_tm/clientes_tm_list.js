@@ -7,7 +7,7 @@ frappe.listview_settings["Clientes TM"] = {
           frappe.call({
             method: "tm_app.utils.importa_nomencladores.import_nomencladores",
             args: {
-              doctype_a: "CLIENTES_TM_L",
+              doctype_a: "CLIENTES_TM_C",
               doctype_b: "SCOCLIENTECONTACTOS_NAC",
             },
             callback: function (response) {
