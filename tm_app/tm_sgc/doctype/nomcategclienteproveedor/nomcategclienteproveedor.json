@@ -35,7 +35,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-10-30 20:06:45.548385",
+ "modified": "2024-11-05 22:05:33.682822",
  "modified_by": "Administrator",
  "module": "Tm SGC",
  "name": "NomCategClienteProveedor",
@@ -55,8 +55,10 @@
    "write": 1
   }
  ],
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
  "states": [],
+ "title_field": "descripcion",
  "track_changes": 1
 }

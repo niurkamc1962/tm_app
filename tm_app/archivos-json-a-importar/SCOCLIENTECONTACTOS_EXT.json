@@ -9,32 +9,7 @@
 		"CliContacCargo" : "DIRECTORA",
 		"CliContacTlfno" : "+599 9 767-2;",
 		"CliContacCiudadania" : "CURAZAO",
-		"CliContacEmail" : "G.ROSALIA@CORE.CW",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10102020076,
-		"CliContacNombre" : "JOSE LUIS",
-		"CliContacApellidos" : "ROQUE ARIAS",
-		"CliContacCI" : "58070201660",
-		"CliContacCargo" : "AUTORIZADO",
-		"CliContacTlfno" : "(537) 204 8622\/23",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "jrvazquez@mistralcaribe.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "G.ROSALIA@CORE.CW"
 	},
 	{
 		"CliContacId" : 1,
@@ -45,14 +20,7 @@
 		"CliContacCargo" : "GERENTE REGIONAL AMÉRICA LATINA Y EL CARIBE",
 		"CliContacTlfno" : "+57.1.745016;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "Victor.salazar@cmgl.ca",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Victor.salazar@cmgl.ca"
 	},
 	{
 		"CliContacId" : 1,
@@ -63,14 +31,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "4037175252;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "joe@rolltide.ca",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "joe@rolltide.ca"
 	},
 	{
 		"CliContacId" : 1,
@@ -81,14 +42,7 @@
 		"CliContacCargo" : "ADMINISTRACION COMERCIAL",
 		"CliContacTlfno" : "(598) 260120;",
 		"CliContacCiudadania" : "URUGUAY",
-		"CliContacEmail" : "analia@genexus.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "analia@genexus.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -99,14 +53,7 @@
 		"CliContacCargo" : "Account Manager, Caribbean & Latin America, Depart",
 		"CliContacTlfno" : "7803785371;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "litzyb@nait.ca",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "litzyb@nait.ca"
 	},
 	{
 		"CliContacId" : 1,
@@ -117,32 +64,7 @@
 		"CliContacCargo" : "REPRESENTANTE LEGAL",
 		"CliContacTlfno" : "9055681817;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "chris.ronan@lemico.ca",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10110308333,
-		"CliContacNombre" : "ARMANDO",
-		"CliContacApellidos" : "DAYAN",
-		"CliContacCI" : "50050732869",
-		"CliContacCargo" : "DIRECTOR GENERAL",
-		"CliContacTlfno" : "052631718",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "reiterhv@ceniai.inf.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "chris.ronan@lemico.ca"
 	},
 	{
 		"CliContacId" : 1,
@@ -153,14 +75,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE DE OPERACIONES",
 		"CliContacTlfno" : "4162513232",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "INFO@CAN-BRAMAR.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "INFO@CAN-BRAMAR.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -171,14 +86,7 @@
 		"CliContacCargo" : "PRESIDENTE\/GERENTE GENERAL",
 		"CliContacTlfno" : "1 (905) 946-;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "manager@intercopexc.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "manager@intercopexc.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -189,14 +97,7 @@
 		"CliContacCargo" : "VP COMPRAS",
 		"CliContacTlfno" : "(613) 230-68;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "karim@havel.ca",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "karim@havel.ca"
 	},
 	{
 		"CliContacId" : 1,
@@ -207,14 +108,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "905-6760091 ;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 1,
@@ -225,14 +119,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE",
 		"CliContacTlfno" : "(514) 337-06;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "mdipalma@axsera.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mdipalma@axsera.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -243,14 +130,7 @@
 		"CliContacCargo" : "GERENTES DE PROCESO",
 		"CliContacTlfno" : "10110314248;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "FREDDY. ARIAS@RANGELANDENG.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "FREDDY. ARIAS@RANGELANDENG.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -261,14 +141,7 @@
 		"CliContacCargo" : "DIRECTOR EJECUTIVO",
 		"CliContacTlfno" : "+5353849912;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "isoltec@isoltec.ca",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "isoltec@isoltec.ca"
 	},
 	{
 		"CliContacId" : 1,
@@ -279,14 +152,7 @@
 		"CliContacCargo" : "Account \/Sales Director",
 		"CliContacTlfno" : "10110315217;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "ash@paralinkcopiers.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ash@paralinkcopiers.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -297,14 +163,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "4168403995;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "ed@prizmglobal.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ed@prizmglobal.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -315,14 +174,7 @@
 		"CliContacCargo" : "GERENTE DE CONTRATOS Y REPRESENTANTE LEGAL",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "O.SAAVEDRA@EBSCO.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "O.SAAVEDRA@EBSCO.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -333,14 +185,7 @@
 		"CliContacCargo" : "GERENTE COMERCIAL",
 		"CliContacTlfno" : "55418620;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "GGUTIERREZ@DIFUSION.COM.MX",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "GGUTIERREZ@DIFUSION.COM.MX"
 	},
 	{
 		"CliContacId" : 1,
@@ -351,14 +196,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "8332190707;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "enriqueleon@tecnoinspec.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "enriqueleon@tecnoinspec.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -369,14 +207,7 @@
 		"CliContacCargo" : "PRESIDENTE Y APODERADO LEGAL",
 		"CliContacTlfno" : "52 55 52 07 ;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "miguelbeliera@hotmail.com; info@bureauinternaciona",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "miguelbeliera@hotmail.com; info@bureauinternaciona"
 	},
 	{
 		"CliContacId" : 1,
@@ -387,14 +218,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "+52 55 52807;",
 		"CliContacCiudadania" : "EL SALVADOR",
-		"CliContacEmail" : "mmontesino@aenor.com ",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mmontesino@aenor.com "
 	},
 	{
 		"CliContacId" : 1,
@@ -405,14 +229,7 @@
 		"CliContacCargo" : "REPRESENTANTE LEGAL",
 		"CliContacTlfno" : "+ 52 81 8048;528180482979;",
 		"CliContacCiudadania" : "MEXICO",
-		"CliContacEmail" : "rgarcia@makrost.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "rgarcia@makrost.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -423,14 +240,7 @@
 		"CliContacCargo" : "PROPIETARIO INDIVIDUAL",
 		"CliContacTlfno" : "00(502) 5510",
 		"CliContacCiudadania" : "GUATEMALTECA",
-		"CliContacEmail" : "jcmonroy@proservagt.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jcmonroy@proservagt.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -441,14 +251,7 @@
 		"CliContacCargo" : "Esp. Asistencia Técnica",
 		"CliContacTlfno" : "204-0630;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "mildapicos@ttoweb.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mildapicos@ttoweb.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -459,14 +262,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "ITALIANO",
-		"CliContacEmail" : "caribemar@gmail.com ",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "caribemar@gmail.com "
 	},
 	{
 		"CliContacId" : 1,
@@ -477,14 +273,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "7204 3137;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "sportmate@sportmate.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "sportmate@sportmate.co.cu"
 	},
 	{
 		"CliContacId" : 1,
@@ -495,14 +284,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "(507) 264-80;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "ARGGROUP@LIVE.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ARGGROUP@LIVE.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -513,14 +295,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "72048600;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "Friedrich.eisenhauer@fecomsa.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Friedrich.eisenhauer@fecomsa.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -531,14 +306,7 @@
 		"CliContacCargo" : "DIRECTOR DE VENTAS",
 		"CliContacTlfno" : "507-360-3533;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "ricardod@ventas.net; ricardod@zonalibre.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ricardod@ventas.net; ricardod@zonalibre.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -549,14 +317,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "(507)391-762;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "info@italfima.com; presidencia@italfima.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "info@italfima.com; presidencia@italfima.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -567,14 +328,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "07 6112-8633;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "carlos.ruiz@americatechway.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "carlos.ruiz@americatechway.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -585,14 +339,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "5072089130;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "evega.syncflow@gmail.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "evega.syncflow@gmail.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -603,14 +350,7 @@
 		"CliContacCargo" : "COMERCIAL REGIONAL",
 		"CliContacTlfno" : "+505 7849 25;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "comercialregional@cpinsp.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "comercialregional@cpinsp.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -621,14 +361,7 @@
 		"CliContacCargo" : "Director General",
 		"CliContacTlfno" : "12424686597;",
 		"CliContacCiudadania" : "Bahamas",
-		"CliContacEmail" : "commercial@jhmgroup.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "commercial@jhmgroup.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -639,14 +372,7 @@
 		"CliContacCargo" : "GERENTE MAYOR DE OPERACIONES",
 		"CliContacTlfno" : "52850235;",
 		"CliContacCiudadania" : "BARBADOS",
-		"CliContacEmail" : "BZIMMERMAN@SHERRITTOGP.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "BZIMMERMAN@SHERRITTOGP.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -657,14 +383,7 @@
 		"CliContacCargo" : "GERENTE",
 		"CliContacTlfno" : "809-883-8696;",
 		"CliContacCiudadania" : "DOMINICANA",
-		"CliContacEmail" : "dmoreta@dariomoretayas ociados.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "dmoreta@dariomoretayas ociados.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -675,14 +394,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "4037175252;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "joe@rolltide.ca",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "joe@rolltide.ca"
 	},
 	{
 		"CliContacId" : 1,
@@ -693,14 +405,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "3206232768\/5;",
 		"CliContacCiudadania" : "COLOMBIANA",
-		"CliContacEmail" : "pedroalbarracin@tribosingenieria.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "pedroalbarracin@tribosingenieria.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -711,14 +416,7 @@
 		"CliContacCargo" : "PRESIDENTA",
 		"CliContacTlfno" : "265-2985;",
 		"CliContacCiudadania" : "VENEZOLANA",
-		"CliContacEmail" : "ZMARCORP@CANTV.NET",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ZMARCORP@CANTV.NET"
 	},
 	{
 		"CliContacId" : 1,
@@ -729,14 +427,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "5633471642;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "mtg@mtgchile.cl",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mtg@mtgchile.cl"
 	},
 	{
 		"CliContacId" : 1,
@@ -747,14 +438,7 @@
 		"CliContacCargo" : "COORDINADORA ACADEMICA",
 		"CliContacTlfno" : "10130703466;",
 		"CliContacCiudadania" : "BRASILEÑA",
-		"CliContacEmail" : "gisela@eftec.cl",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "gisela@eftec.cl"
 	},
 	{
 		"CliContacId" : 1,
@@ -765,14 +449,7 @@
 		"CliContacCargo" : "CEO",
 		"CliContacTlfno" : "+56994508442;",
 		"CliContacCiudadania" : "CHILENA",
-		"CliContacEmail" : "IGNACIO@TEMIS.IO",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "IGNACIO@TEMIS.IO"
 	},
 	{
 		"CliContacId" : 1,
@@ -783,14 +460,7 @@
 		"CliContacCargo" : "GERENTE LOGISTICA",
 		"CliContacTlfno" : "59322509728;",
 		"CliContacCiudadania" : "ECUATORIANA",
-		"CliContacEmail" : "pabloordoñez@vivenciar.com.ec",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "pabloordoñez@vivenciar.com.ec"
 	},
 	{
 		"CliContacId" : 1,
@@ -801,14 +471,7 @@
 		"CliContacCargo" : "Group CEO",
 		"CliContacTlfno" : "549113219325;",
 		"CliContacCiudadania" : "ARGENTINA",
-		"CliContacEmail" : "dsachi@roiagile.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "dsachi@roiagile.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -819,14 +482,7 @@
 		"CliContacCargo" : "DIRETOR SUPERINTENDENTE",
 		"CliContacTlfno" : "(021) 3622-3;",
 		"CliContacCiudadania" : "BRASILEÑA",
-		"CliContacEmail" : "COPPETEC@COPPETEC.COPPE.UFRJ.BR",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "COPPETEC@COPPETEC.COPPE.UFRJ.BR"
 	},
 	{
 		"CliContacId" : 1,
@@ -837,14 +493,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL",
 		"CliContacTlfno" : "(48) 3722-29;",
 		"CliContacCiudadania" : "BRASILEÑA",
-		"CliContacEmail" : "JEREMIAS@kHOMP.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JEREMIAS@kHOMP.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -855,14 +504,7 @@
 		"CliContacCargo" : "REPRESENTANTE DEL GERENTE",
 		"CliContacTlfno" : "12044400;",
 		"CliContacCiudadania" : "ALEMANA",
-		"CliContacEmail" : "fpa@pasi-caribe.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "fpa@pasi-caribe.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -873,14 +515,7 @@
 		"CliContacCargo" : "GERENTE GENERAL",
 		"CliContacTlfno" : "+49152019652;",
 		"CliContacCiudadania" : "ALEMANA",
-		"CliContacEmail" : "karl.kaufmann@poinger.de",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "karl.kaufmann@poinger.de"
 	},
 	{
 		"CliContacId" : 1,
@@ -891,14 +526,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "49-30-422-59;",
 		"CliContacCiudadania" : "ALEMAN",
-		"CliContacEmail" : "BERLIN@CON-IMPEX.DE",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "BERLIN@CON-IMPEX.DE"
 	},
 	{
 		"CliContacId" : 1,
@@ -909,14 +537,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "32 10454553;",
 		"CliContacCiudadania" : "BELGA",
-		"CliContacEmail" : "bdcint@bdcint.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "bdcint@bdcint.cu"
 	},
 	{
 		"CliContacId" : 1,
@@ -927,14 +548,7 @@
 		"CliContacCargo" : "Sales Administrator",
 		"CliContacTlfno" : "37 245444;",
 		"CliContacCiudadania" : "FRANCESA",
-		"CliContacEmail" : "kim@kappaeng.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "kim@kappaeng.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -945,14 +559,7 @@
 		"CliContacCargo" : "SENIOR TECHNICAL ADVISOR",
 		"CliContacTlfno" : "+33 1 6447 3;",
 		"CliContacCiudadania" : "FRANCESA",
-		"CliContacEmail" : "Antoine.michel@cgg.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Antoine.michel@cgg.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -963,14 +570,7 @@
 		"CliContacCargo" : "DIRECTOR",
 		"CliContacTlfno" : "+31 10 200 1;+31102001848;+311020018",
 		"CliContacCiudadania" : "HOLANDA",
-		"CliContacEmail" : "SALES@BACOU-INTERSAFE.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "SALES@BACOU-INTERSAFE.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -981,14 +581,7 @@
 		"CliContacCargo" : "ADMINISTRADOR ÚNICO, SOLO, INDEPENDIENTE Y REPRESE",
 		"CliContacTlfno" : "+31-78- 6849;",
 		"CliContacCiudadania" : "HOLANDESA",
-		"CliContacEmail" : "BACOUINTERSAFE@GRAAFHOLDING.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "BACOUINTERSAFE@GRAAFHOLDING.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -999,14 +592,7 @@
 		"CliContacCargo" : "MANAGING DIRECTOR",
 		"CliContacTlfno" : "+44020872634",
 		"CliContacCiudadania" : "REINO UNIDO",
-		"CliContacEmail" : "CHRIS@LYNXINFO.CO.UK",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "CHRIS@LYNXINFO.CO.UK"
 	},
 	{
 		"CliContacId" : 1,
@@ -1017,14 +603,7 @@
 		"CliContacCargo" : "Director Trading",
 		"CliContacTlfno" : "+41 41 511 0;",
 		"CliContacCiudadania" : "SUIZA",
-		"CliContacEmail" : "jrt@cominvestment.ch",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jrt@cominvestment.ch"
 	},
 	{
 		"CliContacId" : 1,
@@ -1035,14 +614,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "004171726121;",
 		"CliContacCiudadania" : "SUIZO",
-		"CliContacEmail" : "rudolf.hanggi@geo_science",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "rudolf.hanggi@geo_science"
 	},
 	{
 		"CliContacId" : 1,
@@ -1053,14 +625,7 @@
 		"CliContacCargo" : "ADMINISTRADORA ÚNICA",
 		"CliContacTlfno" : "5 269 19 09;",
 		"CliContacCiudadania" : "SUIZA",
-		"CliContacEmail" : "olivia@aliam.ch",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "olivia@aliam.ch"
 	},
 	{
 		"CliContacId" : 1,
@@ -1071,32 +636,7 @@
 		"CliContacCargo" : "DIRECTOR FINANCIERO",
 		"CliContacTlfno" : "+54915415669;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "iplaza@apleiningenieros.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10142800833,
-		"CliContacNombre" : "JAIME",
-		"CliContacApellidos" : "ALMIRALL  SENDON",
-		"CliContacCI" : "55012212244",
-		"CliContacCargo" : "GERENTE",
-		"CliContacTlfno" : "204-2627 \/ 2384",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "fondon@fondon.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "iplaza@apleiningenieros.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1107,14 +647,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "MP@AECESA.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MP@AECESA.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1125,14 +658,7 @@
 		"CliContacCargo" : "DIRECTOR COORPORATIVO Y VENTAS",
 		"CliContacTlfno" : "0034 963 17 ;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "jpnavarro@fermax.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jpnavarro@fermax.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1143,14 +669,7 @@
 		"CliContacCargo" : "ADMINISTRADOR ÚNICO",
 		"CliContacTlfno" : "+34 (91) 5062810;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "MICROCLIMA@MICROCLIMA.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MICROCLIMA@MICROCLIMA.ES"
 	},
 	{
 		"CliContacId" : 1,
@@ -1161,14 +680,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "10142808169;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "voltor@voltor.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "voltor@voltor.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1179,14 +691,7 @@
 		"CliContacCargo" : "Administradora Unica",
 		"CliContacTlfno" : "10142810541;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "solita.barran@tecnillon.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "solita.barran@tecnillon.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1197,14 +702,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+34 615 047 ;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : " ceo@corecasa.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : " ceo@corecasa.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1215,14 +713,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "943345000;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "tomas@erka.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "tomas@erka.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1233,14 +724,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "(+34) 972 22;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "IBERCUB@IBERCUB.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "IBERCUB@IBERCUB.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1251,14 +735,7 @@
 		"CliContacCargo" : "GERENTE GENERAL",
 		"CliContacTlfno" : "003493877119;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "MATEU-EXPORT@CAMBRESCAT.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MATEU-EXPORT@CAMBRESCAT.ES"
 	},
 	{
 		"CliContacId" : 1,
@@ -1269,14 +746,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "(+53) 528680;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "g.dominguez@dehispa.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "g.dominguez@dehispa.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1287,14 +757,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : " 609 430 232;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "general@ininser.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "general@ininser.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1305,14 +768,7 @@
 		"CliContacCargo" : "ASESOR COMERCIAL",
 		"CliContacTlfno" : "(53) 5 286-5;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "armandobra@guarconsa.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "armandobra@guarconsa.co.cu"
 	},
 	{
 		"CliContacId" : 1,
@@ -1323,14 +779,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "609306445;",
 		"CliContacCiudadania" : "ESPAÑOL",
-		"CliContacEmail" : "ENRIQUE@GAPSA.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ENRIQUE@GAPSA.ES"
 	},
 	{
 		"CliContacId" : 1,
@@ -1341,14 +790,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "34 976323100;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "comercial1@araelec.com;    araelec1@araelec.com;",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "comercial1@araelec.com;    araelec1@araelec.com;"
 	},
 	{
 		"CliContacId" : 1,
@@ -1359,14 +801,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "+34 63420857;",
 		"CliContacCiudadania" : "ESPAÑOL",
-		"CliContacEmail" : "luis.fluxa@gruponovelec.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "luis.fluxa@gruponovelec.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1377,14 +812,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "+34607740332;",
 		"CliContacCiudadania" : "ESPAÑA",
-		"CliContacEmail" : "MAGREDA@CARTRONIC.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MAGREDA@CARTRONIC.ES"
 	},
 	{
 		"CliContacId" : 1,
@@ -1395,14 +823,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "+34917342058;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "lomisa.habana@enet.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "lomisa.habana@enet.cu"
 	},
 	{
 		"CliContacId" : 1,
@@ -1413,14 +834,7 @@
 		"CliContacCargo" : "Director General",
 		"CliContacTlfno" : "+5358310455;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "csofia@grupopromael.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "csofia@grupopromael.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1431,14 +845,7 @@
 		"CliContacCargo" : "MANAGER",
 		"CliContacTlfno" : "+349378624;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "l.peiris@kinetrol.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "l.peiris@kinetrol.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1449,14 +856,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "53153817;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "JUANJO@FERPA-GRAPHIC.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JUANJO@FERPA-GRAPHIC.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1467,14 +867,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "+34 62819928;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "miguel@ansys-energia.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "miguel@ansys-energia.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1485,14 +878,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+34609069599;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "gabriel-lopez@eipsa.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "gabriel-lopez@eipsa.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1503,14 +889,7 @@
 		"CliContacCargo" : "PRESIDENTE DEL CONSEJO ADMINISTRACION",
 		"CliContacTlfno" : "956651251;",
 		"CliContacCiudadania" : "ESPAÑA",
-		"CliContacEmail" : "alcorz@caltech.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "alcorz@caltech.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1521,14 +900,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL PIPELINE OIL&GAS",
 		"CliContacTlfno" : "+34954935830;",
 		"CliContacCiudadania" : "ESPAÑOL",
-		"CliContacEmail" : "ANTONIO.LUQYE@SCHNEIDER-ELECTRIC.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ANTONIO.LUQYE@SCHNEIDER-ELECTRIC.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1539,14 +911,7 @@
 		"CliContacCargo" : "ADMINISTRADOR",
 		"CliContacTlfno" : "34937290985;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "JORDIGILBERT@GIBNIK.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JORDIGILBERT@GIBNIK.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1557,14 +922,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "34 902 88184;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "JFFERNANDEZ@SIXTHCENTURY.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JFFERNANDEZ@SIXTHCENTURY.ES"
 	},
 	{
 		"CliContacId" : 1,
@@ -1575,14 +933,7 @@
 		"CliContacCargo" : "ADMINISTRADOR ÚNICO",
 		"CliContacTlfno" : "+34 669 112 ;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "C.GALINDO@ALKAID.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "C.GALINDO@ALKAID.ES"
 	},
 	{
 		"CliContacId" : 1,
@@ -1593,14 +944,7 @@
 		"CliContacCargo" : "CEO",
 		"CliContacTlfno" : "+34 66437227;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "joangimferrer@steamvalv es.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "joangimferrer@steamvalv es.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1611,14 +955,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "+34 67320458;",
 		"CliContacCiudadania" : "ESPAÑOL",
-		"CliContacEmail" : "rblanco@little-cars.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "rblanco@little-cars.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1629,14 +966,7 @@
 		"CliContacCargo" : "DIRECTOR OIL&GAS",
 		"CliContacTlfno" : "+34918078719;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "jcarlos.garcia@sener.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jcarlos.garcia@sener.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1647,14 +977,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+34 91126762;",
 		"CliContacCiudadania" : "ESPAÑA",
-		"CliContacEmail" : "COMERCIAL@MADRIDBS.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "COMERCIAL@MADRIDBS.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1665,14 +988,7 @@
 		"CliContacCargo" : "",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "ygutierrez@dlsi.ua.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ygutierrez@dlsi.ua.es"
 	},
 	{
 		"CliContacId" : 1,
@@ -1683,14 +999,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "34622131545;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "D.GENERAL@AQSGROUP.ES; GENMGR@AQSGROUP.ES ",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "D.GENERAL@AQSGROUP.ES; GENMGR@AQSGROUP.ES "
 	},
 	{
 		"CliContacId" : 1,
@@ -1701,14 +1010,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "LAMARCA@INFOPRO.IT",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "LAMARCA@INFOPRO.IT"
 	},
 	{
 		"CliContacId" : 1,
@@ -1719,14 +1021,7 @@
 		"CliContacCargo" : "CEO",
 		"CliContacTlfno" : "+39.393.9200;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "giorgio.giorgetti@byautoma.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "giorgio.giorgetti@byautoma.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1737,14 +1032,7 @@
 		"CliContacCargo" : "ASESOR DE VENTAS",
 		"CliContacTlfno" : "+5355921926;+50688443013;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "EXPORT@PROCESSIMPIANTI.IT",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "EXPORT@PROCESSIMPIANTI.IT"
 	},
 	{
 		"CliContacId" : 1,
@@ -1755,14 +1043,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "003903625731;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "S.ZUCCHI@PSCENGINEERING.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "S.ZUCCHI@PSCENGINEERING.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1773,32 +1054,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "+420 702 180;",
 		"CliContacCiudadania" : "UCRANIA",
-		"CliContacEmail" : "ceo@caribalt.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10145702998,
-		"CliContacNombre" : "D.A.",
-		"CliContacApellidos" : "PSHENICHNYI",
-		"CliContacCI" : "",
-		"CliContacCargo" : "VICEDIRECTOR DE ZARUBEZHNEFT EN CUBA",
-		"CliContacTlfno" : "7 201-0133",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "dpshenichnyi@nestro.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ceo@caribalt.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1809,14 +1065,7 @@
 		"CliContacCargo" : "Jefe-Rector",
 		"CliContacTlfno" : "3472420370;",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "info@rusoil.net",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "info@rusoil.net"
 	},
 	{
 		"CliContacId" : 1,
@@ -1827,14 +1076,7 @@
 		"CliContacCargo" : "REPRESENTANTE EN CUBA",
 		"CliContacTlfno" : "+5355161347;",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "AGAPITOV@VEYAINVEST.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "AGAPITOV@VEYAINVEST.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1845,14 +1087,7 @@
 		"CliContacCargo" : "RECTOR",
 		"CliContacTlfno" : "+784329244;",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "public.mail@kpfu.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "public.mail@kpfu.ru"
 	},
 	{
 		"CliContacId" : 1,
@@ -1863,14 +1098,7 @@
 		"CliContacCargo" : "DEPUTY MANAGING DIRECTOR",
 		"CliContacTlfno" : "+7(921)951-6;",
 		"CliContacCiudadania" : "RUSO",
-		"CliContacEmail" : "AEF@VALCOM.RU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "AEF@VALCOM.RU"
 	},
 	{
 		"CliContacId" : 1,
@@ -1881,14 +1109,7 @@
 		"CliContacCargo" : "DIRECTOR EJECUTIVO",
 		"CliContacTlfno" : "+79058227723",
 		"CliContacCiudadania" : "FEDERACION RUSA",
-		"CliContacEmail" : "ZEMLYANOY@MIDOTMN.RU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ZEMLYANOY@MIDOTMN.RU"
 	},
 	{
 		"CliContacId" : 1,
@@ -1899,14 +1120,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "+420 603 254;",
 		"CliContacCiudadania" : "CHECO",
-		"CliContacEmail" : "jan.cerny@intecha.cz",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jan.cerny@intecha.cz"
 	},
 	{
 		"CliContacId" : 1,
@@ -1917,14 +1131,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "420564040111",
 		"CliContacCiudadania" : "CHECA",
-		"CliContacEmail" : "stefl@optokon.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "stefl@optokon.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1935,14 +1142,7 @@
 		"CliContacCargo" : "ADMINISTRADOR UNICO",
 		"CliContacTlfno" : "+34649900117;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "gerencia@linsed.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "gerencia@linsed.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -1953,14 +1153,7 @@
 		"CliContacCargo" : "CEO",
 		"CliContacTlfno" : "9617093479",
 		"CliContacCiudadania" : "INDIA",
-		"CliContacEmail" : "ROOHINDIA@GMAIL.COM ",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ROOHINDIA@GMAIL.COM "
 	},
 	{
 		"CliContacId" : 1,
@@ -1971,14 +1164,7 @@
 		"CliContacCargo" : "DIRECTOR Y CEO",
 		"CliContacTlfno" : "917381044100;",
 		"CliContacCiudadania" : "INDIA",
-		"CliContacEmail" : "ASHWINI.RATH@BATOI.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ASHWINI.RATH@BATOI.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -1989,14 +1175,7 @@
 		"CliContacCargo" : "DIRECTOR",
 		"CliContacTlfno" : "919810217013;",
 		"CliContacCiudadania" : "BRITISH",
-		"CliContacEmail" : "ANIL.SAGAR@RENATAIOT.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ANIL.SAGAR@RENATAIOT.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -2007,14 +1186,7 @@
 		"CliContacCargo" : "HEAD OF SALES AND MARKETING",
 		"CliContacTlfno" : "919840850065;",
 		"CliContacCiudadania" : "INDIAN",
-		"CliContacEmail" : "JEYAKUMAR@SYRMASGS.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JEYAKUMAR@SYRMASGS.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -2025,14 +1197,7 @@
 		"CliContacCargo" : "BUSINESS MANAGER",
 		"CliContacTlfno" : "+91 81009544;",
 		"CliContacCiudadania" : "INDIA",
-		"CliContacEmail" : "ROMIT@PITANGENT.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ROMIT@PITANGENT.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -2043,14 +1208,7 @@
 		"CliContacCargo" : "CHIEF MARKETING OFFICER",
 		"CliContacTlfno" : "+91-86573826;",
 		"CliContacCiudadania" : "INDIA",
-		"CliContacEmail" : "SUNITA.KISHNANI@SOFTUDE.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "SUNITA.KISHNANI@SOFTUDE.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -2061,14 +1219,7 @@
 		"CliContacCargo" : "GERENTE DE VENTAS",
 		"CliContacTlfno" : "52108172;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "violeta.hou@huawei.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "violeta.hou@huawei.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -2079,14 +1230,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "52793049;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "leina@bgp.com.cn",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "leina@bgp.com.cn"
 	},
 	{
 		"CliContacId" : 1,
@@ -2097,14 +1241,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "86 10 5928 5;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "CUBA.GWDC@CNPC.COM.CN",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "CUBA.GWDC@CNPC.COM.CN"
 	},
 	{
 		"CliContacId" : 1,
@@ -2115,14 +1252,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "057459555167;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "wongpuicn@yahoo.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "wongpuicn@yahoo.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -2133,14 +1263,7 @@
 		"CliContacCargo" : "GERENTE GENERAL",
 		"CliContacTlfno" : "+5352809988",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "YANG2098@126.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "YANG2098@126.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -2151,14 +1274,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "yangguang@keruigroup.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "yangguang@keruigroup.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -2169,14 +1285,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE",
 		"CliContacTlfno" : "861062683859;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "QINJING@POTEVIO-INTL.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "QINJING@POTEVIO-INTL.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -2187,14 +1296,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "yaoz@cptdc.cnpc.com.cn",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "yaoz@cptdc.cnpc.com.cn"
 	},
 	{
 		"CliContacId" : 1,
@@ -2205,14 +1307,7 @@
 		"CliContacCargo" : "Gerente regional de Latinoamérica",
 		"CliContacTlfno" : "005358475546;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "Lishaopeng01@cnpc.com.cn",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Lishaopeng01@cnpc.com.cn"
 	},
 	{
 		"CliContacId" : 1,
@@ -2223,14 +1318,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+86-312-3822;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "LANGKERANG@BGPINTL.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "LANGKERANG@BGPINTL.COM"
 	},
 	{
 		"CliContacId" : 1,
@@ -2241,14 +1329,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+86535692070;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "GUOGE@HUADONG.NET",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "GUOGE@HUADONG.NET"
 	},
 	{
 		"CliContacId" : 1,
@@ -2259,14 +1340,7 @@
 		"CliContacCargo" : "GERENTE DE NEGOCIOS",
 		"CliContacTlfno" : "56842198;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "GUOJIAN@PANDAINTL.COM.CN",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "GUOJIAN@PANDAINTL.COM.CN"
 	},
 	{
 		"CliContacId" : 1,
@@ -2277,14 +1351,7 @@
 		"CliContacCargo" : "REPRESENTANTE LATINOAMÉRICA",
 		"CliContacTlfno" : "861861155761;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "LICHAOPENG01@CNPC.COM.CN",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "LICHAOPENG01@CNPC.COM.CN"
 	},
 	{
 		"CliContacId" : 1,
@@ -2295,32 +1362,7 @@
 		"CliContacCargo" : "General Manager  Latin America",
 		"CliContacTlfno" : "(53)55054778;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "zhangyang@hxdi.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10200101400,
-		"CliContacNombre" : "JESÚS A.",
-		"CliContacApellidos" : "Ortega Pérez",
-		"CliContacCI" : "64111306888",
-		"CliContacCargo" : "01 Dir. General",
-		"CliContacTlfno" : "043522345",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "director@ferti.cfg.minbas.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "zhangyang@hxdi.com"
 	},
 	{
 		"CliContacId" : 1,
@@ -2331,158 +1373,7 @@
 		"CliContacCargo" : "Jefe de Compras",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "juan.lazo@eie.co.cu",
-		"CliContacEmail" : "jose.figueredo@eie.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10200176200,
-		"CliContacNombre" : "EMILIO",
-		"CliContacApellidos" : "Salazar",
-		"CliContacCI" : "59100602024",
-		"CliContacCargo" : "6,7  Informátco",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "emilio@mathisa.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10200222900,
-		"CliContacNombre" : "  JORGE",
-		"CliContacApellidos" : "Leyva Leyva",
-		"CliContacCI" : "92100728104",
-		"CliContacCargo" : "01 seguridad Informática",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10200256601,
-		"CliContacNombre" : "JUAN A.",
-		"CliContacApellidos" : "VIETRE ROSS",
-		"CliContacCI" : "",
-		"CliContacCargo" : "DIRECTOR GENERAL",
-		"CliContacTlfno" : "7977660",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "vietre@hvg.gases.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10200256610,
-		"CliContacNombre" : "JAIME",
-		"CliContacApellidos" : "RODRIGUEZ ENMANUELLI",
-		"CliContacCI" : "71121652208",
-		"CliContacCargo" : "01 EP ATM",
-		"CliContacTlfno" : "7977660",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "jaime@hvg.gases.co.co",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10200256617,
-		"CliContacNombre" : "ALEXANDER",
-		"CliContacApellidos" : "ESCALONA BOYX",
-		"CliContacCI" : "76100717549",
-		"CliContacCargo" : "01 Comprador",
-		"CliContacTlfno" : "7265680, 7266082",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10201296800,
-		"CliContacNombre" : "ALEJANDRO",
-		"CliContacApellidos" : "Batista",
-		"CliContacCI" : "68050507581",
-		"CliContacCargo" : "01 Esp. ATM",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "alejandro@geiq.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10201296901,
-		"CliContacNombre" : "EDUARDO",
-		"CliContacApellidos" : "Sardiña Díaz",
-		"CliContacCI" : "63092411886",
-		"CliContacCargo" : "6,7 Director UEB Servicios",
-		"CliContacTlfno" : "8702736",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 1,
-		"CliCodigo" : 10201330300,
-		"CliContacNombre" : "CARLOS",
-		"CliContacApellidos" : "PARRA DIAZ",
-		"CliContacCI" : "69092120502",
-		"CliContacCargo" : "01 ADMINISTRADOR GENERAL",
-		"CliContacTlfno" : "052798921",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "carlos@quimimpex.minbas.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jose.figueredo@eie.co.cu"
 	},
 	{
 		"CliContacId" : 1,
@@ -2493,14 +1384,7 @@
 		"CliContacCargo" : "J´Aseguramiento",
 		"CliContacTlfno" : "32272480;Ext. 113;",
 		"CliContacCiudadania" : "cubnana",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 1,
@@ -2511,14 +1395,7 @@
 		"CliContacCargo" : "52097787",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "52152548",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 1,
@@ -2529,32 +1406,7 @@
 		"CliContacCargo" : "Director",
 		"CliContacTlfno" : "72048910",
 		"CliContacCiudadania" : "español",
-		"CliContacEmail" : "d.alonso@cesyta.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10102020076,
-		"CliContacNombre" : "JOSE RAMON",
-		"CliContacApellidos" : "VAZQUEZ MIANA",
-		"CliContacCI" : "4907952",
-		"CliContacCargo" : "PRESIDENTE",
-		"CliContacTlfno" : "204 8622\/23",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "mistralcaribe@mistralcaribe.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "d.alonso@cesyta.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2565,14 +1417,7 @@
 		"CliContacCargo" : "ADMINISTRACION COMERCIAL",
 		"CliContacTlfno" : "(598) 260120;",
 		"CliContacCiudadania" : "URUGUAY",
-		"CliContacEmail" : "lsarasola@genexus.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "lsarasola@genexus.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2583,14 +1428,7 @@
 		"CliContacCargo" : "CONSULTOR CONTRATADO CIH",
 		"CliContacTlfno" : "52815315;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "VALDESMAURIZ@GMAIL.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "VALDESMAURIZ@GMAIL.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -2601,14 +1439,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "(613) 230-68;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "jorgegl@mac.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jorgegl@mac.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2619,14 +1450,7 @@
 		"CliContacCargo" : "ASIA COORDINADOR",
 		"CliContacTlfno" : "905-6020091 ;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 2,
@@ -2637,14 +1461,7 @@
 		"CliContacCargo" : "DIRECTOR DE MERCADEO",
 		"CliContacTlfno" : "514-337-0667;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "FDONOSO@AXSERA.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "FDONOSO@AXSERA.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -2655,14 +1472,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "1 (514) 2984;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "ben@exceltec-inc.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ben@exceltec-inc.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2673,14 +1483,7 @@
 		"CliContacCargo" : "ASISTENTE EJECUTIVO",
 		"CliContacTlfno" : "10110314248;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "SANDY.RIEDIGER@RANGELANDENG.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "SANDY.RIEDIGER@RANGELANDENG.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -2691,14 +1494,7 @@
 		"CliContacCargo" : "President",
 		"CliContacTlfno" : "9055997786;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "ash@paralinkcopiers.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ash@paralinkcopiers.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2709,14 +1505,7 @@
 		"CliContacCargo" : "GERENTE GENERAL",
 		"CliContacTlfno" : "4168403995;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "genmgr@prizmglobal.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "genmgr@prizmglobal.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2727,14 +1516,7 @@
 		"CliContacCargo" : "REPRESENTANTE APODERADO",
 		"CliContacTlfno" : "72043123;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "EUSEBIO@ZOLTEC.CO.CU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "EUSEBIO@ZOLTEC.CO.CU"
 	},
 	{
 		"CliContacId" : 2,
@@ -2745,14 +1527,7 @@
 		"CliContacCargo" : "DIRECTOR ADMINISTRATIVO",
 		"CliContacTlfno" : "8332190707;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "verorivera@tecnoinspec.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "verorivera@tecnoinspec.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2763,14 +1538,7 @@
 		"CliContacCargo" : "ADMINISTRACION",
 		"CliContacTlfno" : "52 55 52 07 ;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "info@bureauinternacional.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "info@bureauinternacional.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2781,14 +1549,7 @@
 		"CliContacCargo" : "GERENTE DE FORMACION",
 		"CliContacTlfno" : "+52 55 91384;+52 55 91384;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "rmandujano@aenor.com ",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "rmandujano@aenor.com "
 	},
 	{
 		"CliContacId" : 2,
@@ -2799,14 +1560,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE",
 		"CliContacTlfno" : "+506 2428-51;",
 		"CliContacCiudadania" : "COSTA RICA",
-		"CliContacEmail" : "INVERSIONESVARGASYABREU@OUTLOOK.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "INVERSIONESVARGASYABREU@OUTLOOK.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -2817,14 +1571,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "7204 3137;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "sportmate@sportmate.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "sportmate@sportmate.co.cu"
 	},
 	{
 		"CliContacId" : 2,
@@ -2835,14 +1582,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE",
 		"CliContacTlfno" : "52635346;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "ARGGROUP@LIVE.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ARGGROUP@LIVE.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -2853,14 +1593,7 @@
 		"CliContacCargo" : "GERENTE DE OPERACIONES MEXICO",
 		"CliContacTlfno" : "119529383812;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "LZuniga@slb.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "LZuniga@slb.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2871,14 +1604,7 @@
 		"CliContacCargo" : "EJECUTIVO DE VENTAS",
 		"CliContacTlfno" : "07 6112-8633;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "comercial@americatechway.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "comercial@americatechway.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2889,14 +1615,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+507 6980 13;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "Eduardo.curnier@cpinsp.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Eduardo.curnier@cpinsp.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2907,14 +1626,7 @@
 		"CliContacCargo" : "GERENTE DE PRODUCCIÓN",
 		"CliContacTlfno" : "52855407;",
 		"CliContacCiudadania" : "BARBADOS",
-		"CliContacEmail" : "CSADECKI@SHERRITTOGP.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "CSADECKI@SHERRITTOGP.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -2925,14 +1637,7 @@
 		"CliContacCargo" : "AUX. ADMINISTRATIVA",
 		"CliContacTlfno" : "3206232768\/5;",
 		"CliContacCiudadania" : "COLOMBIANA",
-		"CliContacEmail" : "eo.comercial@tribosingenieria.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "eo.comercial@tribosingenieria.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2943,14 +1648,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE",
 		"CliContacTlfno" : "265-2985;",
 		"CliContacCiudadania" : "VENEZOLANA",
-		"CliContacEmail" : "ZMARCORP@CANTV.NET",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ZMARCORP@CANTV.NET"
 	},
 	{
 		"CliContacId" : 2,
@@ -2961,14 +1659,7 @@
 		"CliContacCargo" : "VICE REPRESENTANTE",
 		"CliContacTlfno" : "72045255\/56;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "mtg@mtg.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mtg@mtg.co.cu"
 	},
 	{
 		"CliContacId" : 2,
@@ -2979,14 +1670,7 @@
 		"CliContacCargo" : "GERENTE EGC",
 		"CliContacTlfno" : "5372047063;",
 		"CliContacCiudadania" : "ECUATORIANA",
-		"CliContacEmail" : "Silvia.mesa@pumagas.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Silvia.mesa@pumagas.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -2997,14 +1681,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL",
 		"CliContacTlfno" : "34649443943",
 		"CliContacCiudadania" : "ARGENTINA",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 2,
@@ -3015,14 +1692,7 @@
 		"CliContacCargo" : "Sector Jurídico",
 		"CliContacTlfno" : "(21) 3622-34;",
 		"CliContacCiudadania" : "BRASILEÑA",
-		"CliContacEmail" : "poty@coppetec.coppe.ufrj.br",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "poty@coppetec.coppe.ufrj.br"
 	},
 	{
 		"CliContacId" : 2,
@@ -3033,14 +1703,7 @@
 		"CliContacCargo" : "GERENTE",
 		"CliContacTlfno" : "72044400, EX;",
 		"CliContacCiudadania" : "ALEMAN",
-		"CliContacEmail" : "FPA@CON-IMPEX.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "FPA@CON-IMPEX.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3051,14 +1714,7 @@
 		"CliContacCargo" : "VENDEDOR",
 		"CliContacTlfno" : "3210454553;",
 		"CliContacCiudadania" : "BELHA",
-		"CliContacEmail" : "bdcint@bdcint.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "bdcint@bdcint.cu"
 	},
 	{
 		"CliContacId" : 2,
@@ -3069,14 +1725,7 @@
 		"CliContacCargo" : "COMERCIAL",
 		"CliContacTlfno" : "37 245444;",
 		"CliContacCiudadania" : "FRANCESA",
-		"CliContacEmail" : "marian@kappaeng.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "marian@kappaeng.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3087,14 +1736,7 @@
 		"CliContacCargo" : "Vice-President, Software geovation Sales",
 		"CliContacTlfno" : "+33 1 6447 3;",
 		"CliContacCiudadania" : "FRANCESA",
-		"CliContacEmail" : "Bertrand.chavane@cgg.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Bertrand.chavane@cgg.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3105,14 +1747,7 @@
 		"CliContacCargo" : "VICE-REPRESENTANTE",
 		"CliContacTlfno" : "+5372042836;",
 		"CliContacCiudadania" : "HOLANDA",
-		"CliContacEmail" : "VERBEECK@BACOU-INTERSAFE.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "VERBEECK@BACOU-INTERSAFE.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3123,14 +1758,7 @@
 		"CliContacCargo" : "GERENTE",
 		"CliContacTlfno" : "537-2040374;",
 		"CliContacCiudadania" : "HOLANDESA",
-		"CliContacEmail" : "JOHN@BACOU.CO.CU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JOHN@BACOU.CO.CU"
 	},
 	{
 		"CliContacId" : 2,
@@ -3141,14 +1769,7 @@
 		"CliContacCargo" : "FINANCE MANAGER",
 		"CliContacTlfno" : "+44020872634",
 		"CliContacCiudadania" : "REINO UNIDO",
-		"CliContacEmail" : "ACCOUNTS@LYNXINFO.CO.UK",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ACCOUNTS@LYNXINFO.CO.UK"
 	},
 	{
 		"CliContacId" : 2,
@@ -3159,14 +1780,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+41 79 406 0;",
 		"CliContacCiudadania" : "SUIZA",
-		"CliContacEmail" : "cm@cominvestment.ch",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "cm@cominvestment.ch"
 	},
 	{
 		"CliContacId" : 2,
@@ -3177,14 +1791,7 @@
 		"CliContacCargo" : "DIRECTOR DE MARKETING",
 		"CliContacTlfno" : "004171726121;",
 		"CliContacCiudadania" : "SUIZO",
-		"CliContacEmail" : "rudolf.hanggi@geo_science rudolf.hanggi@geo_scienc",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "rudolf.hanggi@geo_science rudolf.hanggi@geo_scienc"
 	},
 	{
 		"CliContacId" : 2,
@@ -3195,32 +1802,7 @@
 		"CliContacCargo" : "CONSEJERO DELEGADO",
 		"CliContacTlfno" : "+34 +34 91 5;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "fmperez@eypscap.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10142800833,
-		"CliContacNombre" : "JOSE ANTONIO",
-		"CliContacApellidos" : "VEGA FONDON",
-		"CliContacCI" : "Q 358924 pa",
-		"CliContacCargo" : "REPRESENTAN",
-		"CliContacTlfno" : "204-2627 \/ ",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "fondon@fondon.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "fmperez@eypscap.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3231,14 +1813,7 @@
 		"CliContacCargo" : "AREA SALES MANAGER",
 		"CliContacTlfno" : "0034 963 17 ;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "dlucas@fermax.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "dlucas@fermax.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3249,14 +1824,7 @@
 		"CliContacCargo" : "Adm. Solidario",
 		"CliContacTlfno" : "3595802;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "voltor@voltor.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "voltor@voltor.es"
 	},
 	{
 		"CliContacId" : 2,
@@ -3267,14 +1835,7 @@
 		"CliContacCargo" : "DIRECTOR EXPORTACIONES PARA EL ÁREAS DEL CARIBE",
 		"CliContacTlfno" : "943345000;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "a.villanueva@erka.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "a.villanueva@erka.es"
 	},
 	{
 		"CliContacId" : 2,
@@ -3285,14 +1846,7 @@
 		"CliContacCargo" : "ADMINISTRATIVO",
 		"CliContacTlfno" : "003493877119;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "MATEU-EXPORT@CABRESCAR.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MATEU-EXPORT@CABRESCAR.ES"
 	},
 	{
 		"CliContacId" : 2,
@@ -3303,14 +1857,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "344535395;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "TEKENER@TEKENER.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "TEKENER@TEKENER.ES"
 	},
 	{
 		"CliContacId" : 2,
@@ -3321,14 +1868,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE",
 		"CliContacTlfno" : "34-93-751355;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "elazsl@movistar.es; infoelazsl@movistar.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "elazsl@movistar.es; infoelazsl@movistar.es"
 	},
 	{
 		"CliContacId" : 2,
@@ -3339,14 +1879,7 @@
 		"CliContacCargo" : "DIRECTORA COMERCIAL",
 		"CliContacTlfno" : "659 56 56 72;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "administracion@ininser.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "administracion@ininser.es"
 	},
 	{
 		"CliContacId" : 2,
@@ -3357,14 +1890,7 @@
 		"CliContacCargo" : "DIRECTOR",
 		"CliContacTlfno" : "34 616957355;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "nates@ekinsa.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "nates@ekinsa.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3375,14 +1901,7 @@
 		"CliContacCargo" : "GESTOR DE VENTAS",
 		"CliContacTlfno" : "+34 61535007;",
 		"CliContacCiudadania" : "ESPAÑA",
-		"CliContacEmail" : "DAVIDG@CARTRONIC.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "DAVIDG@CARTRONIC.ES"
 	},
 	{
 		"CliContacId" : 2,
@@ -3393,14 +1912,7 @@
 		"CliContacCargo" : "DIRECTOR",
 		"CliContacTlfno" : "34616995585;",
 		"CliContacCiudadania" : "ESPAÑA",
-		"CliContacEmail" : "COMERCIAL@TECNOGPS.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "COMERCIAL@TECNOGPS.ES"
 	},
 	{
 		"CliContacId" : 2,
@@ -3411,14 +1923,7 @@
 		"CliContacCargo" : "REPRESENTANTE LEGAL",
 		"CliContacTlfno" : "+34 96364656;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "absalvo@ansys-energia.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "absalvo@ansys-energia.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3429,14 +1934,7 @@
 		"CliContacCargo" : "DIRECTOR ADJUNTO",
 		"CliContacTlfno" : "+34690818533;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "fernando-gallego@eipsa.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "fernando-gallego@eipsa.es"
 	},
 	{
 		"CliContacId" : 2,
@@ -3447,14 +1945,7 @@
 		"CliContacCargo" : "RESPONSABLE OFERTAS-PIPELINE OIL&GAS",
 		"CliContacTlfno" : "-34954935642;",
 		"CliContacCiudadania" : "ESPAÑOL",
-		"CliContacEmail" : "JUAN.CORNEJO@SCHNEIDER-ELECTRIC.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JUAN.CORNEJO@SCHNEIDER-ELECTRIC.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3465,14 +1956,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL",
 		"CliContacTlfno" : "34937290985;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "DAVID.ALONSO@GIBNIK.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "DAVID.ALONSO@GIBNIK.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3483,14 +1967,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "+34 61659730;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "antoniocuadra@contagas. com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "antoniocuadra@contagas. com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3501,14 +1978,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL UNIDAD DE NEGOCIO ENERGIA",
 		"CliContacTlfno" : "+34944818069;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "borja.zarraga@sener.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "borja.zarraga@sener.es"
 	},
 	{
 		"CliContacId" : 2,
@@ -3519,14 +1989,7 @@
 		"CliContacCargo" : "SECRETARIO DEL CENTRO DE IA, CATEDRATICO",
 		"CliContacTlfno" : "+34965903400;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "RAFAEL@DISI.UA.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "RAFAEL@DISI.UA.ES"
 	},
 	{
 		"CliContacId" : 2,
@@ -3537,14 +2000,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL",
 		"CliContacTlfno" : "+39.328.7486;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "igor.borges@byautoma.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "igor.borges@byautoma.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3555,14 +2011,7 @@
 		"CliContacCargo" : "RESPONSABLE COMERCIAL",
 		"CliContacTlfno" : "003903625731;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "B.FALOMO2PSCENGINEERING.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "B.FALOMO2PSCENGINEERING.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3573,32 +2022,7 @@
 		"CliContacCargo" : "VICEREPRESENTANTE",
 		"CliContacTlfno" : "53 5826 3389;",
 		"CliContacCiudadania" : "UCRANIA",
-		"CliContacEmail" : "cme@caribalt.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10145702998,
-		"CliContacNombre" : "LOURDES",
-		"CliContacApellidos" : "SOTO CAL",
-		"CliContacCI" : "",
-		"CliContacCargo" : "ASESORA LEGAL OFICINA REGIONAL ZARUBEZHNEFT CUBA",
-		"CliContacTlfno" : "7 204-7321",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "lsoto@nestro.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "cme@caribalt.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3609,14 +2033,7 @@
 		"CliContacCargo" : "Coodinador ENERGOIMPORT MOSCU",
 		"CliContacTlfno" : "89252995490;84954344163;",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "energoimport@energorusia.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "energoimport@energorusia.ru"
 	},
 	{
 		"CliContacId" : 2,
@@ -3627,14 +2044,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "74959871191;",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "OFFICE@VEYAINVEST.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "OFFICE@VEYAINVEST.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3645,14 +2055,7 @@
 		"CliContacCargo" : "VICE RECTOR DE RELACIONES EXTERIORES",
 		"CliContacTlfno" : "+78432337447;",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "Linar.Latypov@kpfu.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Linar.Latypov@kpfu.ru"
 	},
 	{
 		"CliContacId" : 2,
@@ -3663,14 +2066,7 @@
 		"CliContacCargo" : "MANAGING DIRECTOR (CEO)",
 		"CliContacTlfno" : "+78123209833",
 		"CliContacCiudadania" : "RUSO",
-		"CliContacEmail" : "INFO@VALCOM.RU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "INFO@VALCOM.RU"
 	},
 	{
 		"CliContacId" : 2,
@@ -3681,14 +2077,7 @@
 		"CliContacCargo" : "JEFE DEL DEPARTAMENTO DE VENTAS",
 		"CliContacTlfno" : "+79829125558;",
 		"CliContacCiudadania" : "FEDERACION RUSA",
-		"CliContacEmail" : "KOKORINA_EN@MIDOTMN.RU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "KOKORINA_EN@MIDOTMN.RU"
 	},
 	{
 		"CliContacId" : 2,
@@ -3699,14 +2088,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL",
 		"CliContacTlfno" : "+4220 603 20;",
 		"CliContacCiudadania" : "CHECO",
-		"CliContacEmail" : "josef.kocian@intecha.cz",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "josef.kocian@intecha.cz"
 	},
 	{
 		"CliContacId" : 2,
@@ -3717,14 +2099,7 @@
 		"CliContacCargo" : "ADMINISTRACION",
 		"CliContacTlfno" : "+34968687885;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "info@linsed.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "info@linsed.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3735,14 +2110,7 @@
 		"CliContacCargo" : "DIRECTOR",
 		"CliContacTlfno" : "+91 98304958;",
 		"CliContacCiudadania" : "INDIA",
-		"CliContacEmail" : "MILTAN@PITANGENT.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MILTAN@PITANGENT.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3753,14 +2121,7 @@
 		"CliContacCargo" : "",
 		"CliContacTlfno" : "9425458341;",
 		"CliContacCiudadania" : "INDIA",
-		"CliContacEmail" : "YASHI.JAIN@SOFTUDE.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "YASHI.JAIN@SOFTUDE.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3771,14 +2132,7 @@
 		"CliContacCargo" : "GERENTE GENERAL",
 		"CliContacTlfno" : "+53 52808881;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "KONGXZ.GWDC@CNPC.CN",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "KONGXZ.GWDC@CNPC.CN"
 	},
 	{
 		"CliContacId" : 2,
@@ -3789,14 +2143,7 @@
 		"CliContacCargo" : "COMERCIAL",
 		"CliContacTlfno" : "+53 52798331;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "pengminjian@163.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "pengminjian@163.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3807,14 +2154,7 @@
 		"CliContacCargo" : "REPRESENTANTE SUCURSAL",
 		"CliContacTlfno" : "72088999;",
 		"CliContacCiudadania" : "CHINO",
-		"CliContacEmail" : "com1@beyatime.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "com1@beyatime.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3825,14 +2165,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+5352809988",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "YANG2098@126.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "YANG2098@126.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3843,14 +2176,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "7207-2929;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "QUINJING@POTEVIO-INTL.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "QUINJING@POTEVIO-INTL.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -3861,14 +2187,7 @@
 		"CliContacCargo" : "Gerente regional de américa",
 		"CliContacTlfno" : "008613911257;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "Houdefeng@cnpc.com.cn",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Houdefeng@cnpc.com.cn"
 	},
 	{
 		"CliContacId" : 2,
@@ -3879,14 +2198,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "65487302@qq.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "65487302@qq.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3897,14 +2209,7 @@
 		"CliContacCargo" : "ES. DE MARKETING DE ULTRAMAR",
 		"CliContacTlfno" : "+68790875914;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "GUOGE@HUADONG.NET",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "GUOGE@HUADONG.NET"
 	},
 	{
 		"CliContacId" : 2,
@@ -3915,14 +2220,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL",
 		"CliContacTlfno" : "+86-15692319;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "sinochn@163.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "sinochn@163.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -3933,194 +2231,7 @@
 		"CliContacCargo" : "CONSEJERO DELEGADO",
 		"CliContacTlfno" : "61 3 8625 60;",
 		"CliContacCiudadania" : "AUSTRALIANO",
-		"CliContacEmail" : "OBERT.ZAMMIT@MELBANA.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200100800,
-		"CliContacNombre" : "ALBERTO",
-		"CliContacApellidos" : "Morera Ramos",
-		"CliContacCI" : "61040815222",
-		"CliContacCargo" : "3-8,11 Dir. UEB Mtto.",
-		"CliContacTlfno" : "52795395",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "ymorera@elquim.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200101400,
-		"CliContacNombre" : "JORGE A.",
-		"CliContacApellidos" : "Cabrera Ortíz",
-		"CliContacCI" : "73110325040",
-		"CliContacCargo" : "Dir. Económico",
-		"CliContacTlfno" : "043521880",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "direconomico@ferti.cfg.minbas.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200176200,
-		"CliContacNombre" : "ENMA MARINA",
-		"CliContacApellidos" : "Hernández Ibarra",
-		"CliContacCI" : "58050100810",
-		"CliContacCargo" : "01 Director general",
-		"CliContacTlfno" : "78788677",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "enma@mathisa.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200222900,
-		"CliContacNombre" : "GUILLERMO",
-		"CliContacApellidos" : "Orama Placeres",
-		"CliContacCI" : "71071400147",
-		"CliContacCargo" : "01 Balancista Distribuidor",
-		"CliContacTlfno" : "76823432",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200256601,
-		"CliContacNombre" : "LEYDIS",
-		"CliContacApellidos" : "AROCHA SOROA",
-		"CliContacCI" : "85102906414",
-		"CliContacCargo" : "AUTORIZADO",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200256610,
-		"CliContacNombre" : "JOSÉ LUÍS",
-		"CliContacApellidos" : "Valdés Puerta",
-		"CliContacCI" : "65070901083",
-		"CliContacCargo" : "01 Informático",
-		"CliContacTlfno" : "7977660",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "jose@hvg.gases.co.co",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200256617,
-		"CliContacNombre" : "EDDY",
-		"CliContacApellidos" : "González Gort",
-		"CliContacCI" : "66062828822",
-		"CliContacCargo" : "01 Comprador",
-		"CliContacTlfno" : "265680, 266082",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10200256634,
-		"CliContacNombre" : "EDUARDO",
-		"CliContacApellidos" : "FAZA MARTINEZ",
-		"CliContacCI" : "87032408249",
-		"CliContacCargo" : "01 BALANCISTA",
-		"CliContacTlfno" : "77970028",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10201296800,
-		"CliContacNombre" : "AQUILINO",
-		"CliContacApellidos" : "Solis Aguilera",
-		"CliContacCI" : "69090510125",
-		"CliContacCargo" : "01 EP Informático",
-		"CliContacTlfno" : "52115898",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "aquilino@geiq.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10201296901,
-		"CliContacNombre" : "EDUARDO",
-		"CliContacApellidos" : "Díaz Sardiñas",
-		"CliContacCI" : "74061827629",
-		"CliContacCargo" : "6,7 Comprador",
-		"CliContacTlfno" : "8702736",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "OBERT.ZAMMIT@MELBANA.COM"
 	},
 	{
 		"CliContacId" : 2,
@@ -4131,32 +2242,7 @@
 		"CliContacCargo" : "Tec. Gestión Calidad",
 		"CliContacTlfno" : "76487910;",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "mtto@torres.gedeme.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 2,
-		"CliCodigo" : 10201330300,
-		"CliContacNombre" : "DAIMI",
-		"CliContacApellidos" : "Pérez López",
-		"CliContacCI" : "79122805238",
-		"CliContacCargo" : "01 DIRECTORA GENERAL",
-		"CliContacTlfno" : "052867557",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "direccion@quimimpex.minbas.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "mtto@torres.gedeme.cu"
 	},
 	{
 		"CliContacId" : 2,
@@ -4167,14 +2253,7 @@
 		"CliContacCargo" : "Esp. Comunicaciones",
 		"CliContacTlfno" : "52165619;",
 		"CliContacCiudadania" : "cuaban",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 2,
@@ -4185,14 +2264,7 @@
 		"CliContacCargo" : "Gerente General",
 		"CliContacTlfno" : "+5351596957",
 		"CliContacCiudadania" : "Española",
-		"CliContacEmail" : "mpg@sanchezylago.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mpg@sanchezylago.com"
 	},
 	{
 		"CliContacId" : 2,
@@ -4203,14 +2275,7 @@
 		"CliContacCargo" : "Esp. Ciencias Informáticas",
 		"CliContacTlfno" : "76987020;84;",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "cur@transnet.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "cur@transnet.cu"
 	},
 	{
 		"CliContacId" : 2,
@@ -4221,14 +2286,7 @@
 		"CliContacCargo" : "Inverionista",
 		"CliContacTlfno" : "59993314",
 		"CliContacCiudadania" : "cubaba",
-		"CliContacEmail" : "osvaldo.perez@fcbc.cu ",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "osvaldo.perez@fcbc.cu "
 	},
 	{
 		"CliContacId" : 2,
@@ -4239,14 +2297,7 @@
 		"CliContacCargo" : "Jfe de Mantenimiento",
 		"CliContacTlfno" : "45623600;",
 		"CliContacCiudadania" : "Cubaana",
-		"CliContacEmail" : "jmtto@resortsolymar.gctur.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jmtto@resortsolymar.gctur.cu"
 	},
 	{
 		"CliContacId" : 2,
@@ -4257,14 +2308,7 @@
 		"CliContacCargo" : "Directora Económica",
 		"CliContacTlfno" : "50962584",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "Dunia703@nauta.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "Dunia703@nauta.cu"
 	},
 	{
 		"CliContacId" : 3,
@@ -4275,14 +2319,7 @@
 		"CliContacCargo" : "Esp. Energetico",
 		"CliContacTlfno" : "45667545 ext",
 		"CliContacCiudadania" : "cunabo",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 3,
@@ -4293,14 +2330,7 @@
 		"CliContacCargo" : "CONTADORA",
 		"CliContacTlfno" : "905-6020091 ;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "emma@abforwarding.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "emma@abforwarding.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4311,14 +2341,7 @@
 		"CliContacCargo" : "GERENTE COMERCIAL",
 		"CliContacTlfno" : "+15147587110;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "nwicommercial@northworldindustry.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "nwicommercial@northworldindustry.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4329,14 +2352,7 @@
 		"CliContacCargo" : "CONSEJERO PRESIDENTE",
 		"CliContacTlfno" : "528180489200;",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "ROBERTO.GARCÍA@GRUPOJAR.COM.MX",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ROBERTO.GARCÍA@GRUPOJAR.COM.MX"
 	},
 	{
 		"CliContacId" : 3,
@@ -4347,14 +2363,7 @@
 		"CliContacCargo" : "GERENTE DE COMERCIO INTERNACIONAL",
 		"CliContacTlfno" : "8332190707",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "fabiolamejia@tecnoinspec.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "fabiolamejia@tecnoinspec.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4365,14 +2374,7 @@
 		"CliContacCargo" : "GERENTE DE CUENTAS CUBA",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "MEXICANA",
-		"CliContacEmail" : "ASolorzano@slb.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ASolorzano@slb.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4383,14 +2385,7 @@
 		"CliContacCargo" : "SOPORTE TECNICO",
 		"CliContacTlfno" : " 07 6112-863;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "soporte@americatechway.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "soporte@americatechway.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4401,14 +2396,7 @@
 		"CliContacCargo" : "COMERCIAL",
 		"CliContacTlfno" : "+507 6361 72;",
 		"CliContacCiudadania" : "PANAMEÑA",
-		"CliContacEmail" : "comercial@cpinsp.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "comercial@cpinsp.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4419,14 +2407,7 @@
 		"CliContacCargo" : "GERENTE DE CONTABILIDAD",
 		"CliContacTlfno" : "52805532;",
 		"CliContacCiudadania" : "CUBA",
-		"CliContacEmail" : "AANTON@SHERRITTOGP.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "AANTON@SHERRITTOGP.COM"
 	},
 	{
 		"CliContacId" : 3,
@@ -4437,14 +2418,7 @@
 		"CliContacCargo" : "GERENTE LOGISTICO",
 		"CliContacTlfno" : "59322509728;",
 		"CliContacCiudadania" : "ECUATORIANO",
-		"CliContacEmail" : "pabloordoñez@vivenciar.com.ec",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "pabloordoñez@vivenciar.com.ec"
 	},
 	{
 		"CliContacId" : 3,
@@ -4455,14 +2429,7 @@
 		"CliContacCargo" : "COMERCIAL \/ INGENIERO DE VENTAS",
 		"CliContacTlfno" : "72044400-104;",
 		"CliContacCiudadania" : "ALEMANA",
-		"CliContacEmail" : "jw@pasi-caribe.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jw@pasi-caribe.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4473,14 +2440,7 @@
 		"CliContacCargo" : "GERENTE",
 		"CliContacTlfno" : "+5372040374;",
 		"CliContacCiudadania" : "HOLANDA",
-		"CliContacEmail" : "FLEITES@BACOU-INTERSAFE.CU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "FLEITES@BACOU-INTERSAFE.CU"
 	},
 	{
 		"CliContacId" : 3,
@@ -4491,14 +2451,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "34944635100;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "goniosl@goniosl.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "goniosl@goniosl.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4509,14 +2462,7 @@
 		"CliContacCargo" : "Vice Representante",
 		"CliContacTlfno" : "8664009;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "gilberto@voltor.tdc.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "gilberto@voltor.tdc.cu"
 	},
 	{
 		"CliContacId" : 3,
@@ -4527,14 +2473,7 @@
 		"CliContacCargo" : "CONSEJERO DELEGADO",
 		"CliContacTlfno" : "+3494670981;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "atocino@miesasa.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "atocino@miesasa.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4545,14 +2484,7 @@
 		"CliContacCargo" : "ADMINISTRATIVA",
 		"CliContacTlfno" : "003493877119;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "MATEU-EXPORT@CABRESSCAT.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MATEU-EXPORT@CABRESSCAT.ES"
 	},
 	{
 		"CliContacId" : 3,
@@ -4563,14 +2495,7 @@
 		"CliContacCargo" : "DIRECTOR COMERCIAL",
 		"CliContacTlfno" : "344535395",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "TEKENER@TEKENER.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "TEKENER@TEKENER.ES"
 	},
 	{
 		"CliContacId" : 3,
@@ -4581,14 +2506,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "34-93-751355;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "lazsl@movistar.es; infoelazsl@movistar.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "lazsl@movistar.es; infoelazsl@movistar.es"
 	},
 	{
 		"CliContacId" : 3,
@@ -4599,14 +2517,7 @@
 		"CliContacCargo" : "ASISTENTE DE DIRECCION",
 		"CliContacTlfno" : "+34 63827610;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "SMARQUINEZ@CARTRONIC.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "SMARQUINEZ@CARTRONIC.ES"
 	},
 	{
 		"CliContacId" : 3,
@@ -4617,14 +2528,7 @@
 		"CliContacCargo" : "ADMINISTRADOR ÚNICO",
 		"CliContacTlfno" : "944523367;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "ADMINISTRACION@RODABILSA.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ADMINISTRACION@RODABILSA.COM"
 	},
 	{
 		"CliContacId" : 3,
@@ -4635,14 +2539,7 @@
 		"CliContacCargo" : "DIRECTOR DE EXPORTACIONES",
 		"CliContacTlfno" : "935647253;",
 		"CliContacCiudadania" : "ESPAÑA",
-		"CliContacEmail" : "XAVIER.GONZALEZ@CICLAUTOAUTOMOCION.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "XAVIER.GONZALEZ@CICLAUTOAUTOMOCION.COM"
 	},
 	{
 		"CliContacId" : 3,
@@ -4653,14 +2550,7 @@
 		"CliContacCargo" : "REPRESENTANTE",
 		"CliContacTlfno" : "34933817876,;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "mromero@sumcab.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mromero@sumcab.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4671,14 +2561,7 @@
 		"CliContacCargo" : "LOGISTICA",
 		"CliContacTlfno" : "34937290985;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "LOGISTICS@GIBNIK.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "LOGISTICS@GIBNIK.COM"
 	},
 	{
 		"CliContacId" : 3,
@@ -4689,14 +2572,7 @@
 		"CliContacCargo" : "RESPONSABLE COMERCIA",
 		"CliContacTlfno" : "+34 681 220 ;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "P.BOTO@ALKAID.ES",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "P.BOTO@ALKAID.ES"
 	},
 	{
 		"CliContacId" : 3,
@@ -4707,14 +2583,7 @@
 		"CliContacCargo" : "Responsable de Desarrollo de Negocio en la Unidad",
 		"CliContacTlfno" : "+34918078719;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "carmen.ainoza@sener.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "carmen.ainoza@sener.es"
 	},
 	{
 		"CliContacId" : 3,
@@ -4725,14 +2594,7 @@
 		"CliContacCargo" : "DIRECTOR INTERNACIONAL",
 		"CliContacTlfno" : "+34649433921;",
 		"CliContacCiudadania" : "ESPAÑA",
-		"CliContacEmail" : "d.lloret@icdqcorp.es",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "d.lloret@icdqcorp.es"
 	},
 	{
 		"CliContacId" : 3,
@@ -4743,14 +2605,7 @@
 		"CliContacCargo" : "ADMINISTRADOR DELEGADO           REPRESENTANTE EN ",
 		"CliContacTlfno" : "+39044428076;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "GINO@ELLETTRICAVICENTINA.IT",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "GINO@ELLETTRICAVICENTINA.IT"
 	},
 	{
 		"CliContacId" : 3,
@@ -4761,32 +2616,7 @@
 		"CliContacCargo" : "DIRECTOR",
 		"CliContacTlfno" : "393286667609;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "matteo.saccani@hechoenitalia.it",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10145702998,
-		"CliContacNombre" : "N.N.",
-		"CliContacApellidos" : "PROLHOROV",
-		"CliContacCI" : "",
-		"CliContacCargo" : "DIRECTOR DE OFICINA REGIONAL ZARUBEZHNEFT CUBA",
-		"CliContacTlfno" : "7204-0133",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "nprokhorov@nestro.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "matteo.saccani@hechoenitalia.it"
 	},
 	{
 		"CliContacId" : 3,
@@ -4797,14 +2627,7 @@
 		"CliContacCargo" : "VENDEDORA",
 		"CliContacTlfno" : "3472404758;",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "malininatv@ipkoil.ru; mailto:alamargo@yandex.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "malininatv@ipkoil.ru; mailto:alamargo@yandex.ru"
 	},
 	{
 		"CliContacId" : 3,
@@ -4815,14 +2638,7 @@
 		"CliContacCargo" : "EJECUTIVO COMERCIAL",
 		"CliContacTlfno" : "+420 724 665;",
 		"CliContacCiudadania" : "CHECO",
-		"CliContacEmail" : "jaromir.hloupy@intecha.cz",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "jaromir.hloupy@intecha.cz"
 	},
 	{
 		"CliContacId" : 3,
@@ -4833,14 +2649,7 @@
 		"CliContacCargo" : "projekt manager",
 		"CliContacTlfno" : "+421 55 72 8;421557288777;",
 		"CliContacCiudadania" : "ESLOVACO",
-		"CliContacEmail" : "vronc@energocontrol.sk",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "vronc@energocontrol.sk"
 	},
 	{
 		"CliContacId" : 3,
@@ -4851,14 +2660,7 @@
 		"CliContacCargo" : "VICE REPRESENTNTE",
 		"CliContacTlfno" : "+86 13705080;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "homeropeng@vip.163.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "homeropeng@vip.163.com"
 	},
 	{
 		"CliContacId" : 3,
@@ -4869,14 +2671,7 @@
 		"CliContacCargo" : "REPRESENTANTE LEGAL",
 		"CliContacTlfno" : "861860103723;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "MARIO@PANDAINTL.COM.CN",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "MARIO@PANDAINTL.COM.CN"
 	},
 	{
 		"CliContacId" : 3,
@@ -4887,230 +2682,7 @@
 		"CliContacCargo" : "JEFE DE FINANZAS",
 		"CliContacTlfno" : "61 3 8625 60;",
 		"CliContacCiudadania" : "AUSTRALIANO",
-		"CliContacEmail" : "COLIN.NAYLOR@MELBANA.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200100800,
-		"CliContacNombre" : "ISEL",
-		"CliContacApellidos" : "Pérez López",
-		"CliContacCI" : "69020316721",
-		"CliContacCargo" : "Director General",
-		"CliContacTlfno" : "42663015, 52640379",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "jperez@elquim.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200101400,
-		"CliContacNombre" : "MANUEL",
-		"CliContacApellidos" : "López Hernández",
-		"CliContacCI" : "46101611186",
-		"CliContacCargo" : "Esp. Comercial",
-		"CliContacTlfno" : "052808143",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200176200,
-		"CliContacNombre" : "YOLANDA",
-		"CliContacApellidos" : "Murga Gómez",
-		"CliContacCI" : "64012405236",
-		"CliContacCargo" : "01 Dir. Económica",
-		"CliContacTlfno" : "78708001",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "yolanda@mathisa.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200222900,
-		"CliContacNombre" : "LÁZARO LEANDRO",
-		"CliContacApellidos" : "Camaraza Rodríguez",
-		"CliContacCI" : "69082532309",
-		"CliContacCargo" : "Director General",
-		"CliContacTlfno" : "76823432",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200256601,
-		"CliContacNombre" : "MARIA ELENA",
-		"CliContacApellidos" : "MARTINEZ LOPEZ",
-		"CliContacCI" : "",
-		"CliContacCargo" : "JEFE DE VENTAS",
-		"CliContacTlfno" : "7936432",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "elena@hvg.gases.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200256617,
-		"CliContacNombre" : "ENRIQUE",
-		"CliContacApellidos" : "Castillo Rivera",
-		"CliContacCI" : "65102117849",
-		"CliContacCargo" : "01 DIRECTOR UEB",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "castillo@cg.gases.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200256632,
-		"CliContacNombre" : "PABLO LÁZARO",
-		"CliContacApellidos" : "Acosta Ruiz",
-		"CliContacCI" : "85012906588",
-		"CliContacCargo" : "05 Esp. ATM",
-		"CliContacTlfno" : "77976083",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10200256634,
-		"CliContacNombre" : "EMILIO",
-		"CliContacApellidos" : "FERNANDEZ PEÑA",
-		"CliContacCI" : "87010208186",
-		"CliContacCargo" : "01 BALANCISTA",
-		"CliContacTlfno" : "77970028",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10201296800,
-		"CliContacNombre" : "BRANDY",
-		"CliContacApellidos" : "Araujo Reyes",
-		"CliContacCI" : "71020805302",
-		"CliContacCargo" : "Director General",
-		"CliContacTlfno" : "72076342",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "brandy@geiq.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10201296901,
-		"CliContacNombre" : "JORGE",
-		"CliContacApellidos" : "Gutiérrez Ricardo",
-		"CliContacCI" : "67091403640",
-		"CliContacCargo" : "01 Dir. Económico",
-		"CliContacTlfno" : "8785475",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10201330300,
-		"CliContacNombre" : "JULIO CESAR",
-		"CliContacApellidos" : "GIL DELGADO",
-		"CliContacCI" : "66060831065",
-		"CliContacCargo" : "01 COMPRADOR",
-		"CliContacTlfno" : "7567581",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "julio@quimimpex.minbas.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 3,
-		"CliCodigo" : 10204002700,
-		"CliContacNombre" : "OVIDIO",
-		"CliContacApellidos" : "Barrera Becerra",
-		"CliContacCI" : "61041305301",
-		"CliContacCargo" : "01 Comercial",
-		"CliContacTlfno" : "52800234",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "ovidio@oxi.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "COLIN.NAYLOR@MELBANA.COM"
 	},
 	{
 		"CliContacId" : 3,
@@ -5121,14 +2693,7 @@
 		"CliContacCargo" : "Esp Comercial",
 		"CliContacTlfno" : "52115945;",
 		"CliContacCiudadania" : "Cubaana",
-		"CliContacEmail" : "radames@emni.moa.minem.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "radames@emni.moa.minem.cu"
 	},
 	{
 		"CliContacId" : 3,
@@ -5139,14 +2704,7 @@
 		"CliContacCargo" : "Dir. UEB",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "c",
-		"CliContacEmail" : "carlos@emcor.cupet.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : null
+		"CliContacEmail" : "carlos@emcor.cupet.cu"
 	},
 	{
 		"CliContacId" : 3,
@@ -5157,14 +2715,7 @@
 		"CliContacCargo" : "Administrador",
 		"CliContacTlfno" : "52130335;",
 		"CliContacCiudadania" : "Cubanna",
-		"CliContacEmail" : "aaguilera@garbo.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "aaguilera@garbo.cu"
 	},
 	{
 		"CliContacId" : 4,
@@ -5175,14 +2726,7 @@
 		"CliContacCargo" : "SECRETARIA EJECUTIVA",
 		"CliContacTlfno" : "7204  2069;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "CLAUDIA@SSSI.CO.CU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "CLAUDIA@SSSI.CO.CU"
 	},
 	{
 		"CliContacId" : 4,
@@ -5193,14 +2737,7 @@
 		"CliContacCargo" : "COMERCIAL",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "rey@abforwarding.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "rey@abforwarding.com"
 	},
 	{
 		"CliContacId" : 4,
@@ -5211,14 +2748,7 @@
 		"CliContacCargo" : "VICEPRESIDENTE",
 		"CliContacTlfno" : " 1403 710 98;",
 		"CliContacCiudadania" : "CANADIENSE",
-		"CliContacEmail" : "ALEON@GALAX.CA",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ALEON@GALAX.CA"
 	},
 	{
 		"CliContacId" : 4,
@@ -5229,14 +2759,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+507-2043900;+507-6595-17;",
 		"CliContacCiudadania" : "ALEMANA",
-		"CliContacEmail" : "JAN.TRITTIN@KUEHNE-NAGEL.COM ",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "JAN.TRITTIN@KUEHNE-NAGEL.COM "
 	},
 	{
 		"CliContacId" : 4,
@@ -5247,14 +2770,7 @@
 		"CliContacCargo" : "Gerente de Operaciones Cuba",
 		"CliContacTlfno" : "7204 2191;",
 		"CliContacCiudadania" : "MEXICANO",
-		"CliContacEmail" : "calvarado2@havana.oilfield.slb.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "calvarado2@havana.oilfield.slb.com"
 	},
 	{
 		"CliContacId" : 4,
@@ -5265,14 +2781,7 @@
 		"CliContacCargo" : "PRESIDENTE",
 		"CliContacTlfno" : "+(584) 14298;",
 		"CliContacCiudadania" : "COREA",
-		"CliContacEmail" : "CHOI@NENEKA.CO.CU",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "CHOI@NENEKA.CO.CU"
 	},
 	{
 		"CliContacId" : 4,
@@ -5283,14 +2792,7 @@
 		"CliContacCargo" : "GERENTE ADMINISTRATIVO",
 		"CliContacTlfno" : "59322306678;",
 		"CliContacCiudadania" : "ECUATORIANA",
-		"CliContacEmail" : "norbertovasquez@vivenciar.com.ec",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "norbertovasquez@vivenciar.com.ec"
 	},
 	{
 		"CliContacId" : 4,
@@ -5301,14 +2803,7 @@
 		"CliContacCargo" : "PRESIDENTE CONSEJO ADMINISTRACION",
 		"CliContacTlfno" : "+34946709816;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "emugica@miesasa.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "emugica@miesasa.com"
 	},
 	{
 		"CliContacId" : 4,
@@ -5319,14 +2814,7 @@
 		"CliContacCargo" : "Responsable Departamento Exterior",
 		"CliContacTlfno" : "+34657885963;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "asienra@gupopromael.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "asienra@gupopromael.com"
 	},
 	{
 		"CliContacId" : 4,
@@ -5337,32 +2825,7 @@
 		"CliContacCargo" : "SUBDIRECTOR",
 		"CliContacTlfno" : "393421684901;",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "robertoforte21@gmail.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10145702998,
-		"CliContacNombre" : "S.I.",
-		"CliContacApellidos" : "KUDRYASHOV",
-		"CliContacCI" : "",
-		"CliContacCargo" : "DIRECTOR GENERAL DE JSC ZARUBEZHNEFT EN MOSCU",
-		"CliContacTlfno" : "495 748 65 00",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "skudryashov@nestro.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "robertoforte21@gmail.com"
 	},
 	{
 		"CliContacId" : 4,
@@ -5373,176 +2836,7 @@
 		"CliContacCargo" : "GERENTE PROYECTOS",
 		"CliContacTlfno" : "861062683839;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "ZUJUN@POTEVIO-INTL.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10200100800,
-		"CliContacNombre" : "JORGE ISAAC",
-		"CliContacApellidos" : "Imbert Peraza",
-		"CliContacCI" : "69020316721",
-		"CliContacCargo" : "Dir. Económico",
-		"CliContacTlfno" : "42663015,52795394",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "jimbert@elquim.minem.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10200101400,
-		"CliContacNombre" : "RENÉ",
-		"CliContacApellidos" : "Sasgón Rodes",
-		"CliContacCI" : "81102310081",
-		"CliContacCargo" : "01 Dir. técnico",
-		"CliContacTlfno" : "043522242",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10200222900,
-		"CliContacNombre" : "MIRIAN",
-		"CliContacApellidos" : "Fuentes Fernández",
-		"CliContacCI" : "66081504411",
-		"CliContacCargo" : "Director económico",
-		"CliContacTlfno" : "76822432",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10200256601,
-		"CliContacNombre" : "ROBERTO",
-		"CliContacApellidos" : "ALVAREZ SANTANA",
-		"CliContacCI" : "57021312423",
-		"CliContacCargo" : "AUTORIZADO",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10200256617,
-		"CliContacNombre" : "FELIX",
-		"CliContacApellidos" : "RAMOS PÉREZ",
-		"CliContacCI" : "54022109020",
-		"CliContacCargo" : "01 Comprador",
-		"CliContacTlfno" : "032265680, 266082",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10200256632,
-		"CliContacNombre" : "RENÉ",
-		"CliContacApellidos" : "Lorenzo Acosta",
-		"CliContacCI" : "36090521688",
-		"CliContacCargo" : "Esp. ATM",
-		"CliContacTlfno" : "77976083",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10201296901,
-		"CliContacNombre" : "ORLANDO",
-		"CliContacApellidos" : "Miralles Cristóbal",
-		"CliContacCI" : "39041627963",
-		"CliContacCargo" : "6,7 Comprador",
-		"CliContacTlfno" : "8702736",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10201330300,
-		"CliContacNombre" : "MILEYDIS",
-		"CliContacApellidos" : "Oliva Santana",
-		"CliContacCI" : "69092120502",
-		"CliContacCargo" : "01 DIRECTOR ECONOMICO",
-		"CliContacTlfno" : "052865595",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 4,
-		"CliCodigo" : 10246043700,
-		"CliContacNombre" : "Idalmis",
-		"CliContacApellidos" : "Maura Correoso",
-		"CliContacCI" : "65102717071",
-		"CliContacCargo" : "01- DIRECTOR ECONOMICO",
-		"CliContacTlfno" : "72041032,52115190",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "ZUJUN@POTEVIO-INTL.COM"
 	},
 	{
 		"CliContacId" : 4,
@@ -5553,14 +2847,7 @@
 		"CliContacCargo" : "Esp Comercial",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "cubnaa",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 4,
@@ -5571,14 +2858,7 @@
 		"CliContacCargo" : "Informatico",
 		"CliContacTlfno" : "52126072;",
 		"CliContacCiudadania" : "77062822467",
-		"CliContacEmail" : "mvjimenez@empet.cupet.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mvjimenez@empet.cupet.cu"
 	},
 	{
 		"CliContacId" : 4,
@@ -5589,14 +2869,7 @@
 		"CliContacCargo" : "Jefe del departamento Territorial de Informatizaci",
 		"CliContacTlfno" : "78841157",
 		"CliContacCiudadania" : "Cuabno",
-		"CliContacEmail" : "akdulay@onfet.mitrans.gob.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "akdulay@onfet.mitrans.gob.cu"
 	},
 	{
 		"CliContacId" : 4,
@@ -5607,32 +2880,7 @@
 		"CliContacCargo" : "J´Asegramiento",
 		"CliContacTlfno" : "76489680;",
 		"CliContacCiudadania" : "cubaa",
-		"CliContacEmail" : "orestes@peugeot.sasa.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 5,
-		"CliCodigo" : 10110308333,
-		"CliContacNombre" : "Jesús Antonio",
-		"CliContacApellidos" : "Florit González",
-		"CliContacCI" : "",
-		"CliContacCargo" : "Gestor.Importador\/Exportador",
-		"CliContacTlfno" : "2040029\/2040125",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "reiterhv@reiter.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "orestes@peugeot.sasa.co.cu"
 	},
 	{
 		"CliContacId" : 5,
@@ -5643,14 +2891,7 @@
 		"CliContacCargo" : "SECRETARIA CONSEJO ADMINISTRACION",
 		"CliContacTlfno" : "+34946709816;",
 		"CliContacCiudadania" : "ESPAÑOLA",
-		"CliContacEmail" : "marisa@miesasa.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "marisa@miesasa.com"
 	},
 	{
 		"CliContacId" : 5,
@@ -5661,14 +2902,7 @@
 		"CliContacCargo" : "ESPECIALISTA",
 		"CliContacTlfno" : "39345554738",
 		"CliContacCiudadania" : "ITALIANA",
-		"CliContacEmail" : "mattia.baldini@hechoenitalia.it",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "mattia.baldini@hechoenitalia.it"
 	},
 	{
 		"CliContacId" : 5,
@@ -5679,14 +2913,7 @@
 		"CliContacCargo" : "VICEDIRECTOR DE ZARUBEZHNEFT EN CUBA",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "dpshenichnyi@nestro.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "dpshenichnyi@nestro.ru"
 	},
 	{
 		"CliContacId" : 5,
@@ -5697,104 +2924,7 @@
 		"CliContacCargo" : "DIRECTOR DE NEGOCIOS PARA AMERICA LATINA",
 		"CliContacTlfno" : "861062683820;",
 		"CliContacCiudadania" : "CHINA",
-		"CliContacEmail" : "ZHENGZHUANG@POTEVIO-INTL.COM",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 5,
-		"CliCodigo" : 10200222900,
-		"CliContacNombre" : "SAMUEL",
-		"CliContacApellidos" : "Martínez Redes",
-		"CliContacCI" : "90081126027",
-		"CliContacCargo" : "01 Administrador de rede",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 5,
-		"CliCodigo" : 10200256601,
-		"CliContacNombre" : "SUSANA",
-		"CliContacApellidos" : "SANTOS LEZCANO",
-		"CliContacCI" : "67063001650",
-		"CliContacCargo" : "ECONOMICA",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 5,
-		"CliCodigo" : 10200256617,
-		"CliContacNombre" : "JOSE M",
-		"CliContacApellidos" : "TOLEDO MIRANDA",
-		"CliContacCI" : "54110126326",
-		"CliContacCargo" : "01 Comprador",
-		"CliContacTlfno" : "265680, 266082",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 5,
-		"CliCodigo" : 10201296901,
-		"CliContacNombre" : "OSVEL",
-		"CliContacApellidos" : "Expósito Hernández",
-		"CliContacCI" : "64090203587",
-		"CliContacCargo" : "01 Dir. General",
-		"CliContacTlfno" : "8704215",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 5,
-		"CliCodigo" : 10246043700,
-		"CliContacNombre" : "ARISTIDES",
-		"CliContacApellidos" : "HERNANDEZ MORALES",
-		"CliContacCI" : "58121805442",
-		"CliContacCargo" : "01- PRESIDENTE",
-		"CliContacTlfno" : "72041062, 52796996",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "aristides@geiq.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "ZHENGZHUANG@POTEVIO-INTL.COM"
 	},
 	{
 		"CliContacId" : 5,
@@ -5805,14 +2935,7 @@
 		"CliContacCargo" : "Operario G Mtto. y Reparación",
 		"CliContacTlfno" : "52874063;",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : ""
 	},
 	{
 		"CliContacId" : 5,
@@ -5823,104 +2946,7 @@
 		"CliContacCargo" : "Esp. Ciencias Informáticas",
 		"CliContacTlfno" : "52735959",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "alberto@transmatco.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 6,
-		"CliCodigo" : 10200222900,
-		"CliContacNombre" : "YULEISYS MERCEDES",
-		"CliContacApellidos" : "Valle Noda",
-		"CliContacCI" : "83092306736",
-		"CliContacCargo" : "01 dir. Desarrollo",
-		"CliContacTlfno" : "76823432",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 6,
-		"CliCodigo" : 10200256601,
-		"CliContacNombre" : "WILLIAM",
-		"CliContacApellidos" : "LOPEZ ROSA",
-		"CliContacCI" : "64111719829",
-		"CliContacCargo" : "AUTORIZADO",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 6,
-		"CliCodigo" : 10200256634,
-		"CliContacNombre" : "WALVER",
-		"CliContacApellidos" : "RODRIGUEZ VIDAL",
-		"CliContacCI" : "73082206504",
-		"CliContacCargo" : "01 BALANCISTA",
-		"CliContacTlfno" : "77970028",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 6,
-		"CliCodigo" : 10201296901,
-		"CliContacNombre" : "PEDRO",
-		"CliContacApellidos" : "Rivero Purniel",
-		"CliContacCI" : "66020816766",
-		"CliContacCargo" : "6,7 Comprador",
-		"CliContacTlfno" : "8702736",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 6,
-		"CliCodigo" : 10246043700,
-		"CliContacNombre" : "Franklin de Jesús",
-		"CliContacApellidos" : "Garmendía López",
-		"CliContacCI" : "58100602481",
-		"CliContacCargo" : "01- ESP. A ABASTECIMIENTO",
-		"CliContacTlfno" : "72041032, 52866143",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "alberto@transmatco.co.cu"
 	},
 	{
 		"CliContacId" : 7,
@@ -5931,50 +2957,7 @@
 		"CliContacCargo" : "DIRECTOR DE OFICINA REGIONAL ZARUBEZHNEFT CUBA",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "nprokhorov@nestro.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 7,
-		"CliCodigo" : 10200256601,
-		"CliContacNombre" : "YAMILET",
-		"CliContacApellidos" : "FUENTES PARDIÑA",
-		"CliContacCI" : "",
-		"CliContacCargo" : "DIRECTORA ECONOMICA",
-		"CliContacTlfno" : "7947677",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "yamilet@hvg.gases.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 7,
-		"CliCodigo" : 10200256631,
-		"CliContacNombre" : "Roberto",
-		"CliContacApellidos" : "Rodríguez Gelabert",
-		"CliContacCI" : "66011430309",
-		"CliContacCargo" : "01 Tec. Tranp. Automotriz",
-		"CliContacTlfno" : "72606818 ext103",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "roberto.rodriguez@hlv.gases.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "nprokhorov@nestro.ru"
 	},
 	{
 		"CliContacId" : 7,
@@ -5985,14 +2968,7 @@
 		"CliContacCargo" : "Dir. Técnico y Logístico",
 		"CliContacTlfno" : "76902741;ext 107;",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "walter@gmsa.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "walter@gmsa.cu"
 	},
 	{
 		"CliContacId" : 7,
@@ -6003,32 +2979,7 @@
 		"CliContacCargo" : "Esp. Ciencias Informáticas",
 		"CliContacTlfno" : "52966666;",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "orelvis@transmatco.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 8,
-		"CliCodigo" : 10110308333,
-		"CliContacNombre" : "Ron",
-		"CliContacApellidos" : "Reiter",
-		"CliContacCI" : "",
-		"CliContacCargo" : "Gerente Comercial",
-		"CliContacTlfno" : "(514)8782563",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "ronreiter@reiterpet.com",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "orelvis@transmatco.co.cu"
 	},
 	{
 		"CliContacId" : 8,
@@ -6039,32 +2990,7 @@
 		"CliContacCargo" : "DIRECTOR GENERAL DE JSC ZARUBEZHNEFT EN MOSCU",
 		"CliContacTlfno" : "",
 		"CliContacCiudadania" : "RUSA",
-		"CliContacEmail" : "skudryashov@nestro.ru",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 8,
-		"CliCodigo" : 10200256631,
-		"CliContacNombre" : "Araceli",
-		"CliContacApellidos" : "Trujillo Rubio",
-		"CliContacCI" : "77040502538",
-		"CliContacCargo" : "01 Tec. Ciencias Informática",
-		"CliContacTlfno" : "72606818 ext100",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "admin@hlv.gases.co.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "skudryashov@nestro.ru"
 	},
 	{
 		"CliContacId" : 9,
@@ -6075,50 +3001,7 @@
 		"CliContacCargo" : "Director General",
 		"CliContacTlfno" : "72076874",
 		"CliContacCiudadania" : "cuabana",
-		"CliContacEmail" : "luis.alberto@vitral.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 10,
-		"CliCodigo" : 10200103200,
-		"CliContacNombre" : "Dania",
-		"CliContacApellidos" : "Hidalgo Martínez",
-		"CliContacCI" : "68042501157",
-		"CliContacCargo" : "01 Dir. Técnica",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "dania@vidlisa.minem.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 10,
-		"CliCodigo" : 10200265702,
-		"CliContacNombre" : "Eddy",
-		"CliContacApellidos" : "Mendoza Torres",
-		"CliContacCI" : "67051301248",
-		"CliContacCargo" : "4-7,11 Esp. Logístico",
-		"CliContacTlfno" : "76821942-44 ext 103",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 2
+		"CliContacEmail" : "luis.alberto@vitral.cu"
 	},
 	{
 		"CliContacId" : 10,
@@ -6129,122 +3012,7 @@
 		"CliContacCargo" : "Téc en Seg y Salud",
 		"CliContacTlfno" : "711340",
 		"CliContacCiudadania" : " Cubana",
-		"CliContacEmail" : "odelaisi@stgo.emserpet.cupet.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 11,
-		"CliCodigo" : 10200103200,
-		"CliContacNombre" : "Clarivel",
-		"CliContacApellidos" : "Suárez Hernández",
-		"CliContacCI" : "63100722315",
-		"CliContacCargo" : "01 Tecnóloga",
-		"CliContacTlfno" : "",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "dania@vidlisa.minem.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 11,
-		"CliCodigo" : 10200265702,
-		"CliContacNombre" : "Nelson",
-		"CliContacApellidos" : "Carro Valdéz",
-		"CliContacCI" : "72100714484",
-		"CliContacCargo" : "4-7,11 Balancista",
-		"CliContacTlfno" : "76821942-44 ext 103",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 2
-	},
-	{
-		"CliContacId" : 13,
-		"CliCodigo" : 10200417000,
-		"CliContacNombre" : "RICARDO",
-		"CliContacApellidos" : "Rodríguez Guera",
-		"CliContacCI" : "75022540001",
-		"CliContacCargo" : "01 Director general",
-		"CliContacTlfno" : "78708207",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
-	},
-	{
-		"CliContacId" : 14,
-		"CliCodigo" : 10200417000,
-		"CliContacNombre" : "OMAYDA",
-		"CliContacApellidos" : "Ibañez Pinto",
-		"CliContacCI" : "72010803759",
-		"CliContacCargo" : "01 Directora Comercial",
-		"CliContacTlfno" : "78782655",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "omaida@vitec.minem.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 15,
-		"CliCodigo" : 10200417000,
-		"CliContacNombre" : "Luis",
-		"CliContacApellidos" : "Metias Hernández",
-		"CliContacCI" : "51022410084",
-		"CliContacCargo" : "J´Seguridad y Protección",
-		"CliContacTlfno" : "78708207",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
-	},
-	{
-		"CliContacId" : 17,
-		"CliCodigo" : 10200417000,
-		"CliContacNombre" : "Juan Carlos",
-		"CliContacApellidos" : "López",
-		"CliContacCI" : "92113049886",
-		"CliContacCargo" : "01 Informático",
-		"CliContacTlfno" : "78796168",
-		"CliContacCiudadania" : "",
-		"CliContacEmail" : "",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 0
+		"CliContacEmail" : "odelaisi@stgo.emserpet.cupet.cu"
 	},
 	{
 		"CliContacId" : 98,
@@ -6255,13 +3023,6 @@
 		"CliContacCargo" : "Esp. B Mtto Industrial",
 		"CliContacTlfno" : "32413293",
 		"CliContacCiudadania" : "`Cubana",
-		"CliContacEmail" : "alcides.rodriguez@eccmg.cupet.cu",
-		"CliContacFoto" : "",
-		"CliContacFirma" : "",
-		"CliContacFotoName" : "",
-		"CliContacFotoType" : "",
-		"CliContacFirmaName" : "",
-		"CliContacFirmaType" : "",
-		"CliContacEstado" : 1
+		"CliContacEmail" : "alcides.rodriguez@eccmg.cupet.cu"
 	}
 ]}

@@ -11,10 +11,6 @@
   "codigo_reup_o_ci",
   "column_break_idzy",
   "codigo_nit",
-  "section_break_slhj",
-  "clicodigo",
-  "column_break_eiow",
-  "clicategoria",
   "section_break_zvzc",
   "nuevo_cliente",
   "column_break_qkiv",
@@ -25,6 +21,12 @@
   "reemplazar_ficha",
   "column_break_przp",
   "anadir_contactos",
+  "section_break_rilu",
+  "codigo_registro_comercial",
+  "column_break_syfy",
+  "organismo",
+  "column_break_sbbk",
+  "union",
   "empresa_o_forma_de_gestion_no_estatal_section",
   "nombre_empresa",
   "direccion_empresa",
@@ -33,6 +35,10 @@
   "provincia_empresa",
   "municipio_empresa",
   "email_empresa",
+  "section_break_slhj",
+  "clicodigo",
+  "column_break_eiow",
+  "clicategoria",
   "ueb_o_dependencia_autorizada_a_firmar_contrator_section",
   "nombre_ueb",
   "direccion_ueb",
@@ -62,7 +68,11 @@
   "column_break_hmlh",
   "firma_dir_economico",
   "autorizadas_comprar_facturar",
-  "contactos_clientes_tm"
+  "contactos_clientes_tm",
+  "datos_bancarios",
+  "moneda_cup",
+  "column_break_onwj",
+  "moneda_mlc"
  ],
  "fields": [
   {
@@ -113,8 +123,7 @@
   {
    "fieldname": "municipio_empresa",
    "fieldtype": "Select",
-   "label": "Municipio",
-   "options": ""
+   "label": "Municipio"
   },
   {
    "fieldname": "nombre_ueb",
@@ -135,8 +144,7 @@
   {
    "fieldname": "municipio_ueb",
    "fieldtype": "Select",
-   "label": "Municipio",
-   "options": ""
+   "label": "Municipio"
   },
   {
    "fieldname": "telefono_ueb",
@@ -159,8 +167,9 @@
   },
   {
    "fieldname": "codigo_reup_o_ci",
-   "fieldtype": "Data",
-   "label": "Codigo REUP o CI"
+   "fieldtype": "Link",
+   "label": "Codigo REUP o CI",
+   "options": "NomReeup"
   },
   {
    "fieldname": "column_break_idzy",
@@ -322,7 +331,7 @@
   {
    "fieldname": "clicodigo",
    "fieldtype": "Data",
-   "label": "Codigo",
+   "label": "Codigo Siscont",
    "unique": 1
   },
   {
@@ -344,11 +353,61 @@
    "fieldtype": "Table",
    "label": "Contactos",
    "options": "Contactos Clientes TM"
+  },
+  {
+   "fieldname": "section_break_rilu",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "codigo_registro_comercial",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo Registro Comercial"
+  },
+  {
+   "fieldname": "column_break_syfy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_sbbk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "organismo",
+   "fieldtype": "Link",
+   "label": "Organismo",
+   "options": "NomOrganismos"
+  },
+  {
+   "fieldname": "union",
+   "fieldtype": "Link",
+   "label": "Uni\u00f3n",
+   "options": "NomUniones"
+  },
+  {
+   "fieldname": "datos_bancarios",
+   "fieldtype": "Section Break",
+   "label": "Datos Bancarios"
+  },
+  {
+   "fieldname": "moneda_cup",
+   "fieldtype": "Link",
+   "label": "Moneda Nacional",
+   "options": "Bank"
+  },
+  {
+   "fieldname": "moneda_mlc",
+   "fieldtype": "Link",
+   "label": "Moneda Libremente Convertible",
+   "options": "Bank"
+  },
+  {
+   "fieldname": "column_break_onwj",
+   "fieldtype": "Column Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-11-04 09:21:02.448426",
+ "modified": "2024-11-05 20:34:20.584463",
  "modified_by": "Administrator",
  "module": "Tm CRM",
  "name": "Clientes TM",

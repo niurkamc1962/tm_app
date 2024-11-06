@@ -7,7 +7,7 @@ frappe.listview_settings["Clientes TM"] = {
           frappe.call({
             method: "tm_app.utils.importa_nomencladores.import_nomencladores",
             args: {
-              doctype_a: "CLIENTES_TM_LRLPCR",
+              doctype_a: "CLIENTES_TM_L",
               doctype_b: "SCOCLIENTECONTACTOS_NAC",
             },
             callback: function (response) {
@@ -23,7 +23,7 @@ frappe.listview_settings["Clientes TM"] = {
                 // Procesar cada cliente
                 for (var i in clientes_tm) {
                   (function (item) {
-                    console.log("Datos a enviar: ", item);
+                    // console.log("Datos a enviar: ", item);
                     frappe.call({
                       method:
                         "tm_app.tm_crm.doctype.clientes_tm.clientes_tm.inserta_actualiza_cliente_tm",
@@ -33,7 +33,7 @@ frappe.listview_settings["Clientes TM"] = {
                       },
                       callback: function (response) {
                         if (response.message) {
-                          console.log("Callback:", response.message);
+                          console.log("Cliente Insertado:", response.message);
                           frappe.show_alert({
                             message:
                               __("Cliente ") +
@@ -41,12 +41,19 @@ frappe.listview_settings["Clientes TM"] = {
                               __(" insertado o actualizado correctamente."),
                             indicator: "green",
                           });
+                        } else {
+                          console.error("Respuesta inesperada: ", response);
+                          frappe.show_alert({
+                            message: __("No se recibio cliente valido"),
+                            indicator: 'red'
+                          });
                         }
+                        
                         processedItems++;
                         checkCompletion();
                       },
                       error: function (err) {
-                        console.error("Error al insertar o actualizar:", err);
+                        // console.error("Error al insertar o actualizar:", err);
                         frappe.show_alert({
                           message:
                             __("Error al insertar o actualizar") +
@@ -63,6 +70,7 @@ frappe.listview_settings["Clientes TM"] = {
 
                 // Función para procesar contactos
                 function processContactos(contactos) {
+                  console.log("Entre en procesar contacto: ", contactos)
                   for (let j = 0; j < contactos.length; j++) {
                     // Cambiar var a let
                     let contacto = contactos[j]; // Captura el contacto actual
