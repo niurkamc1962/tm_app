@@ -40,13 +40,13 @@ def inserta_actualiza_proveedor_extranjero(dato):
 
         # verificando si ya existe ese codigo mincex en el doctype
         existe_proveedor = frappe.db.exists(
-            "Proveedor Extranjero TM", {"codigo_mincex": dato["CliCodigo"]}
+            "Proveedor Extranjero TM", {"clicodigo": dato["CliCodigo"]}
         )
         print(
             f"existe_proveedor: ",
             existe_proveedor,
-            " con codigo ",
-            dato["CliCodigo"],
+            " con nombre ",
+            dato["CliDescripcionLarga"],
             "y CliPaisCodIntern ",
             dato["CliPaisCodIntern"],
         )
@@ -54,11 +54,14 @@ def inserta_actualiza_proveedor_extranjero(dato):
         if existe_proveedor:
             # Obtener el documento existente
             doc = frappe.get_doc("Proveedor Extranjero TM", existe_proveedor)
-            codigo_mincex = doc.codigo_mincex
+            clicodigo = doc.clicodigo
             
-            print(f"Actualizando Proveedor con codigo: {codigo_mincex}")
+            print(f"Actualizando Proveedor con codigo: {clicodigo}")
             
+            doc.clicategoria = dato["CliCategoria"]
+            doc.clicodigoimpresion = dato["CliCodImpresion"]
             doc.nombre_compania = dato["CliDescripcionLarga"]
+            doc.codigo_mincex = dato["CliCodigoComercial"]
             doc.fecha_actualizacion = fecha_modif
             doc.siglas = dato["CliDescripcion"]
             doc.domicilio_legal = dato["CliDireccion"]
@@ -70,22 +73,26 @@ def inserta_actualiza_proveedor_extranjero(dato):
             doc.save()
 
             # chequeando si ya tiene junta directiva insertada
+            print(f"Antes del junta directiva el doc.name {doc.name} que es clidodigo")
             inserta_actualiza_junta_directiva(
                 doc.name, dato["CliCMNombre"], dato['CliCMCargo'], dato["CliCMTlfno"]
             )
 
             return {
                 "success": True,
-                "message": f"Proveedor {codigo_mincex} *** actualizado ***",
+                "message": f"Proveedor {clicodigo} *** actualizado ***",
             }
         else:
-            print(f"*** CREANDO nuevo Proveedor ", dato["CliCodigo"], "***")
-
+            print(f"*** CREANDO nuevo Proveedor ", dato["CliCodigo"], "con nombre ", dato["CliDescripcionLarga"], "***")
+            
             # insertar nuevo registro de Proveedor
             proveedor_doc = frappe.get_doc(
                 {
                     "doctype": "Proveedor Extranjero TM",
-                    "codigo_mincex": dato["CliCodigo"],
+                    "codigo_mincex": dato["CliCodigoComercial"],
+                    "clicodigo": dato["CliCodigo"],
+                    "clicategoria": dato["CliCategoria"],
+                    "clicodigoimpresion": dato["CliCodImpresion"],
                     "nombre_compania": dato["CliDescripcionLarga"],
                     "fecha_actualizacion": fecha_modif,
                     "siglas": dato["CliDescripcion"],
@@ -101,6 +108,7 @@ def inserta_actualiza_proveedor_extranjero(dato):
 
             # Obteniendo el id del proveedor al que pertenece la junta directiva
             proveedor_id = proveedor_doc.name
+            print(f"En el nuevo proveedor antes de junta directiva el id es {proveedor_id}")
 
             inserta_actualiza_junta_directiva(
                 proveedor_id,
@@ -111,7 +119,7 @@ def inserta_actualiza_proveedor_extranjero(dato):
 
             return {
                 "success": True,
-                "message": f" Insertado proveedor {dato['CliCodigo']} | Compania {dato['CliDescripcion']} ",
+                "message": f" Insertado proveedor {dato['CliCodigo']} | Nombre {dato['CliDescripcionLarga']} ",
             }
     except frappe.exceptions.ValidationError as e:
         return {"success": False, "message": f"Error de validación: {str(e)}"}
@@ -121,6 +129,7 @@ def inserta_actualiza_proveedor_extranjero(dato):
             "message": "No se encontró el documento para actualizar.",
         }
     except Exception as e:
+        print(f"Error inesperado en el proveedor {dato['CliCodigo']}")
         return {"success": False, "message": f"Error inesperado: {str(e)}"}
 
 
@@ -130,9 +139,7 @@ def busca_code_pais(codigo_pais):
     existe_pais = frappe.db.get_value(
         "Country", {"custom_paiscodintern": codigo_pais}, "name"
     )
-
     return existe_pais
-
 
 
 # Insertando o actualizando junta directiva del proveedor extranjero
@@ -190,11 +197,11 @@ def inserta_actualiza_contactos_proveedor_ext(contacto):
         
         # Buscando el id del Proveedor para asignarlo en la insercion 
         existe_proveedor = frappe.db.exists(
-            "Proveedor Extranjero TM", {"codigo_mincex": contacto_codigo}
+            "Proveedor Extranjero TM", {"clicodigo": contacto_codigo}
         )
         if existe_proveedor:
             doc = frappe.get_doc("Proveedor Extranjero TM", existe_proveedor)
-            proveedor_id = doc.codigo_mincex
+            proveedor_id = doc.clicodigo
             
             # concatenando nombre y apellidos
             nombre_completo = f"{contacto_nombre} {contacto_apellidos}"

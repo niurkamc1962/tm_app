@@ -1,12 +1,18 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:codigo_mincex",
+ "autoname": "format:{clicodigo}",
  "creation": "2024-08-22 20:26:24.020567",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
   "nombre_compania",
+  "section_break_akmj",
+  "clicodigo",
+  "column_break_kzcb",
+  "clicategoria",
+  "column_break_gfjd",
+  "clicodigoimpresion",
   "section_break_snpy",
   "fecha_actualizacion",
   "column_break_buyy",
@@ -17,7 +23,7 @@
   "column_break_unrp",
   "ciudad",
   "codigo_postal",
-  "tel\u00e9fonos",
+  "telefonos",
   "email",
   "column_break_fter",
   "distrito",
@@ -107,11 +113,6 @@
    "fieldname": "ciudad",
    "fieldtype": "Data",
    "label": "Ciudad"
-  },
-  {
-   "fieldname": "tel\u00e9fonos",
-   "fieldtype": "Data",
-   "label": "Tel\u00e9fonos"
   },
   {
    "fieldname": "email",
@@ -393,9 +394,7 @@
   {
    "fieldname": "codigo_mincex",
    "fieldtype": "Data",
-   "label": "C\u00f3digo MINCEX",
-   "reqd": 1,
-   "unique": 1
+   "label": "Codigo Mincex"
   },
   {
    "fieldname": "nombre_compania",
@@ -419,15 +418,48 @@
    "in_list_view": 1,
    "label": "Pa\u00eds",
    "options": "Country"
+  },
+  {
+   "fieldname": "telefonos",
+   "fieldtype": "Data",
+   "label": "Tel\u00e9fonos"
+  },
+  {
+   "fieldname": "section_break_akmj",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "clicodigo",
+   "fieldtype": "Data",
+   "label": "Codigo Siscont"
+  },
+  {
+   "fieldname": "column_break_kzcb",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "clicategoria",
+   "fieldtype": "Link",
+   "label": "Categoria Proveedor",
+   "options": "NomCategClienteProveedor"
+  },
+  {
+   "fieldname": "column_break_gfjd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "clicodigoimpresion",
+   "fieldtype": "Data",
+   "label": "Codigo Impresion Siscont"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-10-12 22:28:59.043024",
+ "modified": "2024-11-12 12:44:21.753525",
  "modified_by": "Administrator",
  "module": "Tm CRM",
  "name": "Proveedor Extranjero TM",
- "naming_rule": "By fieldname",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {

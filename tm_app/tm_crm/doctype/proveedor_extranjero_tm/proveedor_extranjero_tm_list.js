@@ -1,7 +1,7 @@
 frappe.listview_settings["Proveedor Extranjero TM"] = {
   onload: function (listview) {
     if (frappe.user.has_role("Administrator")) {
-      listview.page.add_inner_button(__("Importar Proveedores"), function () {
+      listview.page.add_inner_button(__("Import. Proveedores"), function () {
         frappe.call({
           method: "tm_app.utils.importa_nomenclador.import_nomenclador",
           args: {
@@ -61,9 +61,9 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
         });
       });
 
-      // Creando el boton para importar los contactos
+      // Creando el boton para importar los contactos extranjeros
       const importContactButton = listview.page.add_inner_button(
-        __("Importar Contactos"),
+        __("Importar Contactos Ext"),
         function () {
           // Verificando si hay proveedores en el doctype para importar los contactos
           frappe.call({
@@ -150,8 +150,103 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
         }
       );
 
-      // Inicialmente, deshabilitar el botón de importar contactos
+      // Creando el boton para importar los contactos Nacionales
+      const importContactButtonNac = listview.page.add_inner_button(
+        __("Import. Contactos Nac"),
+        function () {
+          // Verificando si hay proveedores en el doctype para importar los contactos nac
+          frappe.call({
+            method: "frappe.client.get_list",
+            args: {
+              doctype: "Proveedor Extranjero TM",
+              fields: ["name"], // Solo se necesita el nombre o ID para verificar si hay datos en el doctype
+            },
+            callback: function (response) {
+              if (response.message && response.message.length > 0) {
+                // Existe al menos un proveedor por lo que paso a procesar los contactos nac
+                frappe.call({
+                  method: "tm_app.utils.importa_nomenclador.import_nomenclador",
+                  args: {
+                    doctype: "SCOCLIENTECONTACTOS_NAC",
+                  },
+                  callback: function (response) {
+                    if (response.message) {
+                      var json = response.message;
+                      var clientes_contactos_nac = json.SCOCLIENTECONTACTOS_NAC;
+
+                      for (var i in clientes_contactos_nac) {
+                        (function (dato) {
+                          frappe.call({
+                            method:
+                              "tm_app.tm_crm.doctype.proveedor_extranjero_tm.proveedor_extranjero_tm.inserta_actualiza_contactos_proveedor_ext",
+                            args: {
+                              contacto: dato,
+                            },
+                            callback: function (response) {
+                              if (response.message) {
+                                console.log("Callback:", response.message);
+                                frappe.show_alert({
+                                  message:  __("Contacto ") + dato.CliContacNombre + __(" insertado o actualizado correctamente."),
+                                  indicator: "green",
+                                });
+                              }
+                            },
+                            error: function (err) {
+                              console.error(
+                                "Error al insertar o actualizar: ",
+                                err
+                              );
+                              frappe.show_alert({
+                                message:  __("Contacto ") + dato.CliContacNombre + __(" ERROR al insertar o actualizar"),
+                                indicator: "red",
+                              });
+                            },
+                          });
+                        })(clientes_contactos_nac[i]);
+                      }
+
+                      frappe.show_alert({
+                        message: __("Contactos importados correctamente"),
+                        indicator: "green",
+                      });
+                    } else {
+                      frappe.show_alert({
+                        message: __("No se obtuvo respuesta del servidor"),
+                        indicator: "red",
+                      });
+                    }
+                  },
+                  error: function (err) {
+                    frappe.show_alert({
+                      message: __(
+                        "Error al ejecutar la accion: " + err.message
+                      ),
+                      indicator: "red",
+                    });
+                  },
+                });
+              } else {
+                // No hay proveedores por lo que se muestra advertencia
+                frappe.show_alert({
+                  message: __(
+                    "No hay proveedores insertados, No se pueden importar los contactos"
+                  ),
+                  indicator: "orange",
+                });
+              }
+            },
+          });
+        }
+      );
+
+
+
+
+      // Inicialmente, deshabilitar el botón de importar contactos ext
       importContactButton.prop("disabled", true);
+
+      // Inicialmente, deshabilitar el botón de importar contactos nac
+      importContactButtonNac.prop("disabled", true);
 
       // Verificar si hay proveedores al cargar la lista
       frappe.call({
@@ -162,8 +257,9 @@ frappe.listview_settings["Proveedor Extranjero TM"] = {
         },
         callback: function (response) {
           if (response.message && response.message.length > 0) {
-            // Habilitar el botón si hay proveedores
+            // Habilitar botones de contactos si hay proveedores
             importContactButton.prop("disabled", false);
+            importContactButtonNac.prop("disabled", false);
           }
         },
       });
