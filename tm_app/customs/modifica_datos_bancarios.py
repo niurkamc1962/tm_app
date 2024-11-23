@@ -112,6 +112,7 @@ def actualiza_cuenta_bancaria(banco_id, cuenta_bancaria):
     cuenta_bancaria_doc.custom_clidbcuenta = cuenta_bancaria["CliDBCuenta"]
     cuenta_bancaria_doc.custom_clidbswift = cuenta_bancaria["CliDBSWIFT"]
     cuenta_bancaria_doc.custom_clidbcodmon = moneda if moneda else None
+    cuenta_bancaria_doc.custom_clidbnrotransit = cuenta_bancaria["CliDBNroTransit"]
     cuenta_bancaria_doc.save()
     return {"success": True, "message":f"Actualizada la cuenta bancaria {cuenta_bancaria_doc.account_name}"}
 
@@ -128,7 +129,8 @@ def crear_cuenta_bancaria(banco_id, cuenta_bancaria):
             "custom_entfinancodigo": cuenta_bancaria["EntFinanCodigo"],
             "custom_clicodigo": cuenta_bancaria["CliCodigo"],
             "custom_clidbid": cuenta_bancaria["CliDBId"],
-            "custom_clidbcodmon": moneda if moneda else None
+            "custom_clidbcodmon": moneda if moneda else None,
+            "custom_clidbnrotransit": cuenta_bancaria["CliDBNroTransit"]
         }
     )
     nueva_cuenta_bancaria.insert()
