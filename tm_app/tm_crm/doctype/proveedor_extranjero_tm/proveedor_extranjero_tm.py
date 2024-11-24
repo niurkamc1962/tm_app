@@ -42,21 +42,12 @@ def inserta_actualiza_proveedor_extranjero(dato):
         existe_proveedor = frappe.db.exists(
             "Proveedor Extranjero TM", {"clicodigo": dato["CliCodigo"]}
         )
-        print(
-            f"existe_proveedor: ",
-            existe_proveedor,
-            " con nombre ",
-            dato["CliDescripcionLarga"],
-            "y CliPaisCodIntern ",
-            dato["CliPaisCodIntern"],
-        )
+        
 
         if existe_proveedor:
             # Obtener el documento existente
             doc = frappe.get_doc("Proveedor Extranjero TM", existe_proveedor)
             clicodigo = doc.clicodigo
-            
-            print(f"Actualizando Proveedor con codigo: {clicodigo}")
             
             doc.clicategoria = dato["CliCategoria"]
             doc.clicodigoimpresion = dato["CliCodImpresion"]
@@ -73,18 +64,18 @@ def inserta_actualiza_proveedor_extranjero(dato):
             doc.save()
 
             # chequeando si ya tiene junta directiva insertada
-            print(f"Antes del junta directiva el doc.name {doc.name} que es clidodigo")
             inserta_actualiza_junta_directiva(
                 doc.name, dato["CliCMNombre"], dato['CliCMCargo'], dato["CliCMTlfno"]
             )
-
+            # Buscar las cuentas bancarias para asociarlas al proveedor extranjero
+            inserta_actualiza_cuentas_bancarias(dato["CliCodigo"])
+            
             return {
                 "success": True,
                 "message": f"Proveedor {clicodigo} *** actualizado ***",
             }
         else:
-            print(f"*** CREANDO nuevo Proveedor ", dato["CliCodigo"], "con nombre ", dato["CliDescripcionLarga"], "***")
-            
+           
             # insertar nuevo registro de Proveedor
             proveedor_doc = frappe.get_doc(
                 {
@@ -108,19 +99,22 @@ def inserta_actualiza_proveedor_extranjero(dato):
 
             # Obteniendo el id del proveedor al que pertenece la junta directiva
             proveedor_id = proveedor_doc.name
-            print(f"En el nuevo proveedor antes de junta directiva el id es {proveedor_id}")
-
+            
             inserta_actualiza_junta_directiva(
                 proveedor_id,
                 dato["CliCMNombre"],
                 dato["CliCMCargo"],
                 dato["CliCMTlfno"]    
             )
-
+            
+            # Buscar las cuentas bancarias para asociarlas al proveedor extranjero
+            inserta_actualiza_cuentas_bancarias(dato["CliCodigo"])
+            
             return {
                 "success": True,
                 "message": f" Insertado proveedor {dato['CliCodigo']} | Nombre {dato['CliDescripcionLarga']} ",
             }
+        
     except frappe.exceptions.ValidationError as e:
         return {"success": False, "message": f"Error de validación: {str(e)}"}
     except frappe.exceptions.DoesNotExistError:
@@ -144,7 +138,6 @@ def busca_code_pais(codigo_pais):
 
 # Insertando o actualizando junta directiva del proveedor extranjero
 def inserta_actualiza_junta_directiva(proveedor_id, nombre, cargo, telefono):
-    print (f"Junta directiva con nombre {nombre} y cargo {cargo} y PROVEEDOR {proveedor_id}")
     # primero busco si ya se inserto para que no este repetido
     existe_junta_directiva = frappe.db.exists(
         "Junta Directiva Proveedor Extranjero", {"nombre": nombre, "cargo": cargo}
@@ -205,8 +198,7 @@ def inserta_actualiza_contactos_proveedor_ext(contacto):
             
             # concatenando nombre y apellidos
             nombre_completo = f"{contacto_nombre} {contacto_apellidos}"
-            print(f"Nombre Completo: {nombre_completo}")
-            
+                        
             # preguntando si ya se inserto este contacto del proveedor para no tenerlo repetido
             
             existe_contacto_proveedor_ext = frappe.db.exists(
@@ -219,8 +211,7 @@ def inserta_actualiza_contactos_proveedor_ext(contacto):
             )
             
             if existe_contacto_proveedor_ext:
-                print(f"Existe el contacto {nombre_completo}")
-                # indica que ya esta insertada por lo que lo obtengo para actualizar 
+                            # indica que ya esta insertada por lo que lo obtengo para actualizar 
                 contacto_proveedor_doc = frappe.get_doc(
                     "Contactos Proveedor Extranjero", existe_contacto_proveedor_ext
                 )        
@@ -248,3 +239,68 @@ def inserta_actualiza_contactos_proveedor_ext(contacto):
         return {"Success": False, "message": str(e)}
     
     
+    
+# Funcion para buscar las cuentas bancarias y asociarlas al proveedor en el doctype Datos Bancarios Proveedor Ext TM
+def inserta_actualiza_cuentas_bancarias(clicodigo):
+    existen_cuentas_bancarias = frappe.get_all("Bank Account", filters={"custom_clicodigo": clicodigo})
+    if existen_cuentas_bancarias:
+    # existen por lo que paso a insertarlas o actualizarlas en Datos Bancarios Proveedor Ext TM
+        for cuenta in existen_cuentas_bancarias:
+            # buscando los datos de la cuenta bancaria en BANK ACCOUNT
+            doc_bank_account = frappe.get_doc("Bank Account", cuenta['name'])
+            # asignando los valores a variables
+            cuenta_bancaria_id = doc_bank_account.name
+            cuenta_bancaria_no_cuenta = doc_bank_account.custom_clidbcuenta
+            cuenta_bancaria_swift = doc_bank_account.custom_clidbswift
+            cuenta_bancaria_tipo_moneda = doc_bank_account.custom_clidbcodmon
+            cuenta_bancaria_clicodigo = doc_bank_account.custom_clicodigo
+            cuenta_bancaria_entfinancodigo = doc_bank_account.custom_entfinancodigo
+            cuenta_bancaria_clidbnrotransit = doc_bank_account.custom_clidbnrotransit
+            
+            # buscando la direccion del banco y el nombre
+            print(f"Buscar datos del banco con entfinancodigo {cuenta_bancaria_entfinancodigo}")
+            existe_banco = frappe.get_all("Bank", filters={"custom_entfinancodigo": cuenta_bancaria_entfinancodigo})
+            print(f"Existe Banco: {existe_banco}")
+            if existe_banco:
+                datos_banco = frappe.get_doc("Bank", existe_banco[0]['name'])
+                banco_nombre = datos_banco.name
+                banco_direccion = datos_banco.custom_entfinandireccion
+                print(f"DATOS del BANCO nombre {banco_nombre} con direccion {banco_direccion}")
+            else:
+                print(f"No se encontro banco con el codigo {cuenta_bancaria_entfinancodigo}")
+                
+            # buscando si ya esta en Datos Bancarios Proveedor Ext TM
+            existe_cuenta_tm = frappe.db.exists("Datos Bancarios Proveedor Ext TM", {"cuenta_bancaria": cuenta_bancaria_id})
+            if existe_cuenta_tm:
+                doc_cuenta_tm = frappe.get_doc("Datos Bancarios Proveedor Ext TM", existe_cuenta_tm)
+                # actualizo Cuenta Bancaria TM
+                doc_cuenta_tm.no_cuenta = cuenta_bancaria_no_cuenta
+                doc_cuenta_tm.swift = cuenta_bancaria_swift
+                doc_cuenta_tm.tipo_moneda = cuenta_bancaria_tipo_moneda
+                doc_cuenta_tm.no_transit = cuenta_bancaria_clidbnrotransit
+                doc_cuenta_tm.banco = banco_nombre if banco_nombre else None
+                doc_cuenta_tm.direccion = banco_direccion if banco_direccion else None
+                doc_cuenta_tm.save()                
+            else:
+                # Creando cuenta bancaria en TM
+                doc_cuenta_tm = frappe.get_doc({
+                    "doctype": "Datos Bancarios Proveedor Ext TM",
+                    "cuenta_bancaria": cuenta_bancaria_id,
+                    "clicodigo": cuenta_bancaria_clicodigo,
+                    "no_cuenta": cuenta_bancaria_no_cuenta,
+                    "swift": cuenta_bancaria_swift,
+                    "tipo_moneda": cuenta_bancaria_tipo_moneda,
+                    'no_transit': cuenta_bancaria_clidbnrotransit,
+                    'banco': banco_nombre if banco_nombre else None,
+                    'direccion': banco_direccion if banco_direccion else None,
+                    "parent": clicodigo,
+                    "parenttype": "Proveedor Extranjero TM",
+                    "parentfield": "datos_bancarios_proveedor_ext_tm"
+                })
+                doc_cuenta_tm.insert()
+                
+                print(f"Creada la cuenta bancaria en TM {cuenta_bancaria_no_cuenta} con clicodigo {cuenta_bancaria_clicodigo}")
+        return {"susccess": True, "message": "Insertadas las cuentas bancarias"}
+    else:
+        print(f"No existen cuentas bancarias de {clicodigo}")
+        return {"success": False, "message": f"Error inesperado cuenta bancaria con Clicodigo: {clicodigo}"}

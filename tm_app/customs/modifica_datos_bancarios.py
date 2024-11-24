@@ -25,7 +25,6 @@ def actualiza_datos_bancarios_de_siscont(doctype_a, doctype_b):
  
 @frappe.whitelist()
 def procesa_informacion_bancaria(bancos, cuentas_bancarias):
-    print("ENTRE En procesa_informacion _bancaria")
     # Obteniendo los datos de los bancos y despues procesar las cuentas del mismo
     for banco in bancos:
         entfinancodigo = banco["EntFinanCodigo"]
@@ -67,22 +66,27 @@ def procesa_informacion_bancaria(bancos, cuentas_bancarias):
 
 # Funcion para actualizar los datos del banco
 def actualizar_banco(banco_name, banco):
+    pais = busca_code_pais(banco["PaisCodIntern"])
     banco_doc = frappe.get_doc("Bank", {"bank_name": banco_name})
-    banco_doc.address_html = banco["EntFinanDireccion"]
     banco_doc.custom_entfinancodigo = banco["EntFinanCodigo"]
+    banco_doc.custom_entfinandireccion = banco["EntFinanDireccion"]
+    banco_doc.custom_entfinanactivo = banco["EntFinanActivo"]
+    banco_doc.custom_paiscodintern = pais if pais else None
     banco_doc.save()
     return{ banco_doc}
     
     
 # Funcion para crear el nuevo banco
 def crear_banco(banco):
-    print(f"Entre en crear banco {banco}")
+    pais = busca_code_pais(banco["PaisCodIntern"])
     nuevo_banco = frappe.get_doc(
         {
             "doctype": "Bank",
             "bank_name": banco["EntFinanDescripcion"],
-            "address_html": banco["EntFinanDireccion"],
-            "custom_entfinancodigo": banco["EntFinanCodigo"]
+            "custom_entfinandireccion": banco["EntFinanDireccion"],
+            "custom_entfinancodigo": banco["EntFinanCodigo"],
+            "custom_entfinanactivo": banco["EntFinanActivo"],
+            "custom_paiscodintern": pais if pais else None
         }
     )
     
@@ -105,7 +109,6 @@ def crear_banco(banco):
 # Funcion para actualizar la cuenta bancaria
 def actualiza_cuenta_bancaria(banco_id, cuenta_bancaria):
     moneda = busca_moneda(cuenta_bancaria["CliDBCodMon"])
-    print(f"Moneda: {moneda} de la cuenta {cuenta_bancaria['CliDBTitular']}")
     cuenta_bancaria_doc = frappe.get_doc("Bank Account", {"custom_clidbcuenta": cuenta_bancaria["CliDBCuenta"], "account_name": cuenta_bancaria["CliDBTitular"]})
     cuenta_bancaria_doc.account_name = cuenta_bancaria["CliDBTitular"]
     cuenta_bancaria_doc.bank = banco_id
@@ -141,3 +144,11 @@ def crear_cuenta_bancaria(banco_id, cuenta_bancaria):
 def busca_moneda(dato_moneda):
     moneda_id = frappe.get_value("NomMonedas", {"moncodigo": dato_moneda})
     return moneda_id
+
+# Funcion para buscar el id del codigo del pais
+def busca_code_pais(codigo_pais):
+    # existe_pais = frappe.db.exists("Country", {"custom_paiscodintern": codigo_pais})
+    existe_pais = frappe.db.get_value(
+        "Country", {"custom_paiscodintern": codigo_pais}, "name"
+    )
+    return existe_pais

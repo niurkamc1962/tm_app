@@ -7,12 +7,6 @@
  "engine": "InnoDB",
  "field_order": [
   "nombre_compania",
-  "section_break_akmj",
-  "clicodigo",
-  "column_break_kzcb",
-  "clicategoria",
-  "column_break_gfjd",
-  "clicodigoimpresion",
   "section_break_snpy",
   "fecha_actualizacion",
   "column_break_buyy",
@@ -44,22 +38,15 @@
   "no_empleados",
   "column_break_pkcm",
   "capital",
-  "bancos_con_los_que_trabaja_en_el_pa\u00eds_origen_section",
-  "banco_1_moneda_de_pago",
-  "banco_1_nombre_del_banco",
-  "banco_1_cuenta_bancaria",
-  "banco_1_n\u00famero_transt",
-  "column_break_ifvk",
-  "banco_1_direcci\u00f3n",
-  "banco_1_c\u00f3digo_switch",
-  "section_break_bfrx",
-  "banco_2_nombre_del_banco",
-  "banco_2_moneda_de_pago",
-  "banco_2_cuenta_bancaria",
-  "banco_2_n\u00famero_transt",
-  "column_break_ezli",
-  "banco_2_direcci\u00f3n",
-  "banco_2_c\u00f3digo_switch",
+  "section_break_akmj",
+  "clicodigo",
+  "column_break_kzcb",
+  "clicategoria",
+  "column_break_gfjd",
+  "clicodigoimpresion",
+  "datos_bancarios_tab",
+  "cuentas_bancarias_section",
+  "datos_bancarios_proveedor_ext_tm",
   "casa_matriz_de_su_compa\u00f1\u00eda_en_caso_de_proceder_section",
   "casa_matr\u00edz",
   "section_break_zrqd",
@@ -70,6 +57,7 @@
   "email_cuba",
   "fax_cuba",
   "tel\u00e9fonos_cuba",
+  "productos_y_empresas_comercializa_tab",
   "productos_que_comercializa_section",
   "productos",
   "actividad_section",
@@ -203,83 +191,6 @@
    "fieldname": "capital",
    "fieldtype": "Data",
    "label": "Capital"
-  },
-  {
-   "fieldname": "bancos_con_los_que_trabaja_en_el_pa\u00eds_origen_section",
-   "fieldtype": "Section Break",
-   "label": "Bancos con los que trabaja en el pa\u00eds origen"
-  },
-  {
-   "fieldname": "banco_1_moneda_de_pago",
-   "fieldtype": "Data",
-   "label": "Banco 1 Moneda de Pago"
-  },
-  {
-   "fieldname": "banco_1_nombre_del_banco",
-   "fieldtype": "Data",
-   "label": "Banco 1 Nombre del Banco"
-  },
-  {
-   "fieldname": "banco_1_cuenta_bancaria",
-   "fieldtype": "Data",
-   "label": "Banco 1 Cuenta Bancaria"
-  },
-  {
-   "fieldname": "banco_1_n\u00famero_transt",
-   "fieldtype": "Data",
-   "label": "Banco 1 N\u00famero Transt."
-  },
-  {
-   "fieldname": "column_break_ifvk",
-   "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "banco_1_direcci\u00f3n",
-   "fieldtype": "Small Text",
-   "label": "Banco 1 Direcci\u00f3n"
-  },
-  {
-   "fieldname": "banco_1_c\u00f3digo_switch",
-   "fieldtype": "Data",
-   "label": "Banco 1 C\u00f3digo SWITCH"
-  },
-  {
-   "fieldname": "section_break_bfrx",
-   "fieldtype": "Section Break"
-  },
-  {
-   "fieldname": "banco_2_nombre_del_banco",
-   "fieldtype": "Data",
-   "label": "Banco 2 Nombre del Banco"
-  },
-  {
-   "fieldname": "banco_2_moneda_de_pago",
-   "fieldtype": "Data",
-   "label": "Banco 2 Moneda de Pago"
-  },
-  {
-   "fieldname": "banco_2_cuenta_bancaria",
-   "fieldtype": "Data",
-   "label": "Banco 2 Cuenta Bancaria"
-  },
-  {
-   "fieldname": "banco_2_n\u00famero_transt",
-   "fieldtype": "Data",
-   "label": "Banco 2 N\u00famero Transt."
-  },
-  {
-   "fieldname": "column_break_ezli",
-   "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "banco_2_direcci\u00f3n",
-   "fieldtype": "Small Text",
-   "label": "Banco 2 Direcci\u00f3n"
-  },
-  {
-   "fieldname": "banco_2_c\u00f3digo_switch",
-   "fieldtype": "Data",
-   "label": "Banco 2 C\u00f3digo SWITCH"
   },
   {
    "fieldname": "casa_matriz_de_su_compa\u00f1\u00eda_en_caso_de_proceder_section",
@@ -426,7 +337,8 @@
   },
   {
    "fieldname": "section_break_akmj",
-   "fieldtype": "Section Break"
+   "fieldtype": "Section Break",
+   "label": "Datos Siscont"
   },
   {
    "fieldname": "clicodigo",
@@ -451,11 +363,31 @@
    "fieldname": "clicodigoimpresion",
    "fieldtype": "Data",
    "label": "Codigo Impresion Siscont"
+  },
+  {
+   "fieldname": "datos_bancarios_tab",
+   "fieldtype": "Tab Break",
+   "label": "Datos Bancarios"
+  },
+  {
+   "fieldname": "productos_y_empresas_comercializa_tab",
+   "fieldtype": "Tab Break",
+   "label": "Productos y Empresas Comercializa"
+  },
+  {
+   "fieldname": "cuentas_bancarias_section",
+   "fieldtype": "Section Break",
+   "label": "Cuentas Bancarias"
+  },
+  {
+   "fieldname": "datos_bancarios_proveedor_ext_tm",
+   "fieldtype": "Table",
+   "options": "Datos Bancarios Proveedor Ext TM"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-11-12 12:44:21.753525",
+ "modified": "2024-11-24 17:27:54.632947",
  "modified_by": "Administrator",
  "module": "Tm CRM",
  "name": "Proveedor Extranjero TM",
